@@ -220,40 +220,6 @@
 			}
 		},
 		{
-			"name":"DiyBySantana", 
-			"displayName": "DIY by Santana",
-			"aliases":[], 
-			"author":"", 
-			"authorURL":"", 
-			"version":"1.7.0", 
-			"updated":"2022-05-10", 
-			"description":"<b>(ITEM MOD)</b> Mod to add some craftable furniture.<br>Move files in the downloaded ZIP to the Mods folder.<br><b>Note:</b> Zip files should not be moved to the Mods folder!", 
-			"thumb": "",
-			"modURL":"https://github.com/stmSantana/DIY_by_Santana", 
-			"downloadURL":"https://github.com/stmSantana/DIY_by_Santana/releases/latest/download/DiyBySantana.zip", 
-			"testedon":{
-				"tldversion":"2.0",
-				"mlversion":"0.5.4"
-			},
-			"dependencies":[
-				"ModComponent",
-				"ModSettings",
-				"GearSpawner",
-				"LocalizationUtilities",
-				"CraftingRevisions",
-				"Placing Anywhere"
-			], 
-			"updater":{
-				"enable":false, 
-				"downloads":[] 
-			},
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
-		},
-		{
 			"name":"ItemPiles", 
 			"displayName": "Item Piles Mod",
 			"aliases":[], 
