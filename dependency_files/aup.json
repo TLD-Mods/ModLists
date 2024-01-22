@@ -1,3 +1,6 @@
+[
 {
-	"Muscle": ["Moment"]
+	"Mod":"Muscle",
+	"Requires": ["Moment"]
 }
+]

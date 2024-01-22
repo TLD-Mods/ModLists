@@ -1,14 +1,17 @@
-{
-	"GearVariation": {
-		"dlc": true,
-		"requires": ["AHandyToolbox"]
+[
+	{
+		"Mod":"GearVariation",
+		"RequiresDLC": true,
+		"Requires": ["AHandyToolbox"]
 	},
-	"Indoors_Greenery_DLC": {
-		"dlc": true,
-		"requires": ["AHandyToolbox"]
+	{
+		"Mod":"Indoors_Greenery_DLC",
+		"RequiresDLC": true,
+		"Requires": ["AHandyToolbox"]
 	},
-	"Indoors_Greenery_NoDLC":{
-		"dlc": false,
-		"requires": ["AHandyToolbox"]
+	{
+		"Mod":"Indoors_Greenery_NoDLC",
+		"RequiresDLC": false,
+		"Requires": ["AHandyToolbox"]
 	}
-}
+]
