@@ -1,6 +1,14 @@
 [
-{
-	"Mod":"Muscle",
-	"Requires": ["Moment"]
-}
+	{
+		"Mod": "Muscle",
+		"Requires": [
+			"Moment"
+		]
+	},
+	{
+		"Mod": "GearVariation",
+		"Requires": [
+			"Modders' Gear Toolbox"
+		]
+	}
 ]
