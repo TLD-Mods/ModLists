@@ -1,0 +1,14 @@
+{
+	"GearVariation": {
+		"dlc": true,
+		"requires": ["AHandyToolbox"]
+	},
+	"Indoors_Greenery_DLC": {
+		"dlc": true,
+		"requires": ["AHandyToolbox"]
+	},
+	"Indoors_Greenery_NoDLC":{
+		"dlc": false,
+		"requires": ["AHandyToolbox"]
+	}
+}
