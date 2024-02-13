@@ -13,8 +13,7 @@
 		"Mod":"Indoors_Greenery_NoDLC",
 		"RequiresDLC": false,
 		"Requires": ["AHandyToolbox"]
-	}
-	,
+	},
 	{
 		"Mod":"LeatherWorks",
 		"RequiresDLC": true,
