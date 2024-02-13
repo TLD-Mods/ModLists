@@ -14,4 +14,10 @@
 		"RequiresDLC": false,
 		"Requires": ["AHandyToolbox"]
 	}
+	,
+	{
+		"Mod":"LeatherWorks",
+		"RequiresDLC": true,
+		"Requires": ["AHandyToolbox"]
+	}
 ]
