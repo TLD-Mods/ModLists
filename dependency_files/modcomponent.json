@@ -18,5 +18,23 @@
 		"Mod":"LeatherWorks",
 		"RequiresDLC": true,
 		"Requires": ["AHandyToolbox"]
+	},
+	{
+		"Mod":"DZ_Bountiful_Foraging",
+		"RequiresDLC": false,
+		"Requires": ["CandleLight"]
+	},
+	{
+		"Mod":"CL_ToolUpgrade",
+		"RequiresDLC": true,
+		"Requires": ["CandleLight"]
+	},
+	{
+		"Mod":"ToolUpgrade",
+		"RequiresDLC": true,
+		"Requires": []
 	}
+
+	
+	
 ]
