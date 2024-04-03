@@ -20,7 +20,22 @@
 		"Requires": ["AHandyToolbox"]
 	},
 	{
+		"Mod":"Bountiful_Foraging",
+		"RequiresDLC": true,
+		"Requires": []
+	},
+	{
+		"Mod":"Bountiful_Foraging_NoDLC",
+		"RequiresDLC": false,
+		"Requires": []
+	},
+	{
 		"Mod":"DZ_Bountiful_Foraging",
+		"RequiresDLC": true,
+		"Requires": ["CandleLight"]
+	},
+	{
+		"Mod":"DZ_Bountiful_Foraging_NoDLC",
 		"RequiresDLC": false,
 		"Requires": ["CandleLight"]
 	},
