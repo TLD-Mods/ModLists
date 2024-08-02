@@ -1,7 +1,8 @@
 {
-    "currentVersion": "2.31",
+	"currentVersion": "2.31",
 	"lastBigPatch": "2.23",
 	"latestGameBreaking": "2.03",
+	"melonloaderVersion":"0.6.1",
     "lists": [
         "https://gist.githubusercontent.com/Xpazeman/d4643bd7c1beb359b331ca232cc3c742/raw/xpazeman.json",
         "https://raw.githubusercontent.com/TLD-Mods/ModLists/master/zeobviouslyfakeacc.json",
@@ -37,7 +38,7 @@
         "https://raw.githubusercontent.com/Kaiusername/Mod-List/main/Kaiusername.json",
         "https://raw.githubusercontent.com/TLD-Mods/ModLists/master/ds5678.json",
         "https://raw.githubusercontent.com/TonisGaming/TLDModListJSON/main/TonisGaming.JSON",
-		"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/main/MarcyModList.json",
-		"https://raw.githubusercontent.com/B1gF1s4/TLD-ModDefinitions/main/mod.json"
+	"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/main/MarcyModList.json",
+	"https://raw.githubusercontent.com/B1gF1s4/TLD-ModDefinitions/main/mod.json"
     ]
 }
