@@ -40,5 +40,11 @@
         "https://raw.githubusercontent.com/TonisGaming/TLDModListJSON/main/TonisGaming.JSON",
 	"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/main/MarcyModList.json",
 	"https://raw.githubusercontent.com/B1gF1s4/TLD-ModDefinitions/main/mod.json"
-    ]
+    ],
+	"overrides": {
+		"CarcassYieldTweaker": {
+			"broken": true,
+			"aliases": []
+		}
+	}
 }
