@@ -48,6 +48,9 @@
 		        },
                  "WeightTweaks": {
                       "broken": true
-                        }
+                        },
+                 "CarryWeightMod":{
+                       "broken": true
+		        }
 	}
 }
