@@ -45,6 +45,9 @@
 		"CarcassYieldTweaker": {
 			"broken": true,
 			"aliases": []
-		}
+		        },
+                 "WeightTweaks": {
+                      "broken": true
+                        }
 	}
 }
