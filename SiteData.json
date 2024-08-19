@@ -49,8 +49,18 @@
                  "WeightTweaks": {
                       "broken": true
                         },
-                 "CarryWeightMod":{
+                 "CarryWeightMod": {
                        "broken": true
+		        },
+                 "BedrollTweaker": {
+                  "broken": true
+		        },
+		 "ContainerTweaks": {
+	           "broken": true
+		        },
+		"FoodTweaker": {
+                   "broken": true
 		        }
+		
 	}
 }
