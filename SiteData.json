@@ -66,8 +66,8 @@
 		"LimitlessContainerSpace": {
 			"broken": true
 		},
-		"fuelmanager": {
-			"replaces":["betterfuelmanagement"]
+		"FuelManager": {
+			"replaces":["Better-Fuel-Management"]
 		}
 	}
 }
