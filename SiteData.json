@@ -68,6 +68,9 @@
 		},
 		"FuelManager": {
 			"replaces":["Better-Fuel-Management"]
+		},
+		"PlacingAnywhere": {
+			"broken": true
 		}
 	}
 }
