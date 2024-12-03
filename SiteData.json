@@ -1,8 +1,8 @@
 {
-	"currentVersion": "2.32",
-	"lastBigPatch": "2.23",
+	"currentVersion": "2.33",
+	"lastBigPatch": "2.33",
 	"latestGameBreaking": "2.03",
-	"melonloaderVersion": "0.6.1",
+	"melonloaderVersion": "0.6.6",
 	"lists": [
 		"https://gist.githubusercontent.com/Xpazeman/d4643bd7c1beb359b331ca232cc3c742/raw/xpazeman.json",
 		"https://raw.githubusercontent.com/TLD-Mods/ModLists/master/zeobviouslyfakeacc.json",
