@@ -71,6 +71,18 @@
 		},
 		"PlacingAnywhere": {
 			"broken": true
+		}.
+		"CoolHome":
+		{
+			"broken":true
+		},
+		"FireAddons":
+		{
+			"broken":true
+		},
+		"QoL":
+		{
+			"broken":true
 		}
 	}
 }
