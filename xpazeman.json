@@ -1,0 +1,579 @@
+{
+	"version": "2",
+	"author": "Xpazeman",
+	"authorURL": "https://github.com/Xpazeman?tab=repositories",
+	"supportURL": "https://ko-fi.com/xpazeman",
+	"mods": [
+		{
+			"type": "mod",
+			"version": "2.8.1",
+			"name": "AmbientLights",
+			"displayName": "Ambient Lights",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2018-09-08",
+			"updated": "2023-02-14",
+			"downloadURL": "https://github.com/Xpazeman/tld-ambient-lights/releases/latest/download/AmbientLights.zip",
+			"modURL": "https://github.com/Xpazeman/tld-ambient-lights",
+			"description": "This mod aims to modify the default lightning for interiors with windows, making them brighter so you don't need a light source during midday to move around, and also more reflective of what's happening outside (time of day, weather, and sun position).",
+			"tags": "lighting, lighting overhaul, natural light, light, illumination",
+			"categories": [
+				"Gameplay",
+				"Graphics",
+				"Overhaul"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://tld.xpazeapps.com/images/ambient_lights_0.jpg",
+				"https://tld.xpazeapps.com/images/ambient_lights_1.jpg",
+				"https://tld.xpazeapps.com/images/ambient_lights_2.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "Changed some config files to avoid excessive brightness with high ambience level settings. Added Ash Canyon interiors. Removed configs for caves and mines so mod isn't active in them.",
+				"notes": "To install, extract zip contents in Mods folder. <strong>DO NOT LEAVE THE .ZIP FILE IN THE FOLDER.</strong>",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.3",
+			"name": "DarkerNights",
+			"displayName": "Darker Nights",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2020-12-22",
+			"updated": "2023-01-24",
+			"downloadURL": "https://github.com/Xpazeman/tld-darker-nights/releases/latest/download/DarkerNights.dll",
+			"modURL": "https://github.com/Xpazeman/tld-darker-nights",
+			"description": "Mod for The Long Dark to make nights darker, giving a new challenge.",
+			"tags": "dark nights, challenging, difficult, harder, blackness, darkness",
+			"categories": [
+				"Gameplay",
+				"Graphics"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://tld.xpazeapps.com/images/darker_nights_0.jpg",
+				"https://tld.xpazeapps.com/images/darker_nights_1.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "Updated to work with TLD 2.06",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.2",
+			"name": "GearDecayModifier",
+			"displayName": "Gear Decay Modifier",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-01-23",
+			"downloadURL": "https://github.com/Xpazeman/tld-gear-decay-modifier/releases/latest/download/GearDecayModifier.dll",
+			"modURL": "https://github.com/Xpazeman/tld-gear-decay-modifier",
+			"description": "Mod for The Long Dark to modify decay rates of gear. Settings go from completely stopping decay to making it much faster. Various categories to change.",
+			"tags": "gear, decay, spoiled",
+			"categories": [
+				"Gameplay",
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://tld.xpazeapps.com/images/gear_decay_0.jpg",
+				"https://tld.xpazeapps.com/images/gear_decay_1.jpg",
+				"https://tld.xpazeapps.com/images/gear_decay_2.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "Updated to work with TLD 2.06",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "3.0.1",
+			"name": "WeightTweaks",
+			"displayName": "Weight Tweaks",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-06-23",
+			"downloadURL": "https://github.com/Xpazeman/tld-weight-tweaks/releases/latest/download/WeightTweaks.dll",
+			"modURL": "https://github.com/Xpazeman/tld-weight-tweaks",
+			"description": "Mod for The Long Dark to modify item weights and carry capacity.\nWill cause game to stutter with a decent amount of items in the inventory. This will be more noticeable the highest the FPS",
+			"tags": "weight, changing, item",
+			"categories": [
+				"Gameplay",
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://tld.xpazeapps.com/images/weight_tweaks_0.jpg",
+				"https://tld.xpazeapps.com/images/weight_tweaks_1.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "FIX: Fixed for TLD 2.17",
+				"notes": "Known bug: Game will stutter when carrying lots of items, specially with high FPS",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.5.2",
+			"name": "HouseLights",
+			"displayName": "House Lights",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-06-20",
+			"downloadURL": "https://github.com/Xpazeman/tld-house-lights/releases/latest/download/HouseLights.dll",
+			"modURL": "https://github.com/Xpazeman/tld-house-lights",
+			"description": "Mod for The Long Dark that magically brings electricity back. You can turn lights on and off by using the light switches.",
+			"tags": "",
+			"categories": [
+				"Quality of Life",
+				"Graphics",
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://tld.xpazeapps.com/images/house_lights_0.jpg",
+				"https://tld.xpazeapps.com/images/house_lights_1.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "NEW: Added switches from the new areas \nFIX: Null NRE when loading scenes",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.2",
+			"name": "RandomMainMenu",
+			"displayName": "Random Main Menu",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-01-22",
+			"downloadURL": "https://github.com/Xpazeman/tld-random-mainmenu/releases/latest/download/RandomMainMenu.dll",
+			"modURL": "https://github.com/Xpazeman/tld-random-mainmenu",
+			"description": "This mod randomizes the time and weather in the main menu screen so it changes everytime you enter it.",
+			"tags": "",
+			"categories": [
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://tld.xpazeapps.com/images/random_main_menu_0.jpg"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "Updated to work with TLD 2.06",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.1",
+			"name": "IndoorCampfires",
+			"displayName": "Indoor Campfires",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-01-22",
+			"downloadURL": "https://github.com/Xpazeman/tld-indoor-campfires/releases/latest/download/IndoorCampfires.dll",
+			"modURL": "https://github.com/Xpazeman/tld-indoor-campfires",
+			"description": "This mod allows you to create campfires indoors.",
+			"tags": "",
+			"categories": [
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://tld.xpazeapps.com/images/indoor_campfires_0.jpg"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "Updated to work with TLD 2.06",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.3",
+			"name": "KeroseneLampTweaks",
+			"displayName": "Kerosene Lamp Tweaks",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-01-25",
+			"downloadURL": "https://github.com/Xpazeman/tld-kerosene-lamp-tweaks/releases/latest/download/KeroseneLampTweaks.dll",
+			"modURL": "https://github.com/Xpazeman/tld-kerosene-lamp-tweaks",
+			"description": "Mod for The Long Dark to modify the rates of fuel consumption for kerosene lamps and the color they emit.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://tld.xpazeapps.com/images/kerosene_lamp_tweaks_0.jpg",
+				"https://tld.xpazeapps.com/images/kerosene_lamp_tweaks_1.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "NEW: Added options to select a different color for Spelunker's lamp<br />\nFIX: Fixed first person light coloring for Spelunker's lamp",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.6",
+			"name": "PlacingAnywhere",
+			"displayName": "Placing Anywhere",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-01-06",
+			"downloadURL": "https://github.com/Xpazeman/tld-placing-anywhere/releases/latest/download/PlacingAnywhere.dll",
+			"modURL": "https://github.com/Xpazeman/tld-placing-anywhere",
+			"description": "Mod for The Long Dark that removes restrictions when placing items, and adds controls to rotate and position the object.",
+			"tags": "",
+			"categories": [
+				"Quality of Life",
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://tld.xpazeapps.com/images/placing_anywhere_0.jpg",
+				"https://tld.xpazeapps.com/images/placing_anywhere_1.jpg",
+				"https://tld.xpazeapps.com/images/placing_anywhere_2.jpg"
+			],
+			"dependencies": [
+				"ModSettings",
+				"KeyboardUtilities"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "Updated to work with TLD 2.06",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.2",
+			"name": "WorkingClocks",
+			"displayName": "Working Clocks",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-01-22",
+			"downloadURL": "https://github.com/Xpazeman/tld-working-clocks/releases/latest/download/WorkingClocks.dll",
+			"modURL": "https://github.com/Xpazeman/tld-working-clocks",
+			"description": "Mod for The Long Dark that makes some of the clocks in the game work. ",
+			"tags": "",
+			"categories": [
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://tld.xpazeapps.com/images/working_clocks_0.jpg"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "Updated to work with TLD 2.06",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.1",
+			"name": "CarryWeightMod",
+			"displayName": "Carry Weight Mod",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-05-11",
+			"downloadURL": "https://github.com/Xpazeman/tld-carry-weight-mod/releases/latest/download/CarryWeightMod.dll",
+			"modURL": "https://github.com/Xpazeman/tld-carry-weight-mod",
+			"description": "Allows you to adjust carry weight or set it to a very hight value",
+			"tags": "",
+			"categories": [
+				"Gameplay",
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "- NEW: Changed the way calorie consumption is calculated to make it proportional to the current max carry weight\n- FIX: Fixed issue with 0 added carry weight and Infite Carry off not updating the max carry weight",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "plugin",
+			"version": "1.0.0",
+			"name": "TLDEpicGameModCompat",
+			"displayName": "TLD Epic Games Mod Compat Plugin",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2023-05-11",
+			"updated": "2023-05-11",
+			"downloadURL": "https://github.com/Xpazeman/tld-epic-compat-plugin/releases/latest/download/TLDEpicGamesModCompat.dll",
+			"modURL": "https://github.com/Xpazeman/tld-epic-compat-plugin",
+			"description": "Plugin that allows Epic Games users to use MelonLoader and mods in TLD.\nThis will disable DLC & Wintermute even if you own them",
+			"tags": "compatibility, epic, epic games, epicgames, compat plugin, compat",
+			"categories": [
+				"Utility Mod"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "DOESN'T WORK IN LATEST VERSIONS. Since this plugin disables EOS, DLC & Wintermute ownership can't be checked, so they will be disabled. Remove the plugin to have access to them again",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.20",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.1.0",
+			"name": "BetterBases",
+			"displayName": "Better Bases",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2023-06-20",
+			"updated": "2023-06-22",
+			"downloadURL": "https://github.com/Xpazeman/tld-better-bases/releases/latest/download/BetterBases.dll",
+			"modURL": "https://github.com/Xpazeman/tld-better-bases",
+			"description": "Mod for The Long Dark that allows players to improve their bases in multiple ways: Most furniture can be moved (if you have cleared it of clutter first), most broken cabinets and drawers can be fixed, most of the clutter on interiors can be removed and some of it can also be moved.",
+			"tags": "bases, building, furniture, clutter, trash, remove, clean, base building, better bases",
+			"categories": [
+				"Gameplay",
+				"Base Building",
+				"Overhaul",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://tld.xpazeapps.com/images/better_bases_0.jpg"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModData"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "NEW: Added a system to add custom definitions so new objects can be added to the clutter pool, or modify existing ones\n- FIX: Fixed an error thrown on quitting",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		}
+	]
+}
