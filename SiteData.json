@@ -105,6 +105,14 @@
 		"Solitaire":
 		{
 			"broken":true
+		},
+		"CampingTools":
+		{
+			"broken":true
+		},
+		"CozyBlankets":
+		{
+			"broken":true
 		}
 	}
 }
