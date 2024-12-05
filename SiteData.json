@@ -113,6 +113,10 @@
 		"CozyBlankets":
 		{
 			"broken":true
+		},
+		"Modders-Gear-Toolbox":
+		{
+			"broken":true
 		}
 	}
 }
