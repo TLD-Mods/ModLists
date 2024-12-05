@@ -89,6 +89,10 @@
 		"BetterBases":
 		{
 			"broken":true
+		},
+		"CraftingAnywhere":
+		{
+			"broken":true
 		}
 	}
 }
