@@ -93,6 +93,10 @@
 		"CraftingAnywhere":
 		{
 			"broken":true
+		},
+		"CanneryManufacturingDLC":
+		{
+			"broken":true
 		}
 	}
 }
