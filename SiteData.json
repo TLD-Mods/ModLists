@@ -164,7 +164,7 @@
 		},
 		"UniversalTweaks":
 		{
-			"replaces":["CarryWeightMod","WeightTweaks"]
+			"replaces":["CarryWeightMod","WeightTweaks","EnableFeatProgressInCustomMode"]
 		},
 		"HouseBasements":
 		{
