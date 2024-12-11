@@ -198,11 +198,11 @@
 		{
 			"replaces":["SilentAurora"]
 		},
-		"SkyCoop":
+		"ToggleHUD":
 		{
 			"broken":true
 		},
-		"ToggleHUD":
+		"ArrowMod":
 		{
 			"broken":true
 		}
