@@ -71,10 +71,7 @@
 		},
 		"FuelManager": {
 			"replaces":["Better-Fuel-Management"]
-		},
-		"PlacingAnywhere": {
-			"broken": true
-		},
+		},		
 		"CoolHome":
 		{
 			"broken":true
@@ -94,19 +91,11 @@
 		"CraftingAnywhere":
 		{
 			"broken":true
-		},
-		"CanneryManufacturingDLC":
-		{
-			"broken":true
-		},
+		},		
 		"LitharsMending":
 		{
 			"broken":true
-		},
-		"Solitaire":
-		{
-			"broken":true
-		},
+		},		
 		"CampingTools":
 		{
 			"broken":true
@@ -158,11 +147,7 @@
 		"ExtraGraphicsSettings":
 		{
 			"replaces":["DisableChromaticAberration","EnableStatusBarPercentages","FreeLookInCars"]
-		},
-		"FoxCompanion":
-		{
-			"broken":true
-		},
+		},		
 		"UniversalTweaks":
 		{
 			"replaces":["CarryWeightMod","WeightTweaks","EnableFeatProgressInCustomMode"]
@@ -194,11 +179,7 @@
 		"RandomizeInterloperRareSpawns":
 		{
 			"broken":true
-		},
-		"AudioManager":
-		{
-			"replaces":["SilentAurora"]
-		},
+		},		
 		"ToggleHUD":
 		{
 			"broken":true
