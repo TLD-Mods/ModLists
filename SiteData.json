@@ -71,10 +71,6 @@
 		},
 		"FuelManager": {
 			"replaces":["Better-Fuel-Management"]
-		},		
-		"CoolHome":
-		{
-			"broken":true
 		},
 		"FireAddons":
 		{
