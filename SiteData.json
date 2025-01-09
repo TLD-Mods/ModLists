@@ -135,11 +135,7 @@
 		"CustomWhiteout":
 		{
 			"broken":true
-		},
-		"DrawFromDrawer":
-		{
-			"broken":true
-		},
+		},		
 		"ExtraGraphicsSettings":
 		{
 			"replaces":["DisableChromaticAberration","EnableStatusBarPercentages","FreeLookInCars"]
