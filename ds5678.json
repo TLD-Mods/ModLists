@@ -124,42 +124,6 @@
             "aliases": []
         }, {
             "type": "mod",
-            "version": "2.1.0",
-            "name": "Bleeding_RV",
-            "displayName": "Bleeding Revamped",
-            "author": "<a href='https://github.com/Deus13' target='_blank'>Deus</a>",
-            "previousAuthors": "",
-            "released": "",
-            "updated": "2021-06-18",
-            "downloadURL": "https://github.com/Deus13/Bleeding_RV/releases/download/2.1.0/Bleeding_RV.dll",
-            "modURL": "https://github.com/Deus13/Bleeding_RV",
-            "description": "Reworkes the bleeding mechanics of wildlife.",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "1.94",
-                "mlversion": "0.4.3.0"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
             "version": "5.0.0",
             "name": "Coordinates-Grabber",
             "displayName": "Coordinates Grabber",
