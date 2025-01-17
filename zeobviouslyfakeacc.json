@@ -114,45 +114,7 @@
 			},
 			"aliases": []
 		},
-		{
-			"type": "mod",
-			"version": "1.10",
-			"name": "HungerRevamped",
-			"displayName": "Hunger Revamped",
-			"author": "",
-			"previousAuthors": "",
-			"released": "2018-03-31",
-			"updated": "2021-10-31",
-			"downloadURL": "https://github.com/zeobviouslyfakeacc/HungerRevamped/releases/download/v1.10/HungerRevamped.dll",
-			"modURL": "https://github.com/zeobviouslyfakeacc/HungerRevamped",
-			"description": "Improves the hunger system by separating hunger and stored calories.",
-			"tags": "",
-			"categories": [
-				"Gameplay",
-				"Overhaul"
-			],
-			"gameversion": [],
-			"images": [],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "1.97",
-				"mlversion": "0.4.3.0"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
+		
 		{
 			"type": "mod",
 			"version": "1.8",
