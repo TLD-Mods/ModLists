@@ -48,10 +48,6 @@
 		"https://raw.githubusercontent.com/DeletedAccount01/ModListJson/main/deleted_tld_mods.json"
 	],
 	"overrides": {
-		"CarcassYieldTweaker": {
-			"broken": true,
-			"aliases": []
-		},
 		"WeightTweaks": {
 			"broken": true
 		},
