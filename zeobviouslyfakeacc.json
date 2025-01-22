@@ -26,7 +26,7 @@
 				"ModSettings"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
@@ -37,7 +37,7 @@
 				"mlversion": "0.4.3.0"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": []
 			},
 			"aliases": []
