@@ -48,15 +48,6 @@
 		"https://raw.githubusercontent.com/DeletedAccount01/ModListJson/main/deleted_tld_mods.json"
 	],
 	"overrides": {
-		"BedrollTweaker": {
-			"broken": true
-		},
-		"ContainerTweaks": {
-			"broken": true
-		},
-		"FoodTweaker": {
-			"broken": true
-		},
 		"LimitlessContainerSpace": {
 			"broken": true
 		},
@@ -71,10 +62,6 @@
 		{
 			"broken":true
 		},
-		"CraftingAnywhere":
-		{
-			"broken":true
-		},		
 		"LitharsMending":
 		{
 			"broken":true
@@ -88,18 +75,6 @@
 			"broken":true
 		},
 		"CacheControl":
-		{
-			"broken":true
-		},
-		"ChooseStartingConditions":
-		{
-			"broken":true
-		},
-		"ChooseStartingGear":
-		{
-			"broken":true
-		},
-		"ChooseStartingLocation":
 		{
 			"broken":true
 		},	
