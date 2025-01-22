@@ -51,9 +51,6 @@
 		"LimitlessContainerSpace": {
 			"broken": true
 		},
-		"FuelManager": {
-			"replaces":["Better-Fuel-Management"]
-		},
 		"FireAddons":
 		{
 			"broken":true
