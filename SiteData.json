@@ -48,12 +48,6 @@
 		"https://raw.githubusercontent.com/DeletedAccount01/ModListJson/main/deleted_tld_mods.json"
 	],
 	"overrides": {
-		"WeightTweaks": {
-			"broken": true
-		},
-		"CarryWeightMod": {
-			"broken": true
-		},
 		"BedrollTweaker": {
 			"broken": true
 		},
@@ -74,10 +68,6 @@
 			"broken":true
 		},
 		"ToolsQuality":
-		{
-			"broken":true
-		},
-		"BetterBases":
 		{
 			"broken":true
 		},
