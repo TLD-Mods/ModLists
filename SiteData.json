@@ -74,10 +74,6 @@
 		{
 			"broken":true
 		},
-		"CacheControl":
-		{
-			"broken":true
-		},	
 		"ExtraGraphicsSettings":
 		{
 			"replaces":["DisableChromaticAberration","EnableStatusBarPercentages","FreeLookInCars"]
