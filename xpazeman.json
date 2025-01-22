@@ -171,7 +171,7 @@
 				"ModSettings"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "FIX: Fixed for TLD 2.17",
 				"notes": "Known bug: Game will stutter when carrying lots of items, specially with high FPS",
@@ -182,7 +182,7 @@
 				"mlversion": "0.6.1"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": []
 			},
 			"aliases": []
@@ -473,7 +473,7 @@
 				"ModSettings"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "- NEW: Changed the way calorie consumption is calculated to make it proportional to the current max carry weight\n- FIX: Fixed issue with 0 added carry weight and Infite Carry off not updating the max carry weight",
 				"notes": "",
@@ -484,7 +484,7 @@
 				"mlversion": "0.6.1"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": []
 			},
 			"aliases": []
@@ -559,7 +559,7 @@
 				"ModData"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "NEW: Added a system to add custom definitions so new objects can be added to the clutter pool, or modify existing ones\n- FIX: Fixed an error thrown on quitting",
 				"notes": "",
@@ -570,7 +570,7 @@
 				"mlversion": "0.6.1"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": []
 			},
 			"aliases": []
