@@ -68,7 +68,7 @@
                 "CraftingRevisions"
             ],
             "status": {
-                "working": true,
+                "working": false,
                 "beta": false,
                 "patchnotes": "",
                 "notes": "",
@@ -79,7 +79,7 @@
                 "mlversion": "0.4.3.0"
             },
             "updater": {
-                "enable": true,
+                "enable": false,
                 "downloads": [
                     "https://github.com/ds5678/Binoculars/releases/download/4.4.0/Binoculars.dll",
                     "https://github.com/ds5678/Binoculars/releases/download/4.4.0/Binoculars.modcomponent"
@@ -107,7 +107,7 @@
             "images": [],
             "dependencies": [],
             "status": {
-                "working": true,
+                "working": false,
                 "beta": false,
                 "patchnotes": "",
                 "notes": "",
@@ -118,7 +118,7 @@
                 "mlversion": "0.4.3.0"
             },
             "updater": {
-                "enable": true,
+                "enable": false,
                 "downloads": []
             },
             "aliases": []
@@ -222,7 +222,7 @@
                 "ModSettings"
             ],
             "status": {
-                "working": true,
+                "working": false,
                 "beta": false,
                 "patchnotes": "",
                 "notes": "",
@@ -233,7 +233,7 @@
                 "mlversion": "0.4.3.0"
             },
             "updater": {
-                "enable": true,
+                "enable": false,
                 "downloads": []
             },
             "aliases": []
@@ -297,7 +297,7 @@
                 "ModSettings"
             ],
             "status": {
-                "working": true,
+                "working": false,
                 "beta": false,
                 "patchnotes": "",
                 "notes": "",
@@ -308,7 +308,7 @@
                 "mlversion": "0.5.4.0"
             },
             "updater": {
-                "enable": true,
+                "enable": false,
                 "downloads": []
             },
             "aliases": []
@@ -335,7 +335,7 @@
                 "ModSettings"
             ],
             "status": {
-                "working": true,
+                "working": false,
                 "beta": false,
                 "patchnotes": "",
                 "notes": "",
@@ -346,7 +346,7 @@
                 "mlversion": "0.4.3.0"
             },
             "updater": {
-                "enable": true,
+                "enable": false,
                 "downloads": []
             },
             "aliases": []
@@ -447,7 +447,7 @@
                 "ModSettings"
             ],
             "status": {
-                "working": true,
+                "working": false,
                 "beta": false,
                 "patchnotes": "",
                 "notes": "",
@@ -458,7 +458,7 @@
                 "mlversion": "0.4.3.0"
             },
             "updater": {
-                "enable": true,
+                "enable": false,
                 "downloads": []
             },
             "aliases": []
@@ -485,7 +485,7 @@
                 "ModSettings"
             ],
             "status": {
-                "working": true,
+                "working": false,
                 "beta": false,
                 "patchnotes": "",
                 "notes": "",
@@ -496,7 +496,7 @@
                 "mlversion": "0.4.3.0"
             },
             "updater": {
-                "enable": true,
+                "enable": false,
                 "downloads": []
             },
             "aliases": []
@@ -527,7 +527,7 @@
                 "CraftingRevisions"
             ],
             "status": {
-                "working": true,
+                "working": false,
                 "beta": false,
                 "patchnotes": "",
                 "notes": "",
@@ -538,7 +538,7 @@
                 "mlversion": "0.4.3.0"
             },
             "updater": {
-                "enable": true,
+                "enable": false,
                 "downloads": [
                     "https://github.com/ds5678/RandomizeInterloperRareSpawns/releases/download/1.2.0/RandomizeInterloperRareSpawns.dll",
                     "https://github.com/ds5678/RandomizeInterloperRareSpawns/releases/download/1.2.0/RandomizeInterloperRareSpawns.modcomponent"
@@ -677,7 +677,7 @@
             "images": [],
             "dependencies": [],
             "status": {
-                "working": true,
+                "working": false,
                 "beta": false,
                 "patchnotes": "",
                 "notes": "",
@@ -688,7 +688,7 @@
                 "mlversion": "0.4.3.0"
             },
             "updater": {
-                "enable": true,
+                "enable": false,
                 "downloads": []
             },
             "aliases": []
@@ -713,7 +713,7 @@
             "images": [],
             "dependencies": [],
             "status": {
-                "working": true,
+                "working": false,
                 "beta": false,
                 "patchnotes": "",
                 "notes": "",
@@ -724,7 +724,7 @@
                 "mlversion": "0.4.3.0"
             },
             "updater": {
-                "enable": true,
+                "enable": false,
                 "downloads": []
             },
             "aliases": []
