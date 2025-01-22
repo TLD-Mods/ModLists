@@ -87,14 +87,6 @@
 		{
 			"broken":true
 		},
-		"Binoculars":
-		{
-			"broken":true
-		},
-		"BleakBridge":
-		{
-			"broken":true
-		},
 		"CacheControl":
 		{
 			"broken":true
@@ -110,15 +102,7 @@
 		"ChooseStartingLocation":
 		{
 			"broken":true
-		},
-		"CustomSaveDataUtilities":
-		{
-			"broken":true
-		},
-		"CustomWhiteout":
-		{
-			"broken":true
-		},		
+		},	
 		"ExtraGraphicsSettings":
 		{
 			"replaces":["DisableChromaticAberration","EnableStatusBarPercentages","FreeLookInCars"]
@@ -127,33 +111,9 @@
 		{
 			"replaces":["CarryWeightMod","WeightTweaks","EnableFeatProgressInCustomMode"]
 		},
-		"HouseBasements":
-		{
-			"broken":true
-		},
-		"MaintainYourself":
-		{
-			"broken":true
-		},
 		"MapManager":
 		{
 			"replaces":["MapTweaks"]
-		},
-		"NonOPTorches":
-		{
-			"broken":true
-		},
-		"QuickWitted":
-		{
-			"broken":true
-		},
-		"RandomizeInterloperRareSpawns":
-		{
-			"broken":true
-		},		
-		"ToggleHUD":
-		{
-			"broken":true
 		},
 		"ArrowMod":
 		{
