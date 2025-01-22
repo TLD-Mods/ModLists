@@ -1,0 +1,508 @@
+{
+	"version": "2",
+	"author": "Cass",
+	"authorURL": "https://github.com/GruffCassquatch",
+	"supportURL": "",
+	"mods": [
+		{
+			"type": "mod",
+			"version": "2.0.2",
+			"name": "BedrollTweaker",
+			"displayName": "Bedroll Tweaker",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-06-01",
+			"downloadURL": "https://github.com/GruffCassquatch/BedrollTweaker/releases/download/2.0.2/BedrollTweaker.dll",
+			"modURL": "https://github.com/GruffCassquatch/BedrollTweaker",
+			"description": "Allows you to change the warmth, weight and decay of bedrolls. Allows bedroll warmth to 'stack' so extra bedrolls in your inventory can add additional warmth. Fully configurable. Full instructions in the README.",
+			"tags": "Bedroll, Bed, Warmth",
+			"categories": [
+				"Quality of Life"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.12",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.0.0",
+			"name": "ChooseStartingConditions",
+			"displayName": "Choose Starting Conditions",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-05-01",
+			"downloadURL": "https://github.com/GruffCassquatch/ChooseStartingConditions/releases/download/2.0/ChooseStartingConditions.dll",
+			"modURL": "https://github.com/GruffCassquatch/ChooseStartingConditions",
+			"description": "Allows you to choose your starting condition, fatigue, hunger, thirst, warmth, injuries and illnesses when starting a new game. Full instructions in the README.",
+			"tags": "Custom, Start, Condition, Injured",
+			"categories": [
+				"Quality of Life",
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.12",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.2.2",
+			"name": "ChooseStartingGear",
+			"displayName": "Choose Starting Gear",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2022-08-09",
+			"downloadURL": "https://github.com/GruffCassquatch/ChooseStartingGear/releases/download/1.2.2/ChooseStartingGear.dll",
+			"modURL": "https://github.com/GruffCassquatch/ChooseStartingGear",
+			"description": "Allows you to choose your starting gear when starting a new game. Full instructions in the README.",
+			"tags": "Custom, Start, Gear",
+			"categories": [
+				"Quality of Life",
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "Use with 2.01 Time Capsule, will not work on game versions >2.02",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.01",
+				"mlversion": "0.5.7"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "ChooseStartingLocation",
+			"displayName": "Choose Starting Location",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2022-08-04",
+			"downloadURL": "https://github.com/GruffCassquatch/ChooseStartingLocation/releases/download/1.0.0/ChooseStartingLocation.dll",
+			"modURL": "https://github.com/GruffCassquatch/ChooseStartingLocation",
+			"description": "Allows you to choose your starting location when starting a new Sandbox game. 300+ locations, all regions, all difficulty modes. Full instructions in the README.",
+			"tags": "Custom, Start, Location, Spawn",
+			"categories": [
+				"Quality of Life",
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "Use with 2.01 Time Capsule, will not work on game versions >2.02",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.01",
+				"mlversion": "0.5.7"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.0.0",
+			"name": "ContainerTweaks",
+			"displayName": "Container Tweaks",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-05-02",
+			"downloadURL": "https://github.com/GruffCassquatch/ContainerTweaks/releases/download/2.0.0/ContainerTweaks.dll",
+			"modURL": "https://github.com/GruffCassquatch/ContainerTweaks",
+			"description": "Allows you to change the capacity of containers. Separate settings for each type of container for granular control. Full instructions in the README.",
+			"tags": "Container, Weight, Capacity",
+			"categories": [
+				"Quality of Life"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.12",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.0.0",
+			"name": "CraftingAnywhere",
+			"displayName": "Crafting Anywhere",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-01-08",
+			"downloadURL": "https://github.com/GruffCassquatch/CraftingAnywhere/releases/download/2.0/CraftingAnywhere.dll",
+			"modURL": "https://github.com/GruffCassquatch/CraftingAnywhere",
+			"description": "Allows you to remove the location requirements from craftable items (workbench, forge etc). Full instructions in the README.",
+			"tags": "Gear, Crafting, Workbench, Forge, Anywhere",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Gear Items"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.06",
+				"mlversion": "0.6.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "0.3.8",
+			"name": "CustomSettingsTweaker",
+			"displayName": "Custom Settings Tweaker PRE-RELEASE",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-07-14",
+			"downloadURL": "https://github.com/GruffCassquatch/CustomSettingsTweaker/releases/download/0.3.8/CustomSettingsTweaker.dll",
+			"modURL": "https://github.com/GruffCassquatch/CustomSettingsTweaker",
+			"description": "Allows you to change and fine-tune several settings in a CUSTOM mode game (new or existing), such as Hunger, Thirst, Fatigue, Condition Recovery etc. This is a PRE-RELEASE VERSION for testing and feedback. Full instructions in the README.",
+			"tags": "Custom, Settings",
+			"categories": [
+				"Quality of Life",
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.20",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.0.2",
+			"name": "FoodTweaker",
+			"displayName": "Food Tweaker",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-10-28",
+			"downloadURL": "https://github.com/GruffCassquatch/FoodTweaker/releases/download/2.0.2/FoodTweaker.dll",
+			"modURL": "https://github.com/GruffCassquatch/FoodTweaker",
+			"description": "Adjust: calories of food items; cooking time for meat and fish; how much meat shrinks when cooked (raw weight vs cooked weight); difference between weight of whole, raw fish vs cleaned, cooked fish; meat and fish will become 'Hot' after cooking; enable MRE self-heating; option to fix vanilla game error where tea & coffee provide incorrect hydration. Full instructions in the README.",
+			"tags": "Food, Calories, Kilojoules, Tea, Realistic",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Food"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.12",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.0.0",
+			"name": "RerollBurntBuildings",
+			"displayName": "Reroll Burnt Buildings",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-05-02",
+			"downloadURL": "https://github.com/GruffCassquatch/RerollBurntBuildings/releases/download/2.0.0/RerollBurntBuildings.dll",
+			"modURL": "https://github.com/GruffCassquatch/RerollBurntBuildings",
+			"description": "Adds console commands that allow you to reroll the random burnt building spawns. Now also includes the random fishing hut doors. Full instructions in the README.",
+			"tags": "Burnt, Fishing, Hut, Doors, Buildings",
+			"categories": [
+				"Gameplay",
+				"Cheats"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModSettings",
+				"DeveloperConsole"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.12",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.0.0",
+			"name": "ShelterTemperatureTweaks",
+			"displayName": "Shelter Temperature Tweaks",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-05-02",
+			"downloadURL": "https://github.com/GruffCassquatch/ShelterTemperatureTweaks/releases/download/2.0.0/ShelterTemperatureTweaks.dll",
+			"modURL": "https://github.com/GruffCassquatch/ShelterTemperatureTweaks",
+			"description": "Allows you to tweak the temperature of shelters that have NO LOADING SCREEN, such as the Mountaineer's Hut. Full instructions in the README.",
+			"tags": "Cave, Mountaineer, Outdoor, Location, Temperature, Shelter",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.12",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "SilentProtagonist",
+			"displayName": "Silent Protagonist",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2022-08-09",
+			"downloadURL": "https://github.com/GruffCassquatch/SilentProtagonist/releases/download/1.0.0/SilentProtagonist.dll",
+			"modURL": "https://github.com/GruffCassquatch/SilentProtagonist",
+			"description": "Silences player character voice. Full instructions in the README.",
+			"tags": "Voice, Player, Character, Talk, Silent",
+			"categories": [
+				"Quality of Life"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "Use with 2.01 Time Capsule, will not work on game versions >2.02",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.01",
+				"mlversion": "0.5.7"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.0.0",
+			"name": "SunOrientationFixes",
+			"displayName": "Sun Orientation Fixes",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-01-08",
+			"downloadURL": "https://github.com/GruffCassquatch/SunOrientationFixes/releases/download/2.0/SunOrientationFixes.dll",
+			"modURL": "https://github.com/GruffCassquatch/SunOrientationFixes",
+			"description": "Fixes the sun orientation in several regions. Now all regions should be consistent with each other and the world map.",
+			"tags": "Sun, Sky, Direction, North",
+			"categories": [
+				"Quality of Life"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "Go to repo for older game versions",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.06",
+				"mlversion": "0.6.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.2.3.1",
+			"name": "WolvesComeOutAtNight",
+			"displayName": "Wolves Come Out At Night",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-04-21",
+			"downloadURL": "https://github.com/GruffCassquatch/WolvesComeOutAtNight/releases/download/1.2.3.1/WolvesComeOutAtNight.dll",
+			"modURL": "https://github.com/GruffCassquatch/WolvesComeOutAtNight",
+			"description": "Prevents wolves spawning during the day. Can set by region or to apply everywhere. Full instructions in the README.",
+			"tags": "Wolves, Animal, Behaviour, Behavior",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.12",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		}
+	]
+}
