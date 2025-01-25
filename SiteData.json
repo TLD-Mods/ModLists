@@ -32,7 +32,7 @@
 		"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Sm4rtBoyTomModList.json",
 		"https://raw.githubusercontent.com/Ezinw/ModListTLD/refs/heads/main/ModListTLD.json",
 		"https://raw.githubusercontent.com/TLD-Mods/ModLists/refs/heads/master/misc.json",
-		"https://github.com/moosemeat817/ModListJson/blob/main/moosemeat_tld_mods.json"
+		"https://raw.githubusercontent.com/moosemeat817/ModListJson/refs/heads/main/moosemeat_tld_mods.json"
 	],
 	"oldlists": [
 		"https://raw.githubusercontent.com/OceanManFR/ModList/master/oceanman.json",
