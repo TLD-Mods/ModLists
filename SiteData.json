@@ -31,7 +31,8 @@
 		"https://raw.githubusercontent.com/yasenfire/tldmodlist/refs/heads/main/modlist.json",
 		"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Sm4rtBoyTomModList.json",
 		"https://raw.githubusercontent.com/Ezinw/ModListTLD/refs/heads/main/ModListTLD.json",
-		"https://raw.githubusercontent.com/TLD-Mods/ModLists/refs/heads/master/misc.json"
+		"https://raw.githubusercontent.com/TLD-Mods/ModLists/refs/heads/master/misc.json",
+		"https://github.com/moosemeat817/ModListJson/blob/main/moosemeat_tld_mods.json"
 	],
 	"oldlists": [
 		"https://raw.githubusercontent.com/OceanManFR/ModList/master/oceanman.json",
