@@ -196,7 +196,11 @@
 				"enable": true,
 				"downloads": []
 			},
-			"aliases": []
+			"aliases": [
+				"Better Blackrock: A Fort Blackrock Player Home",
+				"BetterBlackrock:AFortBlackrockPlayerHome",
+				"BetterBlackrock"
+			]
 		},
 				{
 			"type": "mod",
