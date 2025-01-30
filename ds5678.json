@@ -464,44 +464,6 @@
             "aliases": []
         }, {
             "type": "mod",
-            "version": "2.0.0",
-            "name": "QuickWitted",
-            "displayName": "Quick Witted",
-            "author": "ds5678",
-            "previousAuthors": "<a href='https://github.com/felipeds' target='_blank'>felipeds</a>",
-            "released": "",
-            "updated": "2021-02-10",
-            "downloadURL": "https://github.com/ds5678/Quick-Witted/releases/download/2.0.0/QuickWitted.dll",
-            "modURL": "https://github.com/ds5678/Quick-Witted",
-            "description": "Lets you level up individual skills faster<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [
-                "ModSettings"
-            ],
-            "status": {
-                "working": false,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "1.97",
-                "mlversion": "0.4.3.0"
-            },
-            "updater": {
-                "enable": false,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
             "version": "1.2.0",
             "name": "RandomizeInterloperRareSpawns",
             "displayName": "Randomize Interloper Rare Spawns",
