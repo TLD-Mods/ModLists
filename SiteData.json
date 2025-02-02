@@ -53,10 +53,6 @@
 		"LimitlessContainerSpace": {
 			"broken": true
 		},
-		"ToolsQuality":
-		{
-			"broken":true
-		},
 		"LitharsMending":
 		{
 			"broken":true
@@ -80,11 +76,6 @@
 		"MapManager":
 		{
 			"replaces":["MapTweaks"]
-		},
-		"ArrowMod":
-		{
-			"broken":true
 		}
-		
 	}
 }
