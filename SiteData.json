@@ -76,6 +76,10 @@
 		"MapManager":
 		{
 			"replaces":["MapTweaks"]
+		},
+		"Modders' Gear Toolbox":
+		{
+			"broken":true
 		}
 	}
 }
