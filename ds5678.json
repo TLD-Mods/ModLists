@@ -88,42 +88,6 @@
             "aliases": []
         }, {
             "type": "mod",
-            "version": "1.2.0",
-            "name": "BleakBridge",
-            "displayName": "Bleak Bridge",
-            "author": "ds5678",
-            "previousAuthors": "",
-            "released": "",
-            "updated": "2021-04-16",
-            "downloadURL": "https://github.com/ds5678/BleakBridge/releases/download/1.2.0/BleakBridge.dll",
-            "modURL": "https://github.com/ds5678/BleakBridge",
-            "description": "Add a bridge to the Cannery Workshop.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [],
-            "status": {
-                "working": false,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "1.97",
-                "mlversion": "0.4.3.0"
-            },
-            "updater": {
-                "enable": false,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
             "version": "5.0.0",
             "name": "Coordinates-Grabber",
             "displayName": "Coordinates Grabber",
