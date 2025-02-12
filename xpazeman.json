@@ -144,51 +144,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "3.0.1",
-			"name": "WeightTweaks",
-			"displayName": "Weight Tweaks",
-			"author": "",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2023-06-23",
-			"downloadURL": "https://github.com/Xpazeman/tld-weight-tweaks/releases/latest/download/WeightTweaks.dll",
-			"modURL": "https://github.com/Xpazeman/tld-weight-tweaks",
-			"description": "Mod for The Long Dark to modify item weights and carry capacity.\nWill cause game to stutter with a decent amount of items in the inventory. This will be more noticeable the highest the FPS",
-			"tags": "weight, changing, item",
-			"categories": [
-				"Gameplay",
-				"Cheats"
-			],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [
-				"https://tld.xpazeapps.com/images/weight_tweaks_0.jpg",
-				"https://tld.xpazeapps.com/images/weight_tweaks_1.jpg"
-			],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": false,
-				"beta": false,
-				"patchnotes": "FIX: Fixed for TLD 2.17",
-				"notes": "Known bug: Game will stutter when carrying lots of items, specially with high FPS",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.24",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": false,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "2.5.2",
 			"name": "HouseLights",
 			"displayName": "House Lights",
