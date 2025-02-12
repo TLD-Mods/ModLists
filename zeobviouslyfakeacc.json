@@ -6,44 +6,6 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.5",
-			"name": "CacheControl",
-			"displayName": "Cache Control",
-			"author": "",
-			"previousAuthors": "",
-			"released": "2018-09-07",
-			"updated": "2021-12-12",
-			"downloadURL": "https://github.com/zeobviouslyfakeacc/CacheControl/releases/download/v1.5/CacheControl.dll",
-			"modURL": "https://github.com/zeobviouslyfakeacc/CacheControl",
-			"description": "Lets you decide how many Prepper Caches should spawn in custom mode games.",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [],
-			"images": [],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": false,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "1.98",
-				"mlversion": "0.4.3.0"
-			},
-			"updater": {
-				"enable": false,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "1.6",
 			"name": "EnableStatusBarPercentages",
 			"displayName": "Enable Status Bar Percentages",
