@@ -240,46 +240,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.0.2",
-			"name": "FoodTweaker",
-			"displayName": "Food Tweaker",
-			"author": "",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2023-10-28",
-			"downloadURL": "https://github.com/GruffCassquatch/FoodTweaker/releases/download/2.0.2/FoodTweaker.dll",
-			"modURL": "https://github.com/GruffCassquatch/FoodTweaker",
-			"description": "Adjust: calories of food items; cooking time for meat and fish; how much meat shrinks when cooked (raw weight vs cooked weight); difference between weight of whole, raw fish vs cleaned, cooked fish; meat and fish will become 'Hot' after cooking; enable MRE self-heating; option to fix vanilla game error where tea & coffee provide incorrect hydration. Full instructions in the README.",
-			"tags": "Food, Calories, Kilojoules, Tea, Realistic",
-			"categories": [
-				"Quality of Life",
-				"Gameplay",
-				"Food"
-			],
-			"gameversion": [],
-			"images": [],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": false,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.12",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": false,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "2.0.0",
 			"name": "RerollBurntBuildings",
 			"displayName": "Reroll Burnt Buildings",
