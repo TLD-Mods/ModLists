@@ -448,48 +448,6 @@
 			"aliases": []
 		},
 		{
-			"type": "mod",
-			"version": "1.0.1",
-			"name": "CarryWeightMod",
-			"displayName": "Carry Weight Mod",
-			"author": "",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2023-05-11",
-			"downloadURL": "https://github.com/Xpazeman/tld-carry-weight-mod/releases/latest/download/CarryWeightMod.dll",
-			"modURL": "https://github.com/Xpazeman/tld-carry-weight-mod",
-			"description": "Allows you to adjust carry weight or set it to a very hight value",
-			"tags": "",
-			"categories": [
-				"Gameplay",
-				"Cheats"
-			],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": false,
-				"beta": false,
-				"patchnotes": "- NEW: Changed the way calorie consumption is calculated to make it proportional to the current max carry weight\n- FIX: Fixed issue with 0 added carry weight and Infite Carry off not updating the max carry weight",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.24",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": false,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
 			"type": "plugin",
 			"version": "1.0.0",
 			"name": "TLDEpicGameModCompat",
