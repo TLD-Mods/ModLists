@@ -162,44 +162,6 @@
 		{
 			"type": "mod",
 			"version": "2.0.0",
-			"name": "ContainerTweaks",
-			"displayName": "Container Tweaks",
-			"author": "",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2023-05-02",
-			"downloadURL": "https://github.com/GruffCassquatch/ContainerTweaks/releases/download/2.0.0/ContainerTweaks.dll",
-			"modURL": "https://github.com/GruffCassquatch/ContainerTweaks",
-			"description": "Allows you to change the capacity of containers. Separate settings for each type of container for granular control. Full instructions in the README.",
-			"tags": "Container, Weight, Capacity",
-			"categories": [
-				"Quality of Life"
-			],
-			"gameversion": [],
-			"images": [],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": false,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.12",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": false,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
-			"version": "2.0.0",
 			"name": "CraftingAnywhere",
 			"displayName": "Crafting Anywhere",
 			"author": "",
