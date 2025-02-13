@@ -161,46 +161,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.0.0",
-			"name": "CraftingAnywhere",
-			"displayName": "Crafting Anywhere",
-			"author": "",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2023-01-08",
-			"downloadURL": "https://github.com/GruffCassquatch/CraftingAnywhere/releases/download/2.0/CraftingAnywhere.dll",
-			"modURL": "https://github.com/GruffCassquatch/CraftingAnywhere",
-			"description": "Allows you to remove the location requirements from craftable items (workbench, forge etc). Full instructions in the README.",
-			"tags": "Gear, Crafting, Workbench, Forge, Anywhere",
-			"categories": [
-				"Quality of Life",
-				"Gameplay",
-				"Gear Items"
-			],
-			"gameversion": [],
-			"images": [],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": false,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.06",
-				"mlversion": "0.6.0"
-			},
-			"updater": {
-				"enable": false,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "0.3.8",
 			"name": "CustomSettingsTweaker",
 			"displayName": "Custom Settings Tweaker PRE-RELEASE",
