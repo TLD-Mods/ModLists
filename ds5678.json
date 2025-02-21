@@ -43,6 +43,44 @@
             "aliases": []
         }, {
             "type": "mod",
+            "version": "4.1.0",
+            "name": "Better-Night-Sky",
+            "displayName": "Better Night Sky",
+            "author": "ds5678",
+            "previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
+            "released": "",
+            "updated": "2021-10-10",
+            "downloadURL": "https://github.com/ds5678/Better-Night-Sky/releases/download/4.1.0/Better-Night-Sky.dll",
+            "modURL": "https://github.com/ds5678/Better-Night-Sky",
+            "description": "Makes the night sky more realistic.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+            "tags": "",
+            "categories": [],
+            "gameversion": [
+                "vanilla",
+                "tftft"
+            ],
+            "images": [],
+            "dependencies": [
+                "ModSettings"
+            ],
+            "status": {
+                "working": true,
+                "beta": false,
+                "patchnotes": "",
+                "notes": "",
+                "issues": ""
+            },
+            "testedon": {
+                "tldversion": "1.97",
+                "mlversion": "0.4.3.0"
+            },
+            "updater": {
+                "enable": true,
+                "downloads": []
+            },
+            "aliases": []
+        }, {
+            "type": "mod",
             "version": "4.4.0",
             "name": "Binoculars",
             "displayName": "",
@@ -88,6 +126,42 @@
             "aliases": []
         }, {
             "type": "mod",
+            "version": "1.0.0",
+            "name": "CoastalConnection",
+            "displayName": "Coastal Connection",
+            "author": "ds5678",
+            "previousAuthors": "",
+            "released": "",
+            "updated": "2025-02-20",
+            "downloadURL": "https://github.com/ds5678/CoastalConnection/releases/download/1.0.0/CoastalConnection.dll",
+            "modURL": "https://github.com/ds5678/CoastalConnection",
+            "description": "Connects Coastal Highway and Bleak Inlet by their shared road.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+            "tags": "",
+            "categories": [],
+            "gameversion": [
+                "vanilla",
+                "tftft"
+            ],
+            "images": [],
+            "dependencies": [],
+            "status": {
+                "working": true,
+                "beta": false,
+                "patchnotes": "",
+                "notes": "",
+                "issues": ""
+            },
+            "testedon": {
+                "tldversion": "2.39",
+                "mlversion": "0.7.0.0"
+            },
+            "updater": {
+                "enable": true,
+                "downloads": []
+            },
+            "aliases": []
+        }, {
+            "type": "mod",
             "version": "5.0.0",
             "name": "Coordinates-Grabber",
             "displayName": "Coordinates Grabber",
@@ -119,44 +193,6 @@
             "testedon": {
                 "tldversion": "2.06",
                 "mlversion": "0.6.0.0"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
-            "version": "4.1.0",
-            "name": "Better-Night-Sky",
-            "displayName": "Better Night Sky",
-            "author": "ds5678",
-            "previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
-            "released": "",
-            "updated": "2021-10-10",
-            "downloadURL": "https://github.com/ds5678/Better-Night-Sky/releases/download/4.1.0/Better-Night-Sky.dll",
-            "modURL": "https://github.com/ds5678/Better-Night-Sky",
-            "description": "Makes the night sky more realistic.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [
-                "ModSettings"
-            ],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "1.97",
-                "mlversion": "0.4.3.0"
             },
             "updater": {
                 "enable": true,
