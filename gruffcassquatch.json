@@ -6,44 +6,6 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "2.0.2",
-			"name": "BedrollTweaker",
-			"displayName": "Bedroll Tweaker",
-			"author": "",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2023-06-01",
-			"downloadURL": "https://github.com/GruffCassquatch/BedrollTweaker/releases/download/2.0.2/BedrollTweaker.dll",
-			"modURL": "https://github.com/GruffCassquatch/BedrollTweaker",
-			"description": "Allows you to change the warmth, weight and decay of bedrolls. Allows bedroll warmth to 'stack' so extra bedrolls in your inventory can add additional warmth. Fully configurable. Full instructions in the README.",
-			"tags": "Bedroll, Bed, Warmth",
-			"categories": [
-				"Quality of Life"
-			],
-			"gameversion": [],
-			"images": [],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": false,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.12",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": false,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "2.0.0",
 			"name": "ChooseStartingConditions",
 			"displayName": "Choose Starting Conditions",
