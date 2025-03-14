@@ -257,42 +257,6 @@
 				"downloads": []
 			},
 			"aliases": []
-		},
-		{
-			"type": "mod",
-			"version": "4.0.0",
-			"name": "FreeLookInCars",
-			"displayName": "Free Look In Cars",
-			"author": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a> and <a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>",
-			"previousAuthors": "",
-			"released": "2017-08-12",
-			"updated": "2020-06-30",
-			"downloadURL": "https://github.com/zeobviouslyfakeacc/Free-Look-In-Cars/releases/download/4.0.0/Free-Look-In-Cars.dll",
-			"modURL": "https://github.com/zeobviouslyfakeacc/Free-Look-In-Cars",
-			"description": "Allows looking out of the back window in cars.",
-			"tags": "",
-			"categories": [
-				"Graphics"
-			],
-			"gameversion": [],
-			"images": [],
-			"dependencies": [],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "1.97",
-				"mlversion": "0.4.3.0"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
 		}
 	]
 }
