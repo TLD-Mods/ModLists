@@ -98,52 +98,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.2",
-			"name": "GearDecayModifier",
-			"displayName": "Gear Decay Modifier",
-			"author": "",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2023-01-23",
-			"downloadURL": "https://github.com/Xpazeman/tld-gear-decay-modifier/releases/latest/download/GearDecayModifier.dll",
-			"modURL": "https://github.com/Xpazeman/tld-gear-decay-modifier",
-			"description": "Mod for The Long Dark to modify decay rates of gear. Settings go from completely stopping decay to making it much faster. Various categories to change.",
-			"tags": "gear, decay, spoiled",
-			"categories": [
-				"Gameplay",
-				"Cheats"
-			],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [
-				"https://tld.xpazeapps.com/images/gear_decay_0.jpg",
-				"https://tld.xpazeapps.com/images/gear_decay_1.jpg",
-				"https://tld.xpazeapps.com/images/gear_decay_2.jpg"
-			],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "Updated to work with TLD 2.06",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.24",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "2.5.2",
 			"name": "HouseLights",
 			"displayName": "House Lights",
