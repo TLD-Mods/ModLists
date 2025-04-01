@@ -267,54 +267,7 @@
 				"downloads": []
 			},
 			"aliases": []
-		},
-		{
-			"type": "mod",
-			"version": "2.6",
-			"name": "PlacingAnywhere",
-			"displayName": "Placing Anywhere",
-			"author": "",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2023-01-06",
-			"downloadURL": "https://github.com/Xpazeman/tld-placing-anywhere/releases/latest/download/PlacingAnywhere.dll",
-			"modURL": "https://github.com/Xpazeman/tld-placing-anywhere",
-			"description": "Mod for The Long Dark that removes restrictions when placing items, and adds controls to rotate and position the object.",
-			"tags": "",
-			"categories": [
-				"Quality of Life",
-				"Gameplay"
-			],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [
-				"https://tld.xpazeapps.com/images/placing_anywhere_0.jpg",
-				"https://tld.xpazeapps.com/images/placing_anywhere_1.jpg",
-				"https://tld.xpazeapps.com/images/placing_anywhere_2.jpg"
-			],
-			"dependencies": [
-				"ModSettings",
-				"KeyboardUtilities"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "Updated to work with TLD 2.06",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.24",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
+		},		
 		{
 			"type": "mod",
 			"version": "1.2",
