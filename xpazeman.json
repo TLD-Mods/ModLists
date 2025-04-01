@@ -223,50 +223,6 @@
 				"downloads": []
 			},
 			"aliases": []
-		},
-		{
-			"type": "mod",
-			"version": "2.3",
-			"name": "KeroseneLampTweaks",
-			"displayName": "Kerosene Lamp Tweaks",
-			"author": "",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2023-01-25",
-			"downloadURL": "https://github.com/Xpazeman/tld-kerosene-lamp-tweaks/releases/latest/download/KeroseneLampTweaks.dll",
-			"modURL": "https://github.com/Xpazeman/tld-kerosene-lamp-tweaks",
-			"description": "Mod for The Long Dark to modify the rates of fuel consumption for kerosene lamps and the color they emit.",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [
-				"https://tld.xpazeapps.com/images/kerosene_lamp_tweaks_0.jpg",
-				"https://tld.xpazeapps.com/images/kerosene_lamp_tweaks_1.jpg"
-			],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "NEW: Added options to select a different color for Spelunker's lamp<br />\nFIX: Fixed first person light coloring for Spelunker's lamp",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.24",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
 		},		
 		{
 			"type": "mod",
