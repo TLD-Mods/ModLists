@@ -6,42 +6,6 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.6",
-			"name": "EnableStatusBarPercentages",
-			"displayName": "Enable Status Bar Percentages",
-			"author": "",
-			"previousAuthors": "",
-			"released": "2017-08-02",
-			"updated": "2021-10-31",
-			"downloadURL": "https://github.com/zeobviouslyfakeacc/EnableStatusBarPercentages/releases/download/v1.6/EnableStatusBarPercentages.dll",
-			"modURL": "https://github.com/zeobviouslyfakeacc/EnableStatusBarPercentages",
-			"description": "This mod re-enables some labels in the status / first aid screen that show a percentage value of how full the warmth, fatigue, thirst, hunger, and health status bars are.",
-			"tags": "",
-			"categories": [
-				"Quality of Life"
-			],
-			"gameversion": [],
-			"images": [],
-			"dependencies": [],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "1.97",
-				"mlversion": "0.4.3.0"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "1.8",
 			"name": "InterloperRegionSelection",
 			"displayName": "Interloper Region Selection",
