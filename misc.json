@@ -6,14 +6,14 @@
 	"mods": [
     {
 			"type": "mod",
-			"version": "2.0.4",
+			"version": "2.0.6",
 			"name": "HungerRevamped",
 			"displayName": "Hunger Revamped",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2018-03-31",
 			"updated": "2024-12-04",
-			"downloadURL": "https://github.com/TLD-Mods/HungerRevamped/releases/download/2.0.4/HungerRevamped.dll",
+			"downloadURL": "https://github.com/TLD-Mods/HungerRevamped/releases/download/2.0.6/HungerRevamped.dll",
 			"modURL": "https://github.com/TLD-Mods/HungerRevamped",
 			"description": "(Updated by BA) Improves the hunger system by separating hunger and stored calories.",
 			"tags": "",
@@ -34,7 +34,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.39",
+				"tldversion": "2.40",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
