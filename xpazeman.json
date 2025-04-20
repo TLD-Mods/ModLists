@@ -130,7 +130,7 @@
 				"beta": false,
 				"patchnotes": "NEW: Added switches from the new areas \nFIX: Null NRE when loading scenes",
 				"notes": "",
-				"issues": ""
+				"issues": "Switches may not work properly, use 'thl' console command to turn the lights on"
 			},
 			"testedon": {
 				"tldversion": "2.24",
