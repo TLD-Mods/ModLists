@@ -26,7 +26,7 @@
                 "ModSettings"
             ],
             "status": {
-                "working": true,
+                "working": false,
                 "beta": false,
                 "patchnotes": "",
                 "notes": "",
@@ -196,44 +196,6 @@
             },
             "updater": {
                 "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
-            "version": "2.0.0",
-            "name": "CustomWhiteout",
-            "displayName": "Custom Whiteout",
-            "author": "ds5678",
-            "previousAuthors": "<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a>",
-            "released": "",
-            "updated": "2021-03-13",
-            "downloadURL": "https://github.com/ds5678/CustomWhiteout/releases/download/2.0.0/CustomWhiteout.dll",
-            "modURL": "https://github.com/ds5678/CustomWhiteout",
-            "description": "Custom Whiteout Challenge. Allows the player to set the items to be gathered and the place to gather items to.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [
-                "ModSettings"
-            ],
-            "status": {
-                "working": false,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "1.97",
-                "mlversion": "0.4.3.0"
-            },
-            "updater": {
-                "enable": false,
                 "downloads": []
             },
             "aliases": []
