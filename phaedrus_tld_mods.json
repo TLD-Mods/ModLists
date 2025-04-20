@@ -6,47 +6,6 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.22",
-			"name": "Outdoor Safehouse Adjustments",
-			"displayName": "Outdoor Safehouse Adjustments",
-			"author": "Phaedrus",
-			"previousAuthors": "Santana",
-			"released": "2023-08-30",
-			"updated": "2023-09-14",
-			"downloadURL": "https://github.com/Phaedrus3/OutdoorSafehouseAdjustments/releases/download/ver1.22/OutdoorSafehouseAdjustments.dll",
-			"modURL": "https://github.com/Phaedrus3/OutdoorSafehouseAdjustments",
-			"description": "Make adjustments to several outdoor safehouses, such as moving, adding and removing objects.",
-			"tags": "",
-			"categories": [
-				"Quality of Life",
-				"Base Building"
-			],
-			"gameversion": [],
-			"images": [
-				"https://raw.githubusercontent.com/Phaedrus3/ModListJson/main/OutdoorSafehouseAdjustments.jpg"
-			],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.23",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "2.0",
 			"name": "Stretch Armstrong",
 			"displayName": "Stretch Armstrong",
@@ -201,44 +160,6 @@
 				"BetterBlackrock:AFortBlackrockPlayerHome",
 				"BetterBlackrock"
 			]
-		},
-				{
-			"type": "mod",
-			"version": "1.1",
-			"name": "ForsakenHangarWorkbench",
-			"displayName": "Forsaken Hangar Workbench",
-			"author": "Phaedrus",
-			"previousAuthors": "",
-			"released": "2023-09-05",
-			"updated": "2023-09-08",
-			"downloadURL": "https://github.com/Phaedrus3/ForsakenHangarWorkbench/releases/download/v1.1/ForsakenHangarWorkbench.dll",
-			"modURL": "https://github.com/Phaedrus3/ForsakenHangerWorkbench",
-			"description": "Move the workbench to the main level of the Hangar and move the two tool cabinetsvnext to the next location of the workbench.",
-			"tags": "",
-			"categories": [
-				"Quality of Life"
-			],
-			"gameversion": [],
-			"images": ["https://raw.githubusercontent.com/Phaedrus3/ModListJson/main/FAHangarWorkbench.jpg"],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.23",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
 		},
 		{
 			"type": "mod",
