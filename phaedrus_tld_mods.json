@@ -84,42 +84,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2",
-			"name": "Increase Save Slot Limit",
-			"displayName": "Increase Save Slot Limit",
-			"author": "Phaedrus",
-			"previousAuthors": "ds5678 and zeobviouslyfakeacc",
-			"released": "2023-07-09",
-			"updated": "2023-07-09",
-			"downloadURL": "https://github.com/Phaedrus3/IncreaseSaveSlotLimit/releases/download/v1.2/IncreaseSaveSlotLimit.dll",
-			"modURL": "https://github.com/Phaedrus3/IncreaseSaveSlotLimit",
-			"description": "Increases save slots to 999 instead of the default 25.",
-			"tags": "",
-			"categories": [
-				"Quality of Life"
-			],
-			"gameversion": [],
-			"images": ["https://raw.githubusercontent.com/Phaedrus3/ModListJson/main/SaveSlotLimit.jpg"],
-			"dependencies": [],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.23",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "1.0",
 			"name": "Fort Blackrock: A Blackrock Prison Cleanup",
 			"displayName": "Fort Blackrock: A Blackrock Prison Cleanup",
