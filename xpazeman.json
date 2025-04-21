@@ -39,7 +39,7 @@
 				"beta": false,
 				"patchnotes": "Changed some config files to avoid excessive brightness with high ambience level settings. Added Ash Canyon interiors. Removed configs for caves and mines so mod isn't active in them.",
 				"notes": "To install, extract zip contents in Mods folder. <strong>DO NOT LEAVE THE .ZIP FILE IN THE FOLDER.</strong>",
-				"issues": ""
+				"issues": "Most recent regions don't have config. Disable 'True sun' settings if you experiencing performance issue"
 			},
 			"testedon": {
 				"tldversion": "2.24",
