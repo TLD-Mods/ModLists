@@ -579,6 +579,42 @@
             "aliases": []
         },{
             "type": "mod",
+            "version": "2.2.0",
+            "name": "SonicMode",
+            "displayName": "Sonic Mode",
+            "author": "ds5678",
+            "previousAuthors": "",
+            "released": "",
+            "updated": "2025-04-21",
+            "downloadURL": "https://github.com/ds5678/SonicMode/releases/latest/download/SonicMode.dll",
+            "modURL": "https://github.com/ds5678/SonicMode",
+            "description": "Lets you go fast!<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+            "tags": "",
+            "categories": [],
+            "gameversion": [
+                "vanilla",
+                "tftft"
+            ],
+            "images": [],
+            "dependencies": [],
+            "status": {
+                "working": true,
+                "beta": false,
+                "patchnotes": "",
+                "notes": "",
+                "issues": ""
+            },
+            "testedon": {
+                "tldversion": "2.40",
+                "mlversion": "0.7.0.0"
+            },
+            "updater": {
+                "enable": true,
+                "downloads": []
+            },
+            "aliases": []
+        }, {
+            "type": "mod",
             "version": "3.0.0",
             "name": "TimeAccelerator",
             "displayName": "Time Accelerator",
