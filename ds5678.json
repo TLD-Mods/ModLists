@@ -201,6 +201,42 @@
             "aliases": []
         }, {
             "type": "mod",
+            "version": "1.0.1",
+            "name": "CustomSaveDataUtilities",
+            "displayName": "Custom Save Data Utilities",
+            "author": "ds5678",
+            "previousAuthors": "",
+            "released": "",
+            "updated": "2021-10-12",
+            "downloadURL": "https://github.com/ds5678/CustomSaveDataUtilities/releases/download/1.0.1/CustomSaveDataUtilities.dll",
+            "modURL": "https://github.com/ds5678/CustomSaveDataUtilities",
+            "description": "Utility mod for custom save data on gear items.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+            "tags": "",
+            "categories": [],
+            "gameversion": [
+                "vanilla",
+                "tftft"
+            ],
+            "images": [],
+            "dependencies": [],
+            "status": {
+                "working": false,
+                "beta": false,
+                "patchnotes": "",
+                "notes": "",
+                "issues": ""
+            },
+            "testedon": {
+                "tldversion": "1.97",
+                "mlversion": "0.4.3.0"
+            },
+            "updater": {
+                "enable": false,
+                "downloads": []
+            },
+            "aliases": []
+        }, {
+            "type": "mod",
             "version": "4.0.1",
             "name": "Disable-Cabin-Fever",
             "displayName": "Disable Cabin Fever",
@@ -333,7 +369,7 @@
             "images": [],
             "dependencies": [],
             "status": {
-                "working": true,
+                "working": false,
                 "beta": false,
                 "patchnotes": "",
                 "notes": "",
@@ -371,7 +407,7 @@
                 "ModSettings"
             ],
             "status": {
-                "working": true,
+                "working": false,
                 "beta": false,
                 "patchnotes": "",
                 "notes": "",
@@ -526,7 +562,7 @@
             "images": [],
             "dependencies": [],
             "status": {
-                "working": true,
+                "working": false,
                 "beta": false,
                 "patchnotes": "",
                 "notes": "",
@@ -592,42 +628,6 @@
             "downloadURL": "https://github.com/ds5678/Toggle-HUD/releases/download/3.1.0/Toggle-HUD.dll",
             "modURL": "https://github.com/ds5678/Toggle-HUD",
             "description": "Allows the player to toggle the scent and time-of-day indicators instead of them disappearing after some time.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [],
-            "status": {
-                "working": false,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "1.97",
-                "mlversion": "0.4.3.0"
-            },
-            "updater": {
-                "enable": false,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
-            "version": "1.0.1",
-            "name": "CustomSaveDataUtilities",
-            "displayName": "Custom Save Data Utilities",
-            "author": "ds5678",
-            "previousAuthors": "",
-            "released": "",
-            "updated": "2021-10-12",
-            "downloadURL": "https://github.com/ds5678/CustomSaveDataUtilities/releases/download/1.0.1/CustomSaveDataUtilities.dll",
-            "modURL": "https://github.com/ds5678/CustomSaveDataUtilities",
-            "description": "Utility mod for custom save data on gear items.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
             "tags": "",
             "categories": [],
             "gameversion": [
