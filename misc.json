@@ -80,44 +80,6 @@
 				"downloads": ["https://github.com/TLD-Mods/StretchArmstrong/releases/download/2.0.0/StretchArmstrong.dll"]
 			},
 			"aliases": []
-		},
-		{
-			"type": "mod",
-			"version": "2.1.0",
-			"name": "SonicMod",
-			"displayName": "Sonic Mod",
-			"author": "",
-			"previousAuthors": "ds5678, phaedrus",
-			"released": "2025-04-21",
-			"updated": "2025-04-21",
-			"downloadURL": "https://github.com/TLD-Mods/SonicMod/releases/download/2.1.0/SonicMode.dll",
-			"modURL": "https://github.com/TLD-Mods/SonicMod",
-			"description": "Change the range at which you can interact with things.",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [],
-			"images": [],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.40",
-				"mlversion": "0.6.6"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": ["https://github.com/TLD-Mods/SonicMod/releases/download/2.1.0/SonicMode.dll"]
-			},
-			"aliases": []
 		}
   ]
 }
