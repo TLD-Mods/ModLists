@@ -4,7 +4,7 @@
 	"authorURL": "",
 	"supportURL": "",
 	"mods": [
-    {
+		{
 			"type": "mod",
 			"version": "2.0.6",
 			"name": "HungerRevamped",
@@ -21,7 +21,10 @@
 				"Gameplay",
 				"Overhaul"
 			],
-			"gameversion": ["vanilla","tftft"],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
 			"images": [],
 			"dependencies": [
 				"ModSettings"
@@ -41,7 +44,8 @@
 				"enable": true,
 				"downloads": []
 			},
-			"aliases": []
+			"aliases": [],
+			"replaces": []
 		},
 		{
 			"type": "mod",
@@ -59,7 +63,10 @@
 			"categories": [
 				"Gameplay"
 			],
-			"gameversion": ["vanilla","tftft"],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
 			"images": [],
 			"dependencies": [
 				"ModSettings"
@@ -77,9 +84,57 @@
 			},
 			"updater": {
 				"enable": true,
-				"downloads": ["https://github.com/TLD-Mods/StretchArmstrong/releases/download/2.0.0/StretchArmstrong.dll"]
+				"downloads": [
+					"https://github.com/TLD-Mods/StretchArmstrong/releases/download/2.0.0/StretchArmstrong.dll"
+				]
 			},
-			"aliases": []
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "5.0.0",
+			"name": "BetterNightSky",
+			"displayName": "Better Night Sky",
+			"author": "",
+			"previousAuthors": "Jonayling,ds5678,WulfMarius",
+			"released": "2017-08-29",
+			"updated": "2023-04-26",
+			"downloadURL": "https://github.com/TLD-Mods/BetterNightSky/releases/download/5.0.0/Better-Night-Sky.dll",
+			"modURL": "https://github.com/TLD-Mods/BetterNightSky",
+			"description": "Makes the night sky more realistic.Replaces the Moon and Stars with a more detailed representation. Adds meteor showers. ",
+			"tags": "sky,visual,graphics,overhaul,night,stars,star",
+			"categories": [
+				"Graphics",
+				"Overhaul"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/TLD-Mods/BetterNightSky/refs/heads/main/Images/night-sky.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.40",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
 		}
-  ]
+	]
 }
