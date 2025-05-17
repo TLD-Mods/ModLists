@@ -10,18 +10,18 @@
 			"name": "HungerRevamped",
 			"displayName": "Hunger Revamped",
 			"author": "",
-			"previousAuthors": "",
+			"previousAuthors": "BA, zeobviouslyfakeacc",
 			"released": "2018-03-31",
 			"updated": "2025-04-18",
 			"downloadURL": "https://github.com/TLD-Mods/HungerRevamped/releases/download/2.0.6/HungerRevamped.dll",
 			"modURL": "https://github.com/TLD-Mods/HungerRevamped",
-			"description": "(Updated by BA) Improves the hunger system by separating hunger and stored calories.",
-			"tags": "",
+			"description": "Improves the hunger system by separating hunger and stored calories. Adds customization options for cooking such as enabling cooking ruined food.",
+			"tags": "food,hunger,overhaul,needs,system,calories,cooking",
 			"categories": [
 				"Gameplay",
 				"Overhaul"
 			],
-			"gameversion": [],
+			"gameversion": ["vanilla","tftft"],
 			"images": [],
 			"dependencies": [
 				"ModSettings"
@@ -59,7 +59,7 @@
 			"categories": [
 				"Gameplay"
 			],
-			"gameversion": [],
+			"gameversion": ["vanilla","tftft"],
 			"images": [],
 			"dependencies": [
 				"ModSettings"
