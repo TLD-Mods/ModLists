@@ -96,52 +96,7 @@
 			},
 			"aliases": []
 		},
-		{
-			"type": "mod",
-			"version": "2.5.2",
-			"name": "HouseLights",
-			"displayName": "House Lights",
-			"author": "",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2023-06-20",
-			"downloadURL": "https://github.com/Xpazeman/tld-house-lights/releases/latest/download/HouseLights.dll",
-			"modURL": "https://github.com/Xpazeman/tld-house-lights",
-			"description": "Mod for The Long Dark that magically brings electricity back. You can turn lights on and off by using the light switches.",
-			"tags": "",
-			"categories": [
-				"Quality of Life",
-				"Graphics",
-				"Cheats"
-			],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [
-				"https://tld.xpazeapps.com/images/house_lights_0.jpg",
-				"https://tld.xpazeapps.com/images/house_lights_1.jpg"
-			],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "NEW: Added switches from the new areas \nFIX: Null NRE when loading scenes",
-				"notes": "",
-				"issues": "Switches may not work properly, use 'thl' console command to turn the lights on. Also, enabling the 'Turn Off Aurora Light Flicker' settings will disable all lights"
-			},
-			"testedon": {
-				"tldversion": "2.24",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
+		
 		{
 			"type": "mod",
 			"version": "2.2",
