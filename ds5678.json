@@ -503,42 +503,6 @@
                 "downloads": []
             },
             "aliases": []
-        }, {
-            "type": "mod",
-            "version": "3.0.0",
-            "name": "Silent-Aurora",
-            "displayName": "Silent Aurora",
-            "author": "ds5678",
-            "previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
-            "released": "",
-            "updated": "2021-01-19",
-            "downloadURL": "https://github.com/ds5678/Silent-Aurora/releases/download/3.0.0/Silent-Aurora.dll",
-            "modURL": "https://github.com/ds5678/Silent-Aurora",
-            "description": "Removes the aurora music, including the radio. Does not affect the humming/crackling of electronics.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [],
-            "status": {
-                "working": false,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "1.97",
-                "mlversion": "0.4.3.0"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
         },{
             "type": "mod",
             "version": "2.2.0",
