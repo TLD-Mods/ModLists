@@ -123,45 +123,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "0.3.8",
-			"name": "CustomSettingsTweaker",
-			"displayName": "Custom Settings Tweaker PRE-RELEASE",
-			"author": "",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2023-07-14",
-			"downloadURL": "https://github.com/GruffCassquatch/CustomSettingsTweaker/releases/download/0.3.8/CustomSettingsTweaker.dll",
-			"modURL": "https://github.com/GruffCassquatch/CustomSettingsTweaker",
-			"description": "Allows you to change and fine-tune several settings in a CUSTOM mode game (new or existing), such as Hunger, Thirst, Fatigue, Condition Recovery etc. This is a PRE-RELEASE VERSION for testing and feedback. Full instructions in the README.",
-			"tags": "Custom, Settings",
-			"categories": [
-				"Quality of Life",
-				"Gameplay"
-			],
-			"gameversion": [],
-			"images": [],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": false,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.20",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "2.0.0",
 			"name": "RerollBurntBuildings",
 			"displayName": "Reroll Burnt Buildings",
