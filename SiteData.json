@@ -114,6 +114,10 @@
 		{
 			"broken":true
 		},
+		"WolvesComeOutAtNight":
+		{
+			"broken":true
+		},
 		"ExtraGraphicsSettings":
 		{
 			"replaces":["DisableChromaticAberration","EnableStatusBarPercentages","FreeLookInCars"]
