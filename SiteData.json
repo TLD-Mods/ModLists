@@ -79,7 +79,13 @@
 		"Modders' Gear Toolbox":
 		{
 			"broken":true,
-			"working":false
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "minor bugfixing. Added Russian, Turkish, Italian and French localizations",
+				"notes": "Unzip the .zip, drop contents in mod folder.",
+				"issues": ""
+			}
 		},
 		"DrawFromDrawer":
 		{
