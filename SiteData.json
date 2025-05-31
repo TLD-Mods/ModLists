@@ -138,6 +138,10 @@
 		{
 			"broken":true
 		},
+		"RandomizeInterloperRareSpawns":
+		{
+			"broken":true
+		},
 		"TLR":
 		{
 			"broken":true
