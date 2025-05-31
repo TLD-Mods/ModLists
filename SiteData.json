@@ -49,25 +49,13 @@
 		"https://raw.githubusercontent.com/Phaedrus3/ModListJson/main/phaedrus_tld_mods.json"
 	],
 	"overrides": {
-		"BetterBases": 
-		{
-			"broken": true
-		},
 		"BeachcombingAdjustments": 
 		{
 			"broken": true
 		},
-		"LimitlessContainerSpace": 
+		"BetterBases": 
 		{
 			"broken": true
-		},
-		"Indoors Greenery": 
-		{
-			"broken": true
-		},
-		"LitharsMending":
-		{
-			"broken":true
 		},		
 		"CampingTools":
 		{
@@ -77,10 +65,6 @@
 		{
 			"broken":true
 		},
-		"Modders' Gear Toolbox":
-		{
-			"broken":true,
-		},
 		"DrawFromDrawer":
 		{
 			"broken":true
@@ -88,6 +72,22 @@
 		"FoxCompanion":
 		{
 		 	"broken":true
+		},
+		"Indoors Greenery": 
+		{
+			"broken": true
+		},
+		"Modders' Gear Toolbox":
+		{
+			"broken":true,
+		},
+		"LimitlessContainerSpace": 
+		{
+			"broken": true
+		},
+		"LitharsMending":
+		{
+			"broken":true
 		},
 		"ExtraGraphicsSettings":
 		{
