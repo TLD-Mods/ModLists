@@ -73,18 +73,6 @@
 		{
 			"broken":true
 		},
-		"ExtraGraphicsSettings":
-		{
-			"replaces":["DisableChromaticAberration","EnableStatusBarPercentages","FreeLookInCars"]
-		},		
-		"UniversalTweaks":
-		{
-			"replaces":["CarryWeightMod","WeightTweaks","EnableFeatProgressInCustomMode"]
-		},
-		"MapManager":
-		{
-			"replaces":["MapTweaks"]
-		},
 		"Modders' Gear Toolbox":
 		{
 			"broken":true,
@@ -96,6 +84,18 @@
 		"FoxCompanion":
 		{
 		 	"broken":true
+		},
+		"ExtraGraphicsSettings":
+		{
+			"replaces":["DisableChromaticAberration","EnableStatusBarPercentages","FreeLookInCars"]
+		},		
+		"UniversalTweaks":
+		{
+			"replaces":["CarryWeightMod","WeightTweaks","EnableFeatProgressInCustomMode"]
+		},
+		"MapManager":
+		{
+			"replaces":["MapTweaks"]
 		}
 	}
 }
