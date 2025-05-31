@@ -48,7 +48,8 @@
 		"https://raw.githubusercontent.com/DeletedAccount01/ModListJson/main/deleted_tld_mods.json",
 		"https://raw.githubusercontent.com/Phaedrus3/ModListJson/main/phaedrus_tld_mods.json"
 	],
-	"overrides": {
+	"overrides": 
+	{
 		"BeachcombingAdjustments": 
 		{
 			"broken": true
