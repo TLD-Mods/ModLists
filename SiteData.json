@@ -49,13 +49,16 @@
 		"https://raw.githubusercontent.com/Phaedrus3/ModListJson/main/phaedrus_tld_mods.json"
 	],
 	"overrides": {
-		"BeachcombingAdjustments": {
+		"BeachcombingAdjustments": 
+		{
 			"broken": true
 		},
-		"LimitlessContainerSpace": {
+		"LimitlessContainerSpace": 
+		{
 			"broken": true
 		},
-		"Indoors Greenery": {
+		"Indoors Greenery": 
+		{
 			"broken": true
 		},
 		"LitharsMending":
@@ -85,7 +88,8 @@
 		"Modders' Gear Toolbox":
 		{
 			"broken":true,
-			"status": {
+			"status": 
+			{
 				"working": false,
 				"beta": false,
 				"patchnotes": "minor bugfixing. Added Russian, Turkish, Italian and French localizations",
