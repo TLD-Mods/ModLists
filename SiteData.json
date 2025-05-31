@@ -78,7 +78,8 @@
 		},
 		"Modders' Gear Toolbox":
 		{
-			"broken":true
+			"broken":true,
+			"working":false
 		},
 		"DrawFromDrawer":
 		{
