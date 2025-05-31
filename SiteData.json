@@ -102,6 +102,10 @@
 		{
 		 	"broken":true
 		},
+		"HouseBasements":
+		{
+			"broken":true
+		},
 		"IndoorsGreenery": 
 		{
 			"broken": true
