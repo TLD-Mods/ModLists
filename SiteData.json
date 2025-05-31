@@ -49,6 +49,10 @@
 		"https://raw.githubusercontent.com/Phaedrus3/ModListJson/main/phaedrus_tld_mods.json"
 	],
 	"overrides": {
+		"BetterBases": 
+		{
+			"broken": true
+		},
 		"BeachcombingAdjustments": 
 		{
 			"broken": true
