@@ -94,6 +94,10 @@
 		{
 			"broken":true
 		},
+		"FasterHarvesting":
+		{
+			"broken":true
+		},
 		"FoxCompanion":
 		{
 		 	"broken":true
