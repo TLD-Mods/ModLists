@@ -74,6 +74,18 @@
 		{
 			"broken":true
 		},
+		"ChooseStartingConditions":
+		{
+			"broken":true
+		},
+		"ChooseStartingGear":
+		{
+			"broken":true
+		},
+		"ChooseStartingLocation":
+		{
+			"broken":true
+		},
 		"CozyBlankets":
 		{
 			"broken":true
