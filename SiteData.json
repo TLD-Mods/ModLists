@@ -49,6 +49,9 @@
 		"https://raw.githubusercontent.com/Phaedrus3/ModListJson/main/phaedrus_tld_mods.json"
 	],
 	"overrides": {
+		"Beachcombing Adjustments" {
+			"broken": true
+		},
 		"LimitlessContainerSpace": {
 			"broken": true
 		},
