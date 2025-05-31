@@ -154,6 +154,10 @@
 		{
 			"broken":true
 		},
+		"ToggleHUD":
+		{
+			"broken":true
+		},
 		"WolvesComeOutAtNight":
 		{
 			"broken":true
