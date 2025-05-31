@@ -150,6 +150,10 @@
 		{
 			"broken":true
 		},
+		"RandomizeInterloperRareSpawns":
+		{
+			"broken":true
+		},
 		"ExtraGraphicsSettings":
 		{
 			"replaces":["DisableChromaticAberration","EnableStatusBarPercentages","FreeLookInCars"]
