@@ -86,10 +86,6 @@
 		{
 			"broken":true
 		},
-		"CozyBlankets":
-		{
-			"broken":true
-		},
 		"DrawFromDrawer":
 		{
 			"broken":true
@@ -177,6 +173,10 @@
 		"MapManager":
 		{
 			"replaces":["MapTweaks"]
+		},
+		"Leatherworks":
+		{
+			"broken":true
 		}
 	}
 }
