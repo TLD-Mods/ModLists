@@ -6,9 +6,9 @@
 		]
 	},
 	{
-		"Mod": "GearVariation",
+		"Mod": "ImprovedAfflictions",
 		"Requires": [
-			"Modders' Gear Toolbox"
+			"AfflictionComponent"
 		]
 	}
 ]
