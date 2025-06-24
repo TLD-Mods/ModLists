@@ -86,6 +86,18 @@
 		{
 			"broken":true
 		},
+		"CraftingHotkey":
+		{
+			"broken":true
+		},
+		"CustomSaveDataUtilities":
+		{
+			"broken":true
+		},
+		"DisableCabinFever":
+		{
+			"broken":true
+		},
 		"DrawFromDrawer":
 		{
 			"broken":true
@@ -102,9 +114,17 @@
 		{
 			"broken":true
 		},
+		"ImprovedSoundtrack":
+		{
+			"broken":true
+		},
 		"IndoorsGreenery": 
 		{
 			"broken": true
+		},
+		"Leatherworks":
+		{
+			"broken":true
 		},
 		"LimitlessContainerSpace": 
 		{
@@ -114,15 +134,19 @@
 		{
 			"broken":true
 		},
+		"MaintainYourself":
+		{
+			"broken":true
+		},
+		"MapMakerTools": 
+		{
+			"broken": true
+		},
 		"ModdersGearToolbox":
 		{
 			"broken":true
 		},
 		"MoreLockedDoors":
-		{
-			"broken":true
-		},
-		"MusicMod":
 		{
 			"broken":true
 		},
@@ -150,15 +174,15 @@
 		{
 			"broken":true
 		},
+		"TinCanImprovements":
+		{
+			"broken":true
+		},
 		"ToggleHUD":
 		{
 			"broken":true
 		},
 		"WolvesComeOutAtNight":
-		{
-			"broken":true
-		},
-		"RandomizeInterloperRareSpawns":
 		{
 			"broken":true
 		},
@@ -173,10 +197,6 @@
 		"MapManager":
 		{
 			"replaces":["MapTweaks"]
-		},
-		"Leatherworks":
-		{
-			"broken":true
 		}
 	}
 }
