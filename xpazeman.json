@@ -221,45 +221,6 @@
 			"aliases": []
 		},
 		{
-			"type": "plugin",
-			"version": "1.0.0",
-			"name": "TLDEpicGameModCompat",
-			"displayName": "TLD Epic Games Mod Compat Plugin",
-			"author": "",
-			"previousAuthors": "",
-			"released": "2023-05-11",
-			"updated": "2023-05-11",
-			"downloadURL": "https://github.com/Xpazeman/tld-epic-compat-plugin/releases/latest/download/TLDEpicGamesModCompat.dll",
-			"modURL": "https://github.com/Xpazeman/tld-epic-compat-plugin",
-			"description": "Plugin that allows Epic Games users to use MelonLoader and mods in TLD.\nThis will disable DLC & Wintermute even if you own them",
-			"tags": "compatibility, epic, epic games, epicgames, compat plugin, compat",
-			"categories": [
-				"Utility Mod"
-			],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [],
-			"dependencies": [],
-			"status": {
-				"working": false,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "DOESN'T WORK IN LATEST VERSIONS. Since this plugin disables EOS, DLC & Wintermute ownership can't be checked, so they will be disabled. Remove the plugin to have access to them again",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.20",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
 			"type": "mod",
 			"version": "1.1.0",
 			"name": "BetterBases",
