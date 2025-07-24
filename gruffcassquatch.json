@@ -3,46 +3,7 @@
 	"author": "Cass",
 	"authorURL": "https://github.com/GruffCassquatch",
 	"supportURL": "",
-	"mods": [
-		{
-			"type": "mod",
-			"version": "2.0.0",
-			"name": "ChooseStartingConditions",
-			"displayName": "Choose Starting Conditions",
-			"author": "",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2023-05-01",
-			"downloadURL": "https://github.com/GruffCassquatch/ChooseStartingConditions/releases/download/2.0/ChooseStartingConditions.dll",
-			"modURL": "https://github.com/GruffCassquatch/ChooseStartingConditions",
-			"description": "Allows you to choose your starting condition, fatigue, hunger, thirst, warmth, injuries and illnesses when starting a new game. Full instructions in the README.",
-			"tags": "Custom, Start, Condition, Injured",
-			"categories": [
-				"Quality of Life",
-				"Gameplay"
-			],
-			"gameversion": [],
-			"images": [],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": false,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.12",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": false,
-				"downloads": []
-			},
-			"aliases": []
-		},
+	"mods": [		
 		{
 			"type": "mod",
 			"version": "1.2.2",
