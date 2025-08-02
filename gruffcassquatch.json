@@ -3,46 +3,7 @@
 	"author": "Cass",
 	"authorURL": "https://github.com/GruffCassquatch",
 	"supportURL": "",
-	"mods": [		
-		{
-			"type": "mod",
-			"version": "1.2.2",
-			"name": "ChooseStartingGear",
-			"displayName": "Choose Starting Gear",
-			"author": "",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2022-08-09",
-			"downloadURL": "https://github.com/GruffCassquatch/ChooseStartingGear/releases/download/1.2.2/ChooseStartingGear.dll",
-			"modURL": "https://github.com/GruffCassquatch/ChooseStartingGear",
-			"description": "Allows you to choose your starting gear when starting a new game. Full instructions in the README.",
-			"tags": "Custom, Start, Gear",
-			"categories": [
-				"Quality of Life",
-				"Gameplay"
-			],
-			"gameversion": [],
-			"images": [],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": false,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "Use with 2.01 Time Capsule, will not work on game versions >2.02",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.01",
-				"mlversion": "0.5.7"
-			},
-			"updater": {
-				"enable": false,
-				"downloads": []
-			},
-			"aliases": []
-		},
+	"mods": [				
 		{
 			"type": "mod",
 			"version": "1.0.0",
@@ -272,3 +233,4 @@
 		}
 	]
 }
+
