@@ -32,7 +32,8 @@
 		"https://raw.githubusercontent.com/Ezinw/ModListTLD/refs/heads/main/ModListTLD.json",
 		"https://raw.githubusercontent.com/TLD-Mods/ModLists/refs/heads/master/misc.json",
 		"https://raw.githubusercontent.com/moosemeat817/ModListJson/refs/heads/main/moosemeat_tld_mods.json",
-		"https://raw.githubusercontent.com/monsieurmeh/TLDModJSON/refs/heads/main/modlist.json"
+		"https://raw.githubusercontent.com/monsieurmeh/TLDModJSON/refs/heads/main/modlist.json",
+		"https://gitlab.com/TacticalEx/tld-tools-modlist/-/raw/main/tld-tools.json"
 	],
 	"oldlists": [
 		"https://raw.githubusercontent.com/OceanManFR/ModList/master/oceanman.json",
