@@ -27,7 +27,8 @@
 			],
 			"images": [],
 			"dependencies": [
-				"ModSettings"
+				"ModSettings",
+				"ModData"
 			],
 			"status": {
 				"working": true,
