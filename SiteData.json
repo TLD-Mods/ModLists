@@ -170,7 +170,7 @@
 		},		
 		"UniversalTweaks":
 		{
-			"replaces":["CarryWeightMod","WeightTweaks","EnableFeatProgressInCustomMode"]
+			"replaces":["CarryWeightMod","WeightTweaks","EnableFeatProgressInCustomMode","LimitlessContainerSpace"]
 		},
 		"MapManager":
 		{
