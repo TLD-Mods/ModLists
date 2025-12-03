@@ -1,7 +1,7 @@
 {
-	"currentVersion": "2.44",
-	"lastBigPatch": "2.40",
-	"latestGameBreaking": "2.40",
+	"currentVersion": "2.50",
+	"lastBigPatch": "2.50",
+	"latestGameBreaking": "2.50",
 	"melonloaderVersion": "0.6.6",
 	"lists": [
 		"https://raw.githubusercontent.com/TLD-Mods/ModLists/refs/heads/master/xpazeman.json",
