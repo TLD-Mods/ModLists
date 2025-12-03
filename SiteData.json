@@ -2,7 +2,7 @@
 	"currentVersion": "2.50",
 	"lastBigPatch": "2.50",
 	"latestGameBreaking": "2.50",
-	"melonloaderVersion": "tbd",
+	"melonloaderVersion": "0.7.2",
 	"lists": [
 		"https://raw.githubusercontent.com/TLD-Mods/ModLists/refs/heads/master/xpazeman.json",
 		"https://raw.githubusercontent.com/TLD-Mods/ModLists/master/zeobviouslyfakeacc.json",
