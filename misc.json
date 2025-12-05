@@ -22,8 +22,7 @@
 				"Overhaul"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [],
 			"dependencies": [
@@ -65,8 +64,7 @@
 				"Gameplay"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [],
 			"dependencies": [
@@ -110,8 +108,7 @@
 				"Overhaul"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/TLD-Mods/BetterNightSky/refs/heads/main/Images/night-sky.jpg"
