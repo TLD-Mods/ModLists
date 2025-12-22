@@ -4,7 +4,7 @@
 	"latestGameBreaking": "2.50",
 	"melonloaderVersion": "0.7.2",
 	"melonNightly":true,
-	"announcement":"<div id=\"announcement\" style=\"font-weight: bold;display: block;margin: 0 auto;text-align: center;margin-bottom: 10px;padding: 10px;width: 500px;color: Orange;border: 2px solid #999;vertical-align: middle;\"><a href=\"https://discord.com/channels/322211727192358914/426083940676141058/1452743642606211125\" target=\"blank\" style=\"text-decoration: none;\">2025-12-22 - Mods Status Update (Why Mods Are Broken)</a><style>.main-content{padding-top: 155px !important;}</style></div>",
+	"announcement":"<a href=\"https://discord.com/channels/322211727192358914/426083940676141058/1452743642606211125\" target=\"blank\" style=\"text-decoration: none;\">2025-12-22 - Mods Status Update (Why Mods Are Broken)</a><style>.main-content{padding-top: 155px !important;}</style>",
 	"lists": [
 		"https://raw.githubusercontent.com/TLD-Mods/ModLists/refs/heads/master/xpazeman.json",
 		"https://raw.githubusercontent.com/TLD-Mods/ModLists/master/zeobviouslyfakeacc.json",
