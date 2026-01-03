@@ -78,8 +78,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.40",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
