@@ -89,50 +89,6 @@
 			},
 			"aliases": [],
 			"replaces": []
-		},
-		{
-			"type": "mod",
-			"version": "5.0.0",
-			"name": "BetterNightSky",
-			"displayName": "Better Night Sky",
-			"author": "",
-			"previousAuthors": "Jonayling,ds5678,WulfMarius",
-			"released": "2017-08-29",
-			"updated": "2025-05-17",
-			"downloadURL": "https://github.com/TLD-Mods/BetterNightSky/releases/download/5.0.0/Better-Night-Sky.dll",
-			"modURL": "https://github.com/TLD-Mods/BetterNightSky",
-			"description": "Makes the night sky more realistic.Replaces the Moon and Stars with a more detailed representation. Adds meteor showers. ",
-			"tags": "sky,visual,graphics,overhaul,night,stars,star",
-			"categories": [
-				"Graphics",
-				"Overhaul"
-			],
-			"gameversion": [
-				"vanilla"
-			],
-			"images": [
-				"https://raw.githubusercontent.com/TLD-Mods/BetterNightSky/refs/heads/main/Images/night-sky.jpg"
-			],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.40",
-				"mlversion": "0.6.6"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": [],
-			"replaces": []
 		}
 	]
 }
