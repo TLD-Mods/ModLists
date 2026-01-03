@@ -49,14 +49,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.0.0",
+			"version": "2.1.0",
 			"name": "StretchArmstrong",
 			"displayName": "Stretch Armstrong",
 			"author": "",
 			"previousAuthors": "bushtail, phaedrus",
 			"released": "2025-04-21",
-			"updated": "2025-04-21",
-			"downloadURL": "https://github.com/TLD-Mods/StretchArmstrong/releases/download/2.0.0/StretchArmstrong.dll",
+			"updated": "2026-01-03",
+			"downloadURL": "https://github.com/TLD-Mods/StretchArmstrong/releases/download/2.1.0/StretchArmstrong.dll",
 			"modURL": "https://github.com/TLD-Mods/StretchArmstrong",
 			"description": "Change the range at which you can interact with things.",
 			"tags": "",
@@ -84,7 +84,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/TLD-Mods/StretchArmstrong/releases/download/2.0.0/StretchArmstrong.dll"
+					"https://github.com/TLD-Mods/StretchArmstrong/releases/download/2.1.0/StretchArmstrong.dll"
 				]
 			},
 			"aliases": [],
