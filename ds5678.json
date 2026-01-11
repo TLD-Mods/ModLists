@@ -1,581 +1,559 @@
 {
-    "version": "2",
-    "author": "ds5678",
-    "authorURL": "",
-    "supportURL": "https://www.patreon.com/ds5678",
-    "mods": [{
-            "type": "mod",
-            "version": "1.1",
-            "name": "BeachcombingAdjustments",
-            "displayName": "Beachcombing Adjustments",
-            "author": "ds5678",
-            "previousAuthors": "",
-            "released": "",
-            "updated": "2021-01-20",
-            "downloadURL": "https://github.com/ds5678/BeachcombingAdjustments/releases/download/1.1/BeachcombingAdjustments.dll",
-            "modURL": "https://github.com/ds5678/BeachcombingAdjustments",
-            "description": "Lets you change the loot table for beachcombing.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [
-                "ModSettings"
-            ],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "1.97",
-                "mlversion": "0.4.3.0"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
-            "version": "4.4.0",
-            "name": "Binoculars",
-            "displayName": "",
-            "author": "ds5678",
-            "previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
-            "released": "",
-            "updated": "2021-11-21",
-            "downloadURL": "https://github.com/ds5678/Binoculars/releases/latest",
-            "modURL": "https://github.com/ds5678/Binoculars",
-            "description": "Lets you see farther.<br><br><a href='https://github.com/ds5678/Binoculars' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [
-                "ModSettings",
-                "ModComponent",
-                "LocalizationUtilities",
-                "GearSpawner",
-                "CraftingRevisions"
-            ],
-            "status": {
-                "working": false,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "1.97",
-                "mlversion": "0.4.3.0"
-            },
-            "updater": {
-                "enable": false,
-                "downloads": [
-                    "https://github.com/ds5678/Binoculars/releases/download/4.4.0/Binoculars.dll",
-                    "https://github.com/ds5678/Binoculars/releases/download/4.4.0/Binoculars.modcomponent"
-                ]
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
-            "version": "1.0.0",
-            "name": "CoastalConnection",
-            "displayName": "Coastal Connection",
-            "author": "ds5678",
-            "previousAuthors": "",
-            "released": "",
-            "updated": "2025-02-20",
-            "downloadURL": "https://github.com/ds5678/CoastalConnection/releases/download/1.0.0/CoastalConnection.dll",
-            "modURL": "https://github.com/ds5678/CoastalConnection",
-            "description": "Connects Coastal Highway and Bleak Inlet by their shared road.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "2.39",
-                "mlversion": "0.7.0.0"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
-            "version": "5.0.0",
-            "name": "Coordinates-Grabber",
-            "displayName": "Coordinates Grabber",
-            "author": "ds5678",
-            "previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
-            "released": "",
-            "updated": "2023-03-15",
-            "downloadURL": "https://github.com/ds5678/Coordinates-Grabber/releases/download/5.0.0/Coordinates-Grabber.dll",
-            "modURL": "https://github.com/ds5678/Coordinates-Grabber",
-            "description": "Utility mod. Allows you to see/copy the name, position, rotation, and scene of interactive items.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [
-                "ModSettings",
-                "KeyboardUtilities"
-            ],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "2.06",
-                "mlversion": "0.6.0.0"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
-            "version": "1.0.1",
-            "name": "CustomSaveDataUtilities",
-            "displayName": "Custom Save Data Utilities",
-            "author": "ds5678",
-            "previousAuthors": "",
-            "released": "",
-            "updated": "2021-10-12",
-            "downloadURL": "https://github.com/ds5678/CustomSaveDataUtilities/releases/download/1.0.1/CustomSaveDataUtilities.dll",
-            "modURL": "https://github.com/ds5678/CustomSaveDataUtilities",
-            "description": "Utility mod for custom save data on gear items.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [],
-            "status": {
-                "working": false,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "1.97",
-                "mlversion": "0.4.3.0"
-            },
-            "updater": {
-                "enable": false,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
-            "version": "4.0.1",
-            "name": "Disable-Cabin-Fever",
-            "displayName": "Disable Cabin Fever",
-            "author": "ds5678",
-            "previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
-            "released": "",
-            "updated": "2021-06-17",
-            "downloadURL": "https://github.com/ds5678/Disable-Cabin-Fever/releases/download/4.0.1/Disable-Cabin-Fever.dll",
-            "modURL": "https://github.com/ds5678/Disable-Cabin-Fever",
-            "description": "Disables Cabin Fever in all game modes.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [],
-            "status": {
-                "working": false,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "1.97",
-                "mlversion": "0.4.3.0"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": [
-                "DisableCabinFever"
-            ]
-        }, {
-            "type": "mod",
-            "version": "1.2.0",
-            "name": "HouseBasements",
-            "displayName": "House Basements",
-            "author": "ds5678",
-            "previousAuthors": "",
-            "released": "",
-            "updated": "2022-07-22",
-            "downloadURL": "https://github.com/ds5678/HouseBasements/releases/download/1.2.0/HouseBasements.dll",
-            "modURL": "https://github.com/ds5678/HouseBasements",
-            "description": "Adds some more basements to the game.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla"
-            ],
-            "images": [],
-            "dependencies": [
-                "ModSettings"
-            ],
-            "status": {
-                "working": false,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": "The scenes required for this mod were removed in 2.03, so this cannot be updated."
-            },
-            "testedon": {
-                "tldversion": "2.00",
-                "mlversion": "0.5.4.0"
-            },
-            "updater": {
-                "enable": false,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
-            "version": "2.1.0",
-            "name": "MaintainYourself",
-            "displayName": "Maintain Yourself",
-            "author": "<a href='https://github.com/Deus13' target='_blank'>Deus</a>",
-            "previousAuthors": "",
-            "released": "",
-            "updated": "2021-06-18",
-            "downloadURL": "https://github.com/Deus13/MaintainYourself/releases/download/2.1.0/MaintainYourself.dll",
-            "modURL": "https://github.com/Deus13/MaintainYourself",
-            "description": "This adds options to customize condition gain. This can make condition recovery much harder or easier, by making recovery proportional to your needs.",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [
-                "ModSettings"
-            ],
-            "status": {
-                "working": false,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "1.94",
-                "mlversion": "0.4.3.0"
-            },
-            "updater": {
-                "enable": false,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
-            "version": "4.0.0",
-            "name": "MapMakerTools",
-            "displayName": "Map Maker Tools",
-            "author": "ds5678",
-            "previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
-            "released": "",
-            "updated": "2021-02-19",
-            "downloadURL": "https://github.com/ds5678/Map-Maker-Tools/releases/download/4.0.0/MapMakerTools.dll",
-            "modURL": "https://github.com/ds5678/Map-Maker-Tools",
-            "description": "Mod aiding in mapping the terrain for The Long Dark",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [],
-            "status": {
-                "working": false,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "1.97",
-                "mlversion": "0.4.3.0"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
-            "version": "2.1.0",
-            "name": "Non-OP-Torches",
-            "displayName": "Non-OP Torches",
-            "author": "<a href='https://github.com/Deus13' target='_blank'>Deus</a>",
-            "previousAuthors": "",
-            "released": "",
-            "updated": "2021-06-18",
-            "downloadURL": "https://github.com/Deus13/Non-OP-Torches/releases/download/2.1.0/Non-OP-Torches.dll",
-            "modURL": "https://github.com/Deus13/Non-OP-Torches",
-            "description": "This mod makes torches less overpowered.",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [
-                "ModSettings"
-            ],
-            "status": {
-                "working": false,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "1.94",
-                "mlversion": "0.4.3.0"
-            },
-            "updater": {
-                "enable": false,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
-            "version": "1.2.0",
-            "name": "RandomizeInterloperRareSpawns",
-            "displayName": "Randomize Interloper Rare Spawns",
-            "author": "ds5678",
-            "previousAuthors": "",
-            "released": "",
-            "updated": "2021-10-21",
-            "downloadURL": "https://github.com/ds5678/RandomizeInterloperRareSpawns/releases/latest",
-            "modURL": "https://github.com/ds5678/RandomizeInterloperRareSpawns",
-            "description": "Disables the Interloper loot tables and replaces them with new random spawns. Do not use on existing saves.<br><br><a href='https://github.com/ds5678/RandomizeInterloperRareSpawns' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [
-                "ModSettings",
-                "ModComponent",
-                "LocalizationUtilities",
-                "GearSpawner",
-                "CraftingRevisions"
-            ],
-            "status": {
-                "working": false,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "1.97",
-                "mlversion": "0.4.3.0"
-            },
-            "updater": {
-                "enable": false,
-                "downloads": [
-                    "https://github.com/ds5678/RandomizeInterloperRareSpawns/releases/download/1.2.0/RandomizeInterloperRareSpawns.dll",
-                    "https://github.com/ds5678/RandomizeInterloperRareSpawns/releases/download/1.2.0/RandomizeInterloperRareSpawns.modcomponent"
-                ]
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
-            "version": "1.2.0",
-            "name": "SeasonedInterloping",
-            "displayName": "Seasoned Interloping",
-            "author": "ds5678",
-            "previousAuthors": "",
-            "released": "",
-            "updated": "2024-12-02",
-            "downloadURL": "https://github.com/ds5678/SeasonedInterloping/releases/download/1.2.0/SeasonedInterloping.dll",
-            "modURL": "https://github.com/ds5678/SeasonedInterloping",
-            "description": "Adds Forsaken Airfield, Bleak Inlet, Zone of Contamination, & Sundered Pass to the list of Interloper start regions.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "2.33",
-                "mlversion": "0.6.6.0"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        },{
-            "type": "mod",
-            "version": "2.2.0",
-            "name": "SonicMode",
-            "displayName": "Sonic Mode",
-            "author": "ds5678",
-            "previousAuthors": "",
-            "released": "",
-            "updated": "2025-04-21",
-            "downloadURL": "https://github.com/ds5678/SonicMode/releases/latest/download/SonicMode.dll",
-            "modURL": "https://github.com/ds5678/SonicMode",
-            "description": "Lets you go fast!<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "2.40",
-                "mlversion": "0.7.0.0"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
-            "version": "3.0.0",
-            "name": "TimeAccelerator",
-            "displayName": "Time Accelerator",
-            "author": "ds5678",
-            "previousAuthors": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a>",
-            "released": "",
-            "updated": "2023-02-28",
-            "downloadURL": "https://github.com/ds5678/TimeAccelerator/releases/download/3.0.0/TimeAccelerator.dll",
-            "modURL": "https://github.com/ds5678/TimeAccelerator",
-            "description": "Allows the player to speed up time without changing the game difficulty.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [
-                "ModSettings",
-                "KeyboardUtilities"
-            ],
-            "status": {
-                "working": true,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "2.06",
-                "mlversion": "0.6.0.0"
-            },
-            "updater": {
-                "enable": true,
-                "downloads": []
-            },
-            "aliases": []
-        }, {
-            "type": "mod",
-            "version": "3.1.0",
-            "name": "Toggle-HUD",
-            "displayName": "Toggle HUD",
-            "author": "ds5678",
-            "previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
-            "released": "",
-            "updated": "2021-04-01",
-            "downloadURL": "https://github.com/ds5678/Toggle-HUD/releases/download/3.1.0/Toggle-HUD.dll",
-            "modURL": "https://github.com/ds5678/Toggle-HUD",
-            "description": "Allows the player to toggle the scent and time-of-day indicators instead of them disappearing after some time.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-            "tags": "",
-            "categories": [],
-            "gameversion": [
-                "vanilla",
-                "tftft"
-            ],
-            "images": [],
-            "dependencies": [],
-            "status": {
-                "working": false,
-                "beta": false,
-                "patchnotes": "",
-                "notes": "",
-                "issues": ""
-            },
-            "testedon": {
-                "tldversion": "1.97",
-                "mlversion": "0.4.3.0"
-            },
-            "updater": {
-                "enable": false,
-                "downloads": []
-            },
-            "aliases": []
-        }
-    ]
+	"version": "2",
+	"author": "ds5678",
+	"authorURL": "",
+	"supportURL": "https://www.patreon.com/ds5678",
+	"mods": [
+		{
+			"type": "mod",
+			"version": "1.1",
+			"name": "BeachcombingAdjustments",
+			"displayName": "Beachcombing Adjustments",
+			"author": "ds5678",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2021-01-20",
+			"downloadURL": "https://github.com/ds5678/BeachcombingAdjustments/releases/download/1.1/BeachcombingAdjustments.dll",
+			"modURL": "https://github.com/ds5678/BeachcombingAdjustments",
+			"description": "Lets you change the loot table for beachcombing.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "1.97",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "4.4.0",
+			"name": "Binoculars",
+			"displayName": "",
+			"author": "ds5678",
+			"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
+			"released": "",
+			"updated": "2021-11-21",
+			"downloadURL": "https://github.com/ds5678/Binoculars/releases/latest",
+			"modURL": "https://github.com/ds5678/Binoculars",
+			"description": "Lets you see farther.<br><br><a href='https://github.com/ds5678/Binoculars' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"LocalizationUtilities",
+				"GearSpawner",
+				"CraftingRevisions"
+			],
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "1.97",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": [
+					"https://github.com/ds5678/Binoculars/releases/download/4.4.0/Binoculars.dll",
+					"https://github.com/ds5678/Binoculars/releases/download/4.4.0/Binoculars.modcomponent"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "CoastalConnection",
+			"displayName": "Coastal Connection",
+			"author": "ds5678",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2025-02-20",
+			"downloadURL": "https://github.com/ds5678/CoastalConnection/releases/download/1.0.0/CoastalConnection.dll",
+			"modURL": "https://github.com/ds5678/CoastalConnection",
+			"description": "Connects Coastal Highway and Bleak Inlet by their shared road.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.39",
+				"mlversion": "0.7.0.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "5.0.0",
+			"name": "Coordinates-Grabber",
+			"displayName": "Coordinates Grabber",
+			"author": "ds5678",
+			"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
+			"released": "",
+			"updated": "2023-03-15",
+			"downloadURL": "https://github.com/ds5678/Coordinates-Grabber/releases/download/5.0.0/Coordinates-Grabber.dll",
+			"modURL": "https://github.com/ds5678/Coordinates-Grabber",
+			"description": "Utility mod. Allows you to see/copy the name, position, rotation, and scene of interactive items.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings",
+				"KeyboardUtilities"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.06",
+				"mlversion": "0.6.0.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.1",
+			"name": "CustomSaveDataUtilities",
+			"displayName": "Custom Save Data Utilities",
+			"author": "ds5678",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2021-10-12",
+			"downloadURL": "https://github.com/ds5678/CustomSaveDataUtilities/releases/download/1.0.1/CustomSaveDataUtilities.dll",
+			"modURL": "https://github.com/ds5678/CustomSaveDataUtilities",
+			"description": "Utility mod for custom save data on gear items.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "1.97",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "4.0.1",
+			"name": "Disable-Cabin-Fever",
+			"displayName": "Disable Cabin Fever",
+			"author": "ds5678",
+			"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
+			"released": "",
+			"updated": "2021-06-17",
+			"downloadURL": "https://github.com/ds5678/Disable-Cabin-Fever/releases/download/4.0.1/Disable-Cabin-Fever.dll",
+			"modURL": "https://github.com/ds5678/Disable-Cabin-Fever",
+			"description": "Disables Cabin Fever in all game modes.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "1.97",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [
+				"DisableCabinFever"
+			]
+		},
+		{
+			"type": "mod",
+			"version": "1.2.0",
+			"name": "HouseBasements",
+			"displayName": "House Basements",
+			"author": "ds5678",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2022-07-22",
+			"downloadURL": "https://github.com/ds5678/HouseBasements/releases/download/1.2.0/HouseBasements.dll",
+			"modURL": "https://github.com/ds5678/HouseBasements",
+			"description": "Adds some more basements to the game.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": "The scenes required for this mod were removed in 2.03, so this cannot be updated."
+			},
+			"testedon": {
+				"tldversion": "2.00",
+				"mlversion": "0.5.4.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.1.0",
+			"name": "MaintainYourself",
+			"displayName": "Maintain Yourself",
+			"author": "<a href='https://github.com/Deus13' target='_blank'>Deus</a>",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2021-06-18",
+			"downloadURL": "https://github.com/Deus13/MaintainYourself/releases/download/2.1.0/MaintainYourself.dll",
+			"modURL": "https://github.com/Deus13/MaintainYourself",
+			"description": "This adds options to customize condition gain. This can make condition recovery much harder or easier, by making recovery proportional to your needs.",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "1.94",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "4.0.0",
+			"name": "MapMakerTools",
+			"displayName": "Map Maker Tools",
+			"author": "ds5678",
+			"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
+			"released": "",
+			"updated": "2021-02-19",
+			"downloadURL": "https://github.com/ds5678/Map-Maker-Tools/releases/download/4.0.0/MapMakerTools.dll",
+			"modURL": "https://github.com/ds5678/Map-Maker-Tools",
+			"description": "Mod aiding in mapping the terrain for The Long Dark",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "1.97",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.1.0",
+			"name": "Non-OP-Torches",
+			"displayName": "Non-OP Torches",
+			"author": "<a href='https://github.com/Deus13' target='_blank'>Deus</a>",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2021-06-18",
+			"downloadURL": "https://github.com/Deus13/Non-OP-Torches/releases/download/2.1.0/Non-OP-Torches.dll",
+			"modURL": "https://github.com/Deus13/Non-OP-Torches",
+			"description": "This mod makes torches less overpowered.",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "1.94",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.2.0",
+			"name": "RandomizeInterloperRareSpawns",
+			"displayName": "Randomize Interloper Rare Spawns",
+			"author": "ds5678",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2021-10-21",
+			"downloadURL": "https://github.com/ds5678/RandomizeInterloperRareSpawns/releases/latest",
+			"modURL": "https://github.com/ds5678/RandomizeInterloperRareSpawns",
+			"description": "Disables the Interloper loot tables and replaces them with new random spawns. Do not use on existing saves.<br><br><a href='https://github.com/ds5678/RandomizeInterloperRareSpawns' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"LocalizationUtilities",
+				"GearSpawner",
+				"CraftingRevisions"
+			],
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "1.97",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": [
+					"https://github.com/ds5678/RandomizeInterloperRareSpawns/releases/download/1.2.0/RandomizeInterloperRareSpawns.dll",
+					"https://github.com/ds5678/RandomizeInterloperRareSpawns/releases/download/1.2.0/RandomizeInterloperRareSpawns.modcomponent"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.2.0",
+			"name": "SeasonedInterloping",
+			"displayName": "Seasoned Interloping",
+			"author": "ds5678",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2024-12-02",
+			"downloadURL": "https://github.com/ds5678/SeasonedInterloping/releases/download/1.2.0/SeasonedInterloping.dll",
+			"modURL": "https://github.com/ds5678/SeasonedInterloping",
+			"description": "Adds Forsaken Airfield, Bleak Inlet, Zone of Contamination, & Sundered Pass to the list of Interloper start regions.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.33",
+				"mlversion": "0.6.6.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "3.0.0",
+			"name": "TimeAccelerator",
+			"displayName": "Time Accelerator",
+			"author": "ds5678",
+			"previousAuthors": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a>",
+			"released": "",
+			"updated": "2023-02-28",
+			"downloadURL": "https://github.com/ds5678/TimeAccelerator/releases/download/3.0.0/TimeAccelerator.dll",
+			"modURL": "https://github.com/ds5678/TimeAccelerator",
+			"description": "Allows the player to speed up time without changing the game difficulty.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings",
+				"KeyboardUtilities"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.06",
+				"mlversion": "0.6.0.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "3.1.0",
+			"name": "Toggle-HUD",
+			"displayName": "Toggle HUD",
+			"author": "ds5678",
+			"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
+			"released": "",
+			"updated": "2021-04-01",
+			"downloadURL": "https://github.com/ds5678/Toggle-HUD/releases/download/3.1.0/Toggle-HUD.dll",
+			"modURL": "https://github.com/ds5678/Toggle-HUD",
+			"description": "Allows the player to toggle the scent and time-of-day indicators instead of them disappearing after some time.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "1.97",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
+		}
+	]
 }
