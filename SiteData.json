@@ -35,7 +35,8 @@
 		"https://raw.githubusercontent.com/TLD-Mods/ModLists/refs/heads/master/misc.json",
 		"https://raw.githubusercontent.com/moosemeat817/ModListJson/refs/heads/main/moosemeat_tld_mods.json",
 		"https://raw.githubusercontent.com/monsieurmeh/TLDModJSON/refs/heads/main/modlist.json",
-		"https://gitlab.com/TacticalEx/tld-tools-modlist/-/raw/main/tld-tools.json"
+		"https://gitlab.com/TacticalEx/tld-tools-modlist/-/raw/main/tld-tools.json",
+		"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/main/ModlistFile.json"
 	],
 	"oldlists": [
 		"https://raw.githubusercontent.com/OceanManFR/ModList/master/oceanman.json",
@@ -50,8 +51,7 @@
 		"https://gist.githubusercontent.com/bushtail/7b10288892a90d77ce0ef00904077f43/raw/bushtail.json",
 		"https://raw.githubusercontent.com/brecheisen37/TLD-Modlist/main/ModList.json",
 		"https://raw.githubusercontent.com/DeletedAccount01/ModListJson/main/deleted_tld_mods.json",
-		"https://raw.githubusercontent.com/Phaedrus3/ModListJson/main/phaedrus_tld_mods.json",
-		"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/main/ModlistFile.json"
+		"https://raw.githubusercontent.com/Phaedrus3/ModListJson/main/phaedrus_tld_mods.json"
 	],
 	"overrides": 
 	{
