@@ -50,7 +50,8 @@
 		"https://gist.githubusercontent.com/bushtail/7b10288892a90d77ce0ef00904077f43/raw/bushtail.json",
 		"https://raw.githubusercontent.com/brecheisen37/TLD-Modlist/main/ModList.json",
 		"https://raw.githubusercontent.com/DeletedAccount01/ModListJson/main/deleted_tld_mods.json",
-		"https://raw.githubusercontent.com/Phaedrus3/ModListJson/main/phaedrus_tld_mods.json"
+		"https://raw.githubusercontent.com/Phaedrus3/ModListJson/main/phaedrus_tld_mods.json",
+		"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/main/ModlistFile.json"
 	],
 	"overrides": 
 	{
