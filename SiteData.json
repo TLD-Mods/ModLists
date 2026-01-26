@@ -29,7 +29,6 @@
 		"https://raw.githubusercontent.com/TonisGaming/TLDModListJSON/main/TonisGaming.JSON",
 		"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/main/MarcyModList.json",
 		"https://raw.githubusercontent.com/B1gF1s4/TLD-ModDefinitions/main/mod.json",
-		"https://raw.githubusercontent.com/yasenfire/tldmodlist/refs/heads/main/modlist.json",
 		"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Sm4rtBoyTomModList.json",
 		"https://raw.githubusercontent.com/Ezinw/ModListTLD/refs/heads/main/ModListTLD.json",
 		"https://raw.githubusercontent.com/TLD-Mods/ModLists/refs/heads/master/misc.json",
@@ -52,7 +51,8 @@
 		"https://gist.githubusercontent.com/bushtail/7b10288892a90d77ce0ef00904077f43/raw/bushtail.json",
 		"https://raw.githubusercontent.com/brecheisen37/TLD-Modlist/main/ModList.json",
 		"https://raw.githubusercontent.com/DeletedAccount01/ModListJson/main/deleted_tld_mods.json",
-		"https://raw.githubusercontent.com/Phaedrus3/ModListJson/main/phaedrus_tld_mods.json"
+		"https://raw.githubusercontent.com/Phaedrus3/ModListJson/main/phaedrus_tld_mods.json",
+	 	"https://raw.githubusercontent.com/yasenfire/tldmodlist/refs/heads/main/modlist.json"
 	],
 	"overrides": 
 	{
