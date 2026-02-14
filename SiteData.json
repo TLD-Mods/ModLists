@@ -36,7 +36,8 @@
 		"https://raw.githubusercontent.com/monsieurmeh/TLDModJSON/refs/heads/main/modlist.json",
 		"https://gitlab.com/TacticalEx/tld-tools-modlist/-/raw/main/tld-tools.json",
 		"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/main/ModlistFile.json",
-		"https://raw.githubusercontent.com/Atmudia/ModListJsonTLD/refs/heads/main/atmudia_tld_mods.json"
+		"https://raw.githubusercontent.com/Atmudia/ModListJsonTLD/refs/heads/main/atmudia_tld_mods.json",
+		"https://raw.githubusercontent.com/TLD-Mods/Probie_HZB1130/refs/heads/main/hzb1130_modlistjson.json"
 	],
 	"oldlists": [
 		"https://raw.githubusercontent.com/OceanManFR/ModList/master/oceanman.json",
