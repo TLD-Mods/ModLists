@@ -6,13 +6,13 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.3.0",
+			"version": "1.3.1",
 			"name": "OxygenLevels",
 			"displayName": "",
 			"author": "EtherSystem",
 			"previousAuthors": "",
 			"released": "2026-01-07",
-			"updated": "2026-02-11",
+			"updated": "2026-02-16",
 			"downloadURL": "https://github.com/EtherSystem/OxygenLevels/releases/latest/download/OxygenLevels.dll",
 			"modURL": "https://github.com/EtherSystem/OxygenLevels",
 			"description": "Add a system to simulate oxygen deprivation based on the player's altitude.",
@@ -25,7 +25,9 @@
 				"https://raw.githubusercontent.com/EtherSystem/TLDModsListJson/main/OxygenLevels.png"
 			],
 			"dependencies": [
-				"ModComponent, ModSettings"
+				"AfflictionComponent",
+				"ModComponent",
+				"ModSettings"
 			],
 			"status": {
 				"working": true,
@@ -93,13 +95,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.3.0",
+			"version": "1.3.1",
 			"name": "MinorMiseries",
 			"displayName": "",
 			"author": "EtherSystem",
 			"previousAuthors": "",
 			"released": "2026-01-27",
-			"updated": "2026-02-11",
+			"updated": "2026-02-16",
 			"downloadURL": "https://github.com/EtherSystem/MinorMiseries/releases/latest/download/Minor_Miseries.dll",
 			"modURL": "https://github.com/EtherSystem/MinorMiseries",
 			"description": "Adds 12 new minor afflictions.",
@@ -112,7 +114,9 @@
 				"https://raw.githubusercontent.com/EtherSystem/TLDModsListJson/main/MinorMiseries.jpg"
 			],
 			"dependencies": [
-				"AfflictionComponent, ModComponent, ModSettings"
+				"AfflictionComponent",
+				"ModComponent",
+				"ModSettings"
 			],
 			"status": {
 				"working": true,
@@ -129,6 +133,51 @@
 				"enable": true,
 				"downloads": [
 					"https://github.com/EtherSystem/MinorMiseries/releases/latest/download/Minor_Miseries.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.1.0",
+			"name": "TheLongMood",
+			"displayName": "",
+			"author": "EtherSystem",
+			"previousAuthors": "",
+			"released": "2026-02-16",
+			"updated": "2026-02-17",
+			"downloadURL": "https://github.com/EtherSystem/TheLongMood/releases/latest/download/TheLongMood.dll",
+			"modURL": "https://github.com/EtherSystem/TheLongMood",
+			"description": "Adds Project Zomboid–style Boredom & Depression to The Long Dark.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [
+				"https://raw.githubusercontent.com/EtherSystem/TLDModsListJson/main/TheLongMood.PNG"
+			],
+			"dependencies": [
+				"AfflictionComponent",
+				"ModSettings",
+				"ModData"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/EtherSystem/TheLongMood/releases/latest/download/TheLongMood.dll"
 				]
 			},
 			"aliases": [],
