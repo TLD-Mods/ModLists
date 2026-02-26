@@ -38,7 +38,7 @@
 		"https://raw.githubusercontent.com/BaltaZar-7/TLDmodsiteBalta/main/ModlistFile.json",
 		"https://raw.githubusercontent.com/Atmudia/ModListJsonTLD/refs/heads/main/atmudia_tld_mods.json",
 		"https://raw.githubusercontent.com/TLD-Mods/ModLists/master/Probie_hzb1130.json",
-		"https://raw.githubusercontent.com/TLD-Mods/ModLists/master/Probie_EtherSystem.json"
+		"https://raw.githubusercontent.com/EtherSystem/TLDModsListJson/refs/heads/main/modlist_EtherSystemMods.json"
 	],
 	"oldlists": [
 		"https://raw.githubusercontent.com/OceanManFR/ModList/master/oceanman.json",
