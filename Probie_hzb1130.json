@@ -6,14 +6,14 @@
   "mods": [
     {
       "type": "mod",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "name": "ItemScanner",
       "displayName": "",
       "author": "hzb1130",
       "previousAuthors": "",
       "released": "2026-02-10",
-      "updated": "2026-02-11",
-      "downloadURL": "https://github.com/hzb1130/ItemScanner/releases/download/v1.0.1/ItemScanner.dll",
+      "updated": "2026-02-26",
+      "downloadURL": "https://github.com/hzb1130/ItemScanner/releases/download/v1.0.2/ItemScanner.dll",
       "modURL": "https://github.com/hzb1130/ItemScanner",
       "description": "TLD MOD that scans nearby items, containers, and harvestable plants around the player and displays their locations on screen.",
       "tags": "",
@@ -42,7 +42,7 @@
       "updater": {
         "enable": true,
         "downloads": [
-          "https://github.com/hzb1130/ItemScanner/releases/download/v1.0.1/ItemScanner.dll"
+          "https://github.com/hzb1130/ItemScanner/releases/download/v1.0.2/ItemScanner.dll"
         ]
       },
       "aliases": [],
