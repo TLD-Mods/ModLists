@@ -6,49 +6,6 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "2.0.6",
-			"name": "HungerRevamped",
-			"displayName": "Hunger Revamped",
-			"author": "",
-			"previousAuthors": "BA, zeobviouslyfakeacc",
-			"released": "2018-03-31",
-			"updated": "2025-04-18",
-			"downloadURL": "https://github.com/TLD-Mods/HungerRevamped/releases/download/2.0.6/HungerRevamped.dll",
-			"modURL": "https://github.com/TLD-Mods/HungerRevamped",
-			"description": "Improves the hunger system by separating hunger and stored calories. Adds customization options for cooking such as enabling cooking ruined food.",
-			"tags": "food,hunger,overhaul,needs,system,calories,cooking",
-			"categories": [
-				"Gameplay",
-				"Overhaul"
-			],
-			"gameversion": [
-				"vanilla"
-			],
-			"images": [],
-			"dependencies": [
-				"ModSettings",
-				"ModData"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.40",
-				"mlversion": "0.6.6"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": [],
-			"replaces": []
-		},
-		{
-			"type": "mod",
 			"version": "2.1.0",
 			"name": "StretchArmstrong",
 			"displayName": "Stretch Armstrong",
