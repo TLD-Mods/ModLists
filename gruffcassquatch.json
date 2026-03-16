@@ -6,45 +6,6 @@
 	"mods": [				
 		{
 			"type": "mod",
-			"version": "1.0.0",
-			"name": "ChooseStartingLocation",
-			"displayName": "Choose Starting Location",
-			"author": "",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2022-08-04",
-			"downloadURL": "https://github.com/GruffCassquatch/ChooseStartingLocation/releases/download/1.0.0/ChooseStartingLocation.dll",
-			"modURL": "https://github.com/GruffCassquatch/ChooseStartingLocation",
-			"description": "Allows you to choose your starting location when starting a new Sandbox game. 300+ locations, all regions, all difficulty modes. Full instructions in the README.",
-			"tags": "Custom, Start, Location, Spawn",
-			"categories": [
-				"Quality of Life",
-				"Gameplay"
-			],
-			"gameversion": [],
-			"images": [],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": false,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "Use with 2.01 Time Capsule, will not work on game versions >2.02",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.01",
-				"mlversion": "0.5.7"
-			},
-			"updater": {
-				"enable": false,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "2.0.0",
 			"name": "RerollBurntBuildings",
 			"displayName": "Reroll Burnt Buildings",
