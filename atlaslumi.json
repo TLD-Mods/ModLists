@@ -6,49 +6,6 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "0.6.0",
-			"name": "Photo of a Loved One",
-			"displayName": "",
-			"author": "",
-			"previousAuthors": "",
-			"released": "2024-07-05",
-			"updated": "2024-07-09",
-			"downloadURL": "https://github.com/Atlas-Lumi/Photo-of-a-Loved-One/releases/download/v0.6.0/PhotoOfALovedOne.zip",
-			"modURL": "https://github.com/Atlas-Lumi/Photo-of-a-Loved-One",
-			"description": "Allows you to carry a customizable picture of something you care about.",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [
-				"https://github.com/Atlas-Lumi/Photo-of-a-Loved-One/assets/102776369/0f763b57-2f04-4512-ac4e-376df4d24036"
-			],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.31",
-				"mlversion": "0.6.1.0"
-			},
-			"updater": {
-				"enable": false,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "2.0",
 			"name": "Afraid of the Dark",
 			"displayName": "",
