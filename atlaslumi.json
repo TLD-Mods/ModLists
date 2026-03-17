@@ -176,48 +176,6 @@
 				"downloads": []
 			},
 			"aliases": []
-		},
-		{
-			"type": "mod",
-			"version": "2.0",
-			"name": "Story Mode Collectibles",
-			"displayName": "",
-			"author": "",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2023-04-05",
-			"downloadURL": "https://github.com/Atlas-Lumi/TLD_StoryModeCollectibles/releases/download/v2.0/StorymodeCollectibles.modcomponent",
-			"modURL": "https://github.com/Atlas-Lumi/TLD_StoryModeCollectibles",
-			"description": "Adds collectible items from Wintermute into survival mode.",
-			"tags": "",
-			"categories": [
-				"Gear Items"
-			],
-			"gameversion": [
-				"tftft"
-			],
-			"images": [
-				"https://user-images.githubusercontent.com/102776369/162088567-3a22ec1d-741d-450a-af83-cb9377bd7980.png"
-			],
-			"dependencies": [
-				"ModComponent"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.10",
-				"mlversion": "0.6.0"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
 		},	
 		{
 			"type": "mod",
