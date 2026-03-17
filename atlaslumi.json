@@ -89,46 +89,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.0",
-			"name": "Limitless Container Space",
-			"displayName": "",
-			"author": "",
-			"previousAuthors": "ds5678",
-			"released": "",
-			"updated": "2023-04-15",
-			"downloadURL": "https://github.com/Atlas-Lumi/LimitlessContainerSpace/releases/download/v2.0/LimitlessContainerSpace.dll",
-			"modURL": "https://github.com/Atlas-Lumi/LimitlessContainerSpace",
-			"description": "Increases the capacity of all containers to 10000KG",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [
-				"tftft"
-			],
-			"images": [
-				""
-			],
-			"dependencies": [],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.12",
-				"mlversion": "0.6.0.1"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "2.4.0",
 			"name": "DIY by Santana",
 			"displayName": "",
@@ -171,8 +131,7 @@
 				"downloads": []
 			},
 			"aliases": ["DiyBySantana"]
-		},
-		
+		},	
 		{
 			"type": "mod",
 			"version": "2.0",
@@ -218,48 +177,6 @@
 			},
 			"aliases": []
 		},
-		
-		{
-			"type": "mod",
-			"version": "2.0",
-			"name": "Item Piles",
-			"displayName": "",
-			"author": "",
-			"previousAuthors": "stmSantana",
-			"released": "",
-			"updated": "2023-04-17",
-			"downloadURL": "https://github.com/Atlas-Lumi/ItemPiles/releases/download/v2.0/ItemPiles.modcomponent",
-			"modURL": "https://github.com/Atlas-Lumi/ItemPiles",
-			"description": "Adds blueprints for stacked items.",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [
-				"tftft"
-			],
-			"images": [
-				"https://raw.githubusercontent.com/stmSantana/ItemPiles/main/Images/item-pile-mod-title.jpg"
-			],
-			"dependencies": [],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.12",
-				"mlversion": "0.6.0.1"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-
 		{
 			"type": "mod",
 			"version": "2.0",
@@ -301,8 +218,7 @@
 				"downloads": []
 			},
 			"aliases": []
-		},
-		
+		},	
 		{
 			"type": "mod",
 			"version": "2.0",
