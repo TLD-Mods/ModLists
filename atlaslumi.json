@@ -1,0 +1,350 @@
+{
+	"version": "2",
+	"author": "Atlas Lumi",
+	"authorURL": "https://github.com/Atlas-Lumi",
+	"supportURL": "",
+	"mods": [
+		{
+			"type": "mod",
+			"version": "0.6.0",
+			"name": "Photo of a Loved One",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2024-07-05",
+			"updated": "2024-07-09",
+			"downloadURL": "https://github.com/Atlas-Lumi/Photo-of-a-Loved-One/releases/download/v0.6.0/PhotoOfALovedOne.zip",
+			"modURL": "https://github.com/Atlas-Lumi/Photo-of-a-Loved-One",
+			"description": "Allows you to carry a customizable picture of something you care about.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://github.com/Atlas-Lumi/Photo-of-a-Loved-One/assets/102776369/0f763b57-2f04-4512-ac4e-376df4d24036"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.31",
+				"mlversion": "0.6.1.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.0",
+			"name": "Afraid of the Dark",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2022-12-28",
+			"downloadURL": "https://github.com/Atlas-Lumi/TLD-Afraid-of-the-Dark/releases/download/v2.0/AfraidOfTheDark.dll",
+			"modURL": "https://github.com/Atlas-Lumi/TLD-Afraid-of-the-Dark",
+			"description": "Makes the player anxious at night.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [
+				"https://user-images.githubusercontent.com/102776369/162824531-ae345853-7c63-4d49-b90b-24d9f60b4d22.png"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.06",
+				"mlversion": "0.6.0.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.0",
+			"name": "Limitless Container Space",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "ds5678",
+			"released": "",
+			"updated": "2023-04-15",
+			"downloadURL": "https://github.com/Atlas-Lumi/LimitlessContainerSpace/releases/download/v2.0/LimitlessContainerSpace.dll",
+			"modURL": "https://github.com/Atlas-Lumi/LimitlessContainerSpace",
+			"description": "Increases the capacity of all containers to 10000KG",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [
+				""
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.12",
+				"mlversion": "0.6.0.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.4.0",
+			"name": "DIY by Santana",
+			"displayName": "",
+			"author": "Atlas Lumi, Yasenfire, Digitalzombie",
+			"previousAuthors": "stmSantana",
+			"released": "",
+			"updated": "2024-10-20",
+			"downloadURL": "https://github.com/Atlas-Lumi/DIY_by_Santana/releases",
+			"modURL": "https://github.com/Atlas-Lumi/DIY_by_Santana",
+			"description": "Adds craftable furniture.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [
+				"https://github.com/stmSantana/DIY_by_Santana/raw/main/Images/DIY%20(1).jpg"
+			],
+			"dependencies": [
+				"ModComponent",
+                		"GearSpawner",
+                		"LocalizationUtilities",
+                		"CraftingRevisions"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.32",
+				"mlversion": "0.6.1.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": ["DiyBySantana"]
+		},
+		
+		{
+			"type": "mod",
+			"version": "2.0",
+			"name": "Interior Wall Decorations",
+			"displayName": "",
+			"author": "Atlas Lumi, Thekillergreece",
+			"previousAuthors": "stmSantana",
+			"released": "",
+			"updated": "2023-04-19",
+			"downloadURL": "https://github.com/Atlas-Lumi/InteriorWallDecorations/releases/download/v2.0/InteriorWallDecorations.zip",
+			"modURL": "https://github.com/Atlas-Lumi/InteriorWallDecorations",
+			"description": "Let's you decorate your base with pictures, and upload your own.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [
+				"https://github.com/stmSantana/InteriorWallDecorations/blob/main/Images/Gallery/Gallery.jpg?raw=true"
+			],
+			"dependencies": [
+				"ModComponent",
+                		"GearSpawner",
+                		"LocalizationUtilities",
+                		"CraftingRevisions"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.12",
+				"mlversion": "0.6.0.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		
+		{
+			"type": "mod",
+			"version": "2.0",
+			"name": "Item Piles",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "stmSantana",
+			"released": "",
+			"updated": "2023-04-17",
+			"downloadURL": "https://github.com/Atlas-Lumi/ItemPiles/releases/download/v2.0/ItemPiles.modcomponent",
+			"modURL": "https://github.com/Atlas-Lumi/ItemPiles",
+			"description": "Adds blueprints for stacked items.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/stmSantana/ItemPiles/main/Images/item-pile-mod-title.jpg"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.12",
+				"mlversion": "0.6.0.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+
+		{
+			"type": "mod",
+			"version": "2.0",
+			"name": "Story Mode Collectibles",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-04-05",
+			"downloadURL": "https://github.com/Atlas-Lumi/TLD_StoryModeCollectibles/releases/download/v2.0/StorymodeCollectibles.modcomponent",
+			"modURL": "https://github.com/Atlas-Lumi/TLD_StoryModeCollectibles",
+			"description": "Adds collectible items from Wintermute into survival mode.",
+			"tags": "",
+			"categories": [
+				"Gear Items"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [
+				"https://user-images.githubusercontent.com/102776369/162088567-3a22ec1d-741d-450a-af83-cb9377bd7980.png"
+			],
+			"dependencies": [
+				"ModComponent"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.10",
+				"mlversion": "0.6.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		
+		{
+			"type": "mod",
+			"version": "2.0",
+			"name": "TLD-WolfskinScarf",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-04-05",
+			"downloadURL": "https://github.com/Atlas-Lumi/TLD-WolfskinScarf/releases/download/v2.0/WolfskinScarf.modcomponent",
+			"modURL": "https://github.com/Atlas-Lumi/TLD-WolfskinScarf",
+			"description": "Adds a new craftable scarf made of wolf fur.",
+			"tags": "",
+			"categories": [
+				"Clothing"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://user-images.githubusercontent.com/102776369/166163181-619890d1-6eaf-43b2-8930-8fec482f3a35.png"
+			],
+			"dependencies": [
+				"ModComponent"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.10",
+				"mlversion": "0.6.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		}
+	]
+}
+
