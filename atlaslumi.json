@@ -176,48 +176,6 @@
 				"downloads": []
 			},
 			"aliases": []
-		},	
-		{
-			"type": "mod",
-			"version": "2.0",
-			"name": "TLD-WolfskinScarf",
-			"displayName": "",
-			"author": "",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2023-04-05",
-			"downloadURL": "https://github.com/Atlas-Lumi/TLD-WolfskinScarf/releases/download/v2.0/WolfskinScarf.modcomponent",
-			"modURL": "https://github.com/Atlas-Lumi/TLD-WolfskinScarf",
-			"description": "Adds a new craftable scarf made of wolf fur.",
-			"tags": "",
-			"categories": [
-				"Clothing"
-			],
-			"gameversion": [
-				"vanilla"
-			],
-			"images": [
-				"https://user-images.githubusercontent.com/102776369/166163181-619890d1-6eaf-43b2-8930-8fec482f3a35.png"
-			],
-			"dependencies": [
-				"ModComponent"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.10",
-				"mlversion": "0.6.0"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
 		}
 	]
 }
