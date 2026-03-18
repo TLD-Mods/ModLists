@@ -6,46 +6,6 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "2.0",
-			"name": "Afraid of the Dark",
-			"displayName": "",
-			"author": "",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2022-12-28",
-			"downloadURL": "https://github.com/Atlas-Lumi/TLD-Afraid-of-the-Dark/releases/download/v2.0/AfraidOfTheDark.dll",
-			"modURL": "https://github.com/Atlas-Lumi/TLD-Afraid-of-the-Dark",
-			"description": "Makes the player anxious at night.",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [
-				"tftft"
-			],
-			"images": [
-				"https://user-images.githubusercontent.com/102776369/162824531-ae345853-7c63-4d49-b90b-24d9f60b4d22.png"
-			],
-			"dependencies": [],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.06",
-				"mlversion": "0.6.0.0"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "2.4.0",
 			"name": "DIY by Santana",
 			"displayName": "",
