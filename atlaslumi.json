@@ -48,51 +48,6 @@
 				"downloads": []
 			},
 			"aliases": ["DiyBySantana"]
-		},	
-		{
-			"type": "mod",
-			"version": "2.0",
-			"name": "Interior Wall Decorations",
-			"displayName": "",
-			"author": "Atlas Lumi, Thekillergreece",
-			"previousAuthors": "stmSantana",
-			"released": "",
-			"updated": "2023-04-19",
-			"downloadURL": "https://github.com/Atlas-Lumi/InteriorWallDecorations/releases/download/v2.0/InteriorWallDecorations.zip",
-			"modURL": "https://github.com/Atlas-Lumi/InteriorWallDecorations",
-			"description": "Let's you decorate your base with pictures, and upload your own.",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [
-				"tftft"
-			],
-			"images": [
-				"https://github.com/stmSantana/InteriorWallDecorations/blob/main/Images/Gallery/Gallery.jpg?raw=true"
-			],
-			"dependencies": [
-				"ModComponent",
-                		"GearSpawner",
-                		"LocalizationUtilities",
-                		"CraftingRevisions"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.12",
-				"mlversion": "0.6.0.1"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
 		}
 	]
 }
