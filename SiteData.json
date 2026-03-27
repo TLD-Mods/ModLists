@@ -39,7 +39,7 @@
 		"https://raw.githubusercontent.com/TLD-Mods/ModLists/master/Probie_hzb1130.json",
 		"https://raw.githubusercontent.com/EtherSystem/TLDModsListJson/refs/heads/main/modlist_EtherSystemMods.json",
 		"https://raw.githubusercontent.com/Data-0/ModsJson_And_Images/refs/heads/main/Data-0_Mods.json",
-		"https://raw.githubusercontent.com/okclm/ModListJson/refs/heads/main/okclm_tld_mods.json"
+		"https://raw.githubusercontent.com/TLD-Mods/ModLists/master/okclm.json"
 	],
 	"oldlists": [
 		"https://raw.githubusercontent.com/OceanManFR/ModList/master/oceanman.json",
