@@ -178,10 +178,6 @@
 		"MapManager":
 		{
 			"replaces":["MapTweaks"]
-		},
-		"ClothingExpanded":
-		{
-			"broken":true
 		}
 	}
 }
