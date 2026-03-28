@@ -224,8 +224,8 @@
 			"previousAuthors": "ds5678",
 			"released": "",
 			"updated": "2024-12-02",
-			"downloadURL": "https://github.com/dommrogers/CraftingRevisions/releases/download/2.3.3/CraftingRevisions.dll",
-			"modURL": "https://github.com/dommrogers/CraftingRevisions/",
+			"downloadURL": "https://github.com/dommrogers/ModComponent",
+			"modURL": "https://github.com/dommrogers/ModComponent",
 			"description": "** Now Part of ModComponent 7.0.0<br />Improves the Crafting UI and enables custom Blueprint/Recipe creation.",
 			"tags": "",
 			"categories": [],
@@ -251,7 +251,7 @@
 				"mlversion": "0.6.6"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": []
 			},
 			"aliases": []
@@ -265,8 +265,8 @@
 			"previousAuthors": "ds5678",
 			"released": "",
 			"updated": "2023-06-22",
-			"downloadURL": "",
-			"modURL": "",
+			"downloadURL": "https://github.com/dommrogers/ModComponent",
+			"modURL": "https://github.com/dommrogers/ModComponent",
 			"description": "** Now Part of ModComponent 7.0.0<br />Utility mod for spawning modded items.",
 			"tags": "",
 			"categories": [],
@@ -292,7 +292,7 @@
 				"mlversion": "0.6.6"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": []
 			},
 			"aliases": []
@@ -306,8 +306,8 @@
 			"previousAuthors": "ds5678",
 			"released": "",
 			"updated": "2025-01-21",
-			"downloadURL": "https://github.com/dommrogers/LocalizationUtilities/releases/download/2.1.0/LocalizationUtilities.dll",
-			"modURL": "https://github.com/dommrogers/LocalizationUtilities/",
+			"downloadURL": "hhttps://github.com/dommrogers/ModComponent",
+			"modURL": "https://github.com/dommrogers/ModComponent",
 			"description": "** Now Part of ModComponent 7.0.0<br />Utility mod for localized text.",
 			"tags": "",
 			"categories": [],
@@ -331,7 +331,7 @@
 				"mlversion": "0.6.6"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": []
 			},
 			"aliases": []
