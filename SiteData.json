@@ -3,7 +3,7 @@
 	"lastBigPatch": "2.50",
 	"latestGameBreaking": "2.50",
 	"melonloaderVersion": "0.7.2",
-	"melonNightly":true,
+	"melonNightly":false,
 	"announcement":"<a href=\"https://discord.com/channels/322211727192358914/426083940676141058\" target=\"blank\" style=\"text-decoration: none;\">2026-01-03 - Mods are back baby!</a><style>.main-content{padding-top: 155px !important;}</style>",
 	"lists": [
 		"https://raw.githubusercontent.com/TLD-Mods/ModLists/refs/heads/master/xpazeman.json",
