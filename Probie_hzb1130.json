@@ -6,14 +6,14 @@
   "mods": [
     {
       "type": "mod",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "name": "ItemScanner",
       "displayName": "",
       "author": "hzb1130",
       "previousAuthors": "",
       "released": "2026-02-10",
-      "updated": "2026-02-26",
-      "downloadURL": "https://github.com/hzb1130/ItemScanner/releases/download/v1.0.2/ItemScanner.dll",
+      "updated": "2026-04-11",
+      "downloadURL": "https://github.com/hzb1130/ItemScanner/releases/download/v1.0.3/ItemScanner.dll",
       "modURL": "https://github.com/hzb1130/ItemScanner",
       "description": "TLD MOD that scans nearby items, containers, and harvestable plants around the player and displays their locations on screen.",
       "tags": "",
@@ -36,14 +36,92 @@
         "issues": ""
       },
       "testedon": {
-        "tldversion": "2.51",
+        "tldversion": "2.54",
         "mlversion": "0.7.2"
       },
       "updater": {
         "enable": true,
         "downloads": [
-          "https://github.com/hzb1130/ItemScanner/releases/download/v1.0.2/ItemScanner.dll"
+          "https://github.com/hzb1130/ItemScanner/releases/latest/download/ItemScanner.dll"
         ]
+      },
+      "aliases": [],
+      "replaces": []
+    },
+    {
+      "type": "mod",
+      "version": "1.0.0",
+      "name": "WeatherDisplay",
+      "displayName": "",
+      "author": "hzb1130",
+      "previousAuthors": "",
+      "released": "2026-04-11",
+      "updated": "2026-04-11",
+      "downloadURL": "https://github.com/hzb1130/WeatherDisplay/releases/download/v1.0.0/WeatherDisplayMod.dll",
+      "modURL": "https://github.com/hzb1130/WeatherDisplay",
+      "description": "Displays current weather information on screen.",
+      "tags": "",
+      "categories": [
+        "Quality of Life"
+      ],
+      "gameversion": [],
+      "images": [],
+      "dependencies": [
+        "ModSettings"
+      ],
+      "status": {
+        "working": true,
+        "beta": false,
+        "patchnotes": "",
+        "notes": "",
+        "issues": ""
+      },
+      "testedon": {
+        "tldversion": "2.54",
+        "mlversion": "0.7.2"
+      },
+      "updater": {
+        "enable": false,
+        "downloads": []
+      },
+      "aliases": [],
+      "replaces": []
+    },
+    {
+      "type": "mod",
+      "version": "1.3.0",
+      "name": "MoreFuelAccelerant",
+      "displayName": "",
+      "author": "hzb1130",
+      "previousAuthors": "",
+      "released": "2026-04-11",
+      "updated": "2026-04-11",
+      "downloadURL": "https://github.com/hzb1130/More-fuel-accelerant/releases/download/v1.3.0/More_Fuels_Accelerants.dll",
+      "modURL": "https://github.com/hzb1130/More-fuel-accelerant",
+      "description": "Tinder and fat as fuel.The accelerant is consumed more slowly.",
+      "tags": "",
+      "categories": [
+        "Gameplay"
+      ],
+      "gameversion": [],
+      "images": [],
+      "dependencies": [
+        "ModSettings"
+      ],
+      "status": {
+        "working": true,
+        "beta": false,
+        "patchnotes": "",
+        "notes": "",
+        "issues": ""
+      },
+      "testedon": {
+        "tldversion": "2.54",
+        "mlversion": "0.7.2"
+      },
+      "updater": {
+        "enable": false,
+        "downloads": []
       },
       "aliases": [],
       "replaces": []
