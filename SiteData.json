@@ -182,6 +182,26 @@
 		"BountifulForaging":
 		{
 			"broken":true
+		},
+		"CampingTools":
+		{
+			"broken":true
+		},
+		"CozyBlankets":
+		{
+			"broken":true
+		},
+		"FirePack":
+		{
+			"broken":true
+		},
+		"IndoorsGreenery":
+		{
+			"broken":true
+		},
+		"ModdersGearToolbox":
+		{
+			"broken":true
 		}
 	}
 }
