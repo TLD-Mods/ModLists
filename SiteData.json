@@ -178,6 +178,10 @@
 		"MapManager":
 		{
 			"replaces":["MapTweaks"]
+		},
+		"Jods-Bountiful-Foraging":
+		{
+			"broken":true
 		}
 	}
 }
