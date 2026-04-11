@@ -179,7 +179,7 @@
 		{
 			"replaces":["MapTweaks"]
 		},
-		"Jods-Bountiful-Foraging":
+		"BountifulForaging":
 		{
 			"broken":true
 		}
