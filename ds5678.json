@@ -91,43 +91,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
-			"name": "CoastalConnection",
-			"displayName": "Coastal Connection",
-			"author": "ds5678",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2025-02-20",
-			"downloadURL": "https://github.com/ds5678/CoastalConnection/releases/download/1.0.0/CoastalConnection.dll",
-			"modURL": "https://github.com/ds5678/CoastalConnection",
-			"description": "Connects Coastal Highway and Bleak Inlet by their shared road.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
-			"tags": "",
-			"categories": [],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [],
-			"dependencies": [],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.39",
-				"mlversion": "0.7.0.0"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "5.0.0",
 			"name": "Coordinates-Grabber",
 			"displayName": "Coordinates Grabber",
