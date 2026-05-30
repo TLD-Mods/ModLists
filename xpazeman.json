@@ -172,53 +172,6 @@
 				"downloads": []
 			},
 			"aliases": []
-		},
-		{
-			"type": "mod",
-			"version": "1.1.0",
-			"name": "BetterBases",
-			"displayName": "Better Bases",
-			"author": "",
-			"previousAuthors": "",
-			"released": "2023-06-20",
-			"updated": "2023-06-22",
-			"downloadURL": "https://github.com/Xpazeman/tld-better-bases/releases/latest/download/BetterBases.dll",
-			"modURL": "https://github.com/Xpazeman/tld-better-bases",
-			"description": "Mod for The Long Dark that allows players to improve their bases in multiple ways: Most furniture can be moved (if you have cleared it of clutter first), most broken cabinets and drawers can be fixed, most of the clutter on interiors can be removed and some of it can also be moved.",
-			"tags": "bases, building, furniture, clutter, trash, remove, clean, base building, better bases",
-			"categories": [
-				"Gameplay",
-				"Base Building",
-				"Overhaul",
-				"Misc"
-			],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [
-				"https://tld.xpazeapps.com/images/better_bases_0.jpg"
-			],
-			"dependencies": [
-				"ModSettings",
-				"ModData"
-			],
-			"status": {
-				"working": false,
-				"beta": false,
-				"patchnotes": "NEW: Added a system to add custom definitions so new objects can be added to the clutter pool, or modify existing ones\n- FIX: Fixed an error thrown on quitting",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.24",
-				"mlversion": "0.6.1"
-			},
-			"updater": {
-				"enable": false,
-				"downloads": []
-			},
-			"aliases": []
 		}
 	]
 }
