@@ -73,10 +73,6 @@
 		{
 			"broken": true
 		},
-		"Binoculars": 
-		{
-			"broken": true
-		},
 		"ChooseStartingConditions":
 		{
 			"broken":true
@@ -86,14 +82,6 @@
 			"broken":true
 		},
 		"CraftingHotkey":
-		{
-			"broken":true
-		},
-		"CustomSaveDataUtilities":
-		{
-			"broken":true
-		},
-		"DisableCabinFever":
 		{
 			"broken":true
 		},
@@ -108,10 +96,6 @@
 		"FoxCompanion":
 		{
 		 	"broken":true
-		},
-		"HouseBasements":
-		{
-			"broken":true
 		},
 		"ImprovedSoundtrack":
 		{
@@ -133,15 +117,7 @@
 		{
 			"broken":true
 		},
-		"MapMakerTools": 
-		{
-			"broken": true
-		},
 		"MoreLockedDoors":
-		{
-			"broken":true
-		},
-		"NonOPTorches":
 		{
 			"broken":true
 		},
