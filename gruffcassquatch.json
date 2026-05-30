@@ -84,42 +84,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
-			"name": "SilentProtagonist",
-			"displayName": "Silent Protagonist",
-			"author": "",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2022-08-09",
-			"downloadURL": "https://github.com/GruffCassquatch/SilentProtagonist/releases/download/1.0.0/SilentProtagonist.dll",
-			"modURL": "https://github.com/GruffCassquatch/SilentProtagonist",
-			"description": "Silences player character voice. Full instructions in the README.",
-			"tags": "Voice, Player, Character, Talk, Silent",
-			"categories": [
-				"Quality of Life"
-			],
-			"gameversion": [],
-			"images": [],
-			"dependencies": [],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "Use with 2.01 Time Capsule, will not work on game versions >2.02",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.01",
-				"mlversion": "0.5.7"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "2.0.0",
 			"name": "SunOrientationFixes",
 			"displayName": "Sun Orientation Fixes",
