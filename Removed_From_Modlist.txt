@@ -1,0 +1,537 @@
+ds5678
+
+
+		{
+			"type": "mod",
+			"version": "4.4.0",
+			"name": "Binoculars",
+			"displayName": "",
+			"author": "ds5678",
+			"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
+			"released": "",
+			"updated": "2021-11-21",
+			"downloadURL": "https://github.com/ds5678/Binoculars/releases/latest",
+			"modURL": "https://github.com/ds5678/Binoculars",
+			"description": "Lets you see farther.<br><br><a href='https://github.com/ds5678/Binoculars' target='_blank'>Installation Instructions</a><br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"LocalizationUtilities",
+				"GearSpawner",
+				"CraftingRevisions"
+			],
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "1.97",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": [
+					"https://github.com/ds5678/Binoculars/releases/download/4.4.0/Binoculars.dll",
+					"https://github.com/ds5678/Binoculars/releases/download/4.4.0/Binoculars.modcomponent"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.1",
+			"name": "CustomSaveDataUtilities",
+			"displayName": "Custom Save Data Utilities",
+			"author": "ds5678",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2021-10-12",
+			"downloadURL": "https://github.com/ds5678/CustomSaveDataUtilities/releases/download/1.0.1/CustomSaveDataUtilities.dll",
+			"modURL": "https://github.com/ds5678/CustomSaveDataUtilities",
+			"description": "Utility mod for custom save data on gear items.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "1.97",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "4.0.1",
+			"name": "Disable-Cabin-Fever",
+			"displayName": "Disable Cabin Fever",
+			"author": "ds5678",
+			"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
+			"released": "",
+			"updated": "2021-06-17",
+			"downloadURL": "https://github.com/ds5678/Disable-Cabin-Fever/releases/download/4.0.1/Disable-Cabin-Fever.dll",
+			"modURL": "https://github.com/ds5678/Disable-Cabin-Fever",
+			"description": "Disables Cabin Fever in all game modes.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "1.97",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [
+				"DisableCabinFever"
+			]
+		},
+		{
+			"type": "mod",
+			"version": "1.2.0",
+			"name": "HouseBasements",
+			"displayName": "House Basements",
+			"author": "ds5678",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2022-07-22",
+			"downloadURL": "https://github.com/ds5678/HouseBasements/releases/download/1.2.0/HouseBasements.dll",
+			"modURL": "https://github.com/ds5678/HouseBasements",
+			"description": "Adds some more basements to the game.<br><br><a href='https://www.patreon.com/ds5678' target='_blank'>Patreon</a>",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": "The scenes required for this mod were removed in 2.03, so this cannot be updated."
+			},
+			"testedon": {
+				"tldversion": "2.00",
+				"mlversion": "0.5.4.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "4.0.0",
+			"name": "MapMakerTools",
+			"displayName": "Map Maker Tools",
+			"author": "ds5678",
+			"previousAuthors": "<a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
+			"released": "",
+			"updated": "2021-02-19",
+			"downloadURL": "https://github.com/ds5678/Map-Maker-Tools/releases/download/4.0.0/MapMakerTools.dll",
+			"modURL": "https://github.com/ds5678/Map-Maker-Tools",
+			"description": "Mod aiding in mapping the terrain for The Long Dark",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "1.97",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.1.0",
+			"name": "Non-OP-Torches",
+			"displayName": "Non-OP Torches",
+			"author": "<a href='https://github.com/Deus13' target='_blank'>Deus</a>",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2021-06-18",
+			"downloadURL": "https://github.com/Deus13/Non-OP-Torches/releases/download/2.1.0/Non-OP-Torches.dll",
+			"modURL": "https://github.com/Deus13/Non-OP-Torches",
+			"description": "This mod makes torches less overpowered.",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "1.94",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		
+		
+		
+cass
+
+
+,
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "SilentProtagonist",
+			"displayName": "Silent Protagonist",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2022-08-09",
+			"downloadURL": "https://github.com/GruffCassquatch/SilentProtagonist/releases/download/1.0.0/SilentProtagonist.dll",
+			"modURL": "https://github.com/GruffCassquatch/SilentProtagonist",
+			"description": "Silences player character voice. Full instructions in the README.",
+			"tags": "Voice, Player, Character, Talk, Silent",
+			"categories": [
+				"Quality of Life"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "Use with 2.01 Time Capsule, will not work on game versions >2.02",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.01",
+				"mlversion": "0.5.7"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		}
+		
+
+santana
+
+
+{
+			"name":"SmallFixToScenes", 
+			"displayName": "Small Fix To Scenes",
+			"aliases":[], 
+			"author":"", 
+			"authorURL":"", 
+			"version":"1.3.1", 
+			"updated":"2022-06-03", 
+			"description":"This mod allows modifying some items in the mountaineer's hut (Timberwolf mountain).", 
+			"thumb": "",
+			"modURL":"https://github.com/stmSantana/SmallFixToScenes", 
+			"downloadURL":"https://github.com/stmSantana/SmallFixToScenes/releases/latest/download/SmallFixToScenes.dll", 
+			"testedon":{
+				"tldversion":"2.00",
+				"mlversion":"0.5.4"
+			},
+			"dependencies":[
+			], 
+			"updater":{
+				"enable":true, 
+				"downloads":[] 
+			},
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},
+		{
+			"name":"FoodsBySantana", 
+			"displayName": "Foods by Santana",
+			"aliases":[], 
+			"author":"", 
+			"authorURL":"", 
+			"version":"1.2.1", 
+			"updated":"2022-03-11", 
+			"description":"<b>(ITEM MOD)</b> Mod to add food such as ramen.<br>Move the two files in the downloaded ZIP to the Mods folder.<br><b>Note:</b> Zip files should not be moved to the Mods folder!", 
+			"thumb": "https://raw.githubusercontent.com/stmSantana/FoodsBySantana/main/images/Foods-v1.1_Thumb_01.jpg",
+			"modURL":"https://github.com/stmSantana/FoodsBySantana", 
+			"downloadURL":"https://github.com/stmSantana/FoodsBySantana/releases/latest/download/FoodsBySantana.zip", 
+			"testedon":{
+				"tldversion":"1.99",
+				"mlversion":"0.5.3"
+			},
+			"dependencies":[
+				"ModComponent",
+				"ModSettings",
+				"GearSpawner",
+				"LocalizationUtilities",
+				"CraftingRevisions"
+			], 
+			"updater":{
+				"enable":true, 
+				"downloads":[] 
+			},
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},
+		{
+			"name":"ToiletPaper", 
+			"displayName": "Toilet Paper Mod",
+			"aliases":[], 
+			"author":"", 
+			"authorURL":"", 
+			"version":"1.0", 
+			"updated":"2022-02-07", 
+			"description":"<b>(ITEM MOD)</b> Mod to add toilet paper.", 
+			"thumb": "https://raw.githubusercontent.com/stmSantana/ToiletPaper/main/Images/Tut0-0.jpg",
+			"modURL":"https://github.com/stmSantana/ToiletPaper", 
+			"downloadURL":"https://github.com/stmSantana/ToiletPaper/releases/latest/download/Items_TP.modcomponent", 
+			"testedon":{
+				"tldversion":"1.99",
+				"mlversion":"0.5.3"
+			},
+			"dependencies":[
+				"ModComponent",
+				"ModSettings",
+				"GearSpawner",
+				"LocalizationUtilities",
+				"CraftingRevisions"
+			], 
+			"updater":{
+				"enable":true, 
+				"downloads":[] 
+			},
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},
+		{
+			"name":"Show-Map-Location", 
+			"displayName": "Show Map Location",
+			"aliases":[], 
+			"author":"", 
+			"authorURL":"", 
+			"version":"4.1.0.1", 
+			"updated":"2022-02-18", 
+			"description":"Displays the player icon on the map like in story mode.", 
+			"thumb": "https://raw.githubusercontent.com/stmSantana/ToiletPaper/main/Images/Icon_ShopMapLocation.jpg",
+			"modURL":"https://github.com/stmSantana/Show-Map-Location", 
+			"downloadURL":"https://github.com/stmSantana/Show-Map-Location/releases/latest/download/Show-Map-Location.dll", 
+			"testedon":{
+				"tldversion":"1.99",
+				"mlversion":"0.5.3"
+			},
+			"dependencies":[
+			], 
+			"updater":{
+				"enable":true, 
+				"downloads":[] 
+			},
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":"Known issue: An arrow icon is also displayed on the world map. Ignore it."
+			}
+		},
+		
+		
+xpazeman
+
+{
+			"type": "mod",
+			"version": "1.1.0",
+			"name": "BetterBases",
+			"displayName": "Better Bases",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2023-06-20",
+			"updated": "2023-06-22",
+			"downloadURL": "https://github.com/Xpazeman/tld-better-bases/releases/latest/download/BetterBases.dll",
+			"modURL": "https://github.com/Xpazeman/tld-better-bases",
+			"description": "Mod for The Long Dark that allows players to improve their bases in multiple ways: Most furniture can be moved (if you have cleared it of clutter first), most broken cabinets and drawers can be fixed, most of the clutter on interiors can be removed and some of it can also be moved.",
+			"tags": "bases, building, furniture, clutter, trash, remove, clean, base building, better bases",
+			"categories": [
+				"Gameplay",
+				"Base Building",
+				"Overhaul",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://tld.xpazeapps.com/images/better_bases_0.jpg"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModData"
+			],
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "NEW: Added a system to add custom definitions so new objects can be added to the clutter pool, or modify existing ones\n- FIX: Fixed an error thrown on quitting",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.24",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		
+		
+		
+zeobviouslyfakeacc
+		
+		{
+			"type": "mod",
+			"version": "1.0",
+			"name": "TinCanImprovements",
+			"displayName": "Tin Can Improvements",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2022-10-21",
+			"updated": "2020-10-21",
+			"downloadURL": "https://github.com/zeobviouslyfakeacc/TinCanImprovements/releases/download/v1.0/TinCanImprovements.dll",
+			"modURL": "https://github.com/zeobviouslyfakeacc/TinCanImprovements",
+			"description": "Allows you to craft 4 tin cans into 1 scrap metal, reduces the weight of tin cans to 0.05 kg, fixes a canned food item weight bug.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "1.94",
+				"mlversion": "0.4.3.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.3",
+			"name": "FasterSearching",
+			"displayName": "Faster Searching",
+			"author": "<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a> and <a href='https://github.com/zeobviouslyfakeacc' target='_blank'>zeobviouslyfakeacc</a>",
+			"previousAuthors": "",
+			"released": "2018-06-10",
+			"updated": "2023-04-04",
+			"downloadURL": "https://github.com/zeobviouslyfakeacc/FasterSearching/releases/download/v1.3/FasterSearching.dll",
+			"modURL": "https://github.com/zeobviouslyfakeacc/FasterSearching",
+			"description": "Speeds up the search action on containers and makes searching instant for empty containers.",
+			"tags": "",
+			"categories": [
+				"Quality of Life"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.10",
+				"mlversion": "0.6.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
