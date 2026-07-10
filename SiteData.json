@@ -42,7 +42,8 @@
 		"https://raw.githubusercontent.com/okclm/ModListJson/refs/heads/main/okclm_tld_mods.json",
 		"https://raw.githubusercontent.com/TLD-Mods/ModLists/master/Probie_Pathoschild.json",
 		"https://raw.githubusercontent.com/WillWunderhorn/LittleWolfStorm_tld_modlist/main/LittleWolfStorm_tld_modlist.json",
-		"https://raw.githubusercontent.com/TLD-Mods/ModLists/master/modlist_Lycanthor.json"
+		"https://raw.githubusercontent.com/TLD-Mods/ModLists/master/modlist_Lycanthor.json",
+		"https://raw.githubusercontent.com/karsontr13/TLD-Mod-List/refs/heads/main/modlist.json"
 	],
 	"oldlists": [
 		"https://raw.githubusercontent.com/OceanManFR/ModList/master/oceanman.json",
