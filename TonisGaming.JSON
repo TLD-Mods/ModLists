@@ -90,52 +90,6 @@
         ]
       },
       "aliases": []
-    },
-    {
-      "type": "mod",
-      "version": "1.1",
-      "name": "DeadAir",
-      "displayName": "Dead Air",
-      "author": "TonisGaming",
-      "previousAuthors": "",
-      "released": "2023-12-10",
-      "updated": "2023-12-11",
-      "downloadURL": "https://github.com/TonisGaming/DeadAir/releases/download/BETA-1.1/DeadAir.zip",
-      "modURL": "https://github.com/TonisGaming/DeadAir",
-      "description": " IT IS HIGHLY SUGGESTED TO USE THIS ON ONLY NEW SAVES. Turns the entirety of Great Bear into a toxic wasteland, similar to ZoC's chemical pools. Expect issues ",
-      "tags": "",
-      "categories": [
-        "Gameplay",
-        "Gear Items"
-      ],
-      "gameversion": [
-        "tftft"
-      ],
-      "images": [],
-      "dependencies": [
-        "ModComponent",
-        "LocalizationUtilities",
-        "GearSpawner",
-        "CraftingRevisions"
-      ],
-      "status": {
-        "working": true,
-        "beta": true,
-        "patchnotes": "",
-        "notes": "Unzip the downloaded file and place the files into the mods folder",
-        "issues": "Sometimes the masks filter doesn't drain\nThe improvised filter sometimes stops functioning"
-      },
-      "testedon": {
-        "tldversion": "2.25",
-        "mlversion": "0.6.1"
-      },
-      "updater": {
-        "enable": false,
-        "downloads": [
-          ""
-        ]
-      },
-      "aliases": []
     }
   ]
 }
