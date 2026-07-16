@@ -151,10 +151,6 @@
 		{
 			"replaces":["MapTweaks"]
 		},
-		"BountifulForaging":
-		{
-			"broken":true
-		},
 		"CampingTools":
 		{
 			"broken":true
