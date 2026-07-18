@@ -146,10 +146,6 @@
 		"MapManager":
 		{
 			"replaces":["MapTweaks"]
-		},
-		"CampingTools":
-		{
-			"broken":true
 		}
 	}
 }
