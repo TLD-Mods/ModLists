@@ -5,14 +5,14 @@
 	"mods": [
 		{
 			"name": "Long Largo",
-			"version": "1.1.3",
-			"updated": "2026-08-26",
+			"version": "1.1.4",
+			"updated": "2026-09-03",
 			"modURL": "https://github.com/Danileros/LongLargo",
-			"downloadURL": "https://github.com/Danileros/LongLargo/releases/download/v1.1.3/LongLargo1.1.3.zip",
+			"downloadURL": "https://github.com/Danileros/LongLargo/releases/download/v1.1.4/LongLargo1.1.4.zip",
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "No more music fadeout when entering buildings. Settings revamped. Fixed weather stingers.",
+				"patchnotes": "New features: disable copyright music, wintermute wolf stalking. Settings reworked. Missing dependencies message is gone.",
 				"notes": "",
 				"issues": ""
 			},
@@ -26,7 +26,7 @@
 			"author": "",
 			"previousAuthors": "",
 			"released": "2026-07-25",
-			"description": "<p>Long Largo is a mod with a single goal: to enhance your gaming experience by improving the music.</p><p>Long Largo restores music from the story campaign and integrates it into your playthrough.</p><p>... And you can even disable wolf stalking sound!</p>",
+			"description": "<p>Long Largo is a mod with a single goal: to enhance your gaming experience by improving the music.</p><p>Long Largo restores music from the story campaign and integrates it into your playthrough.</p><p>...And you can even disable wolf stalking sound!</p>",
 			"tags": "audio, music, soundtrack, stalking",
 			"categories": [ "Audio" ],
 			"gameversion": [ "vanilla" ],
