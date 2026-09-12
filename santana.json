@@ -3,39 +3,6 @@
 	"authorURL":"https://github.com/stmSantana?tab=repositories", 
 	"mods":[
 		{
-			"name":"Wall_Interior", 
-			"displayName": "Interior wall decorations and My pictures",
-			"aliases":[], 
-			"author":"", 
-			"authorURL":"", 
-			"version":"1.4.1", 
-			"updated":"2022-05-01", 
-			"description":"<b>(ITEM MOD)</b> Mod to decoration such as posters.<br><b>Recommended mod:</b> Placing Anywhere ", 
-			"thumb": "https://raw.githubusercontent.com/stmSantana/InteriorWallDecorations/main/Images/Gallery/Gallery.jpg",
-			"modURL":"https://github.com/stmSantana/InteriorWallDecorations", 
-			"downloadURL":"https://github.com/stmSantana/InteriorWallDecorations/releases/latest/download/Wall_Interior.zip", 
-			"testedon":{
-				"tldversion":"2.00",
-				"mlversion":"0.5.4"
-			},
-			"dependencies":[
-				"ModComponent",
-				"ModSettings",
-				"GearSpawner",
-				"LocalizationUtilities",
-				"CraftingRevisions"
-			], 
-			"updater":{
-				"enable":false, 
-				"downloads":[] 
-			},
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
-		},
-		{
 			"name":"HowToSurviveBook", 
 			"displayName": "How To Survive Book",
 			"aliases":[], 
