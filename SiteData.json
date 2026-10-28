@@ -145,6 +145,10 @@
 		"MapManager":
 		{
 			"replaces":["MapTweaks"]
+		},
+		"MarcysPlantHarvestTweaker":
+		{
+			"replaces":["PlantHarvestTweaker"]
 		}
 	}
 }
