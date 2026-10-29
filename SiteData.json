@@ -4,7 +4,7 @@
 	"latestGameBreaking": "2.58",
 	"melonloaderVersion": "0.7.2",
 	"melonNightly":false,
-	"announcement":"<a href=\"https://discord.com/channels/322211727192358914/426083940676141058\" target=\"blank\" style=\"text-decoration: none;\">2026-10-29 - Mods are being updated following the latest DLC release</a><style>.main-content{padding-top: 155px !important;}</style>",
+	"announcement":"<a href=\"https://discord.com/channels/322211727192358914/426083940676141058\" target=\"blank\" style=\"text-decoration: none;\">2026-10-29 - Mods are being updated after the 2.58 update</a><style>.main-content{padding-top: 155px !important;}</style>",
 	"lists": [
 		"https://raw.githubusercontent.com/TLD-Mods/ModLists/refs/heads/master/xpazeman.json",
 		"https://raw.githubusercontent.com/TLD-Mods/ModLists/master/zeobviouslyfakeacc.json",
