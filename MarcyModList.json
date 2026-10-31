@@ -1,0 +1,555 @@
+{
+	"version": "2",
+	"author": "Marcy",
+	"authorURL": "https://github.com/DemonBunnyBon",
+	"supportURL": "https://ko-fi.com/marcythejinx",
+	"mods": [
+		{
+			"type": "mod",
+			"version": "1.1.6",
+			"name": "EdiblePlants",
+			"displayName": "Edible Plants",
+			"author": "Marcy",
+			"previousAuthors": "",
+			"released": "2024-02-13",
+			"updated": "2026-01-03",
+			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Edible-Plants/releases/download/1.1.6/EdiblePlants.dll",
+			"modURL": "https://github.com/DemonBunnyBon/TLD-Edible-Plants",
+			"description": "Makes harvested plants edible with customizable calories and Vitamin C.",
+			"tags": "food,plants,plant,eating,eat,nutrition,vitamin,rose hips,rosehips,lichen,reishi,burdock",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Food"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/main/THUMB_EP.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.2.2",
+			"name": "BowRepair",
+			"displayName": "Bow Repair",
+			"author": "Marcy",
+			"previousAuthors": "",
+			"released": "2024-03-10",
+			"updated": "2026-01-03",
+			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Bow-Repair/releases/download/1.2.2/BowRepair.dll",
+			"modURL": "https://github.com/DemonBunnyBon/TLD-Bow-Repair",
+			"description": "Makes all bows repairable, with customizable cost and location.",
+			"tags": "bow,repair,fix,milling,repairing,fixing,quality,gear",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Gear Items"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/THUMB_BR.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [
+				"Bow Repair"
+			],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "2.0.3",
+			"name": "PineNeedleTea",
+			"displayName": "Pine Needle Tea",
+			"author": "Marcy",
+			"previousAuthors": "",
+			"released": "2024-07-06",
+			"updated": "2026-01-03",
+			"downloadURL": "https://github.com/DemonBunnyBon/PineNeedleTea/releases/download/2.0.3/PineNeedleTea.zip",
+			"modURL": "https://github.com/DemonBunnyBon/PineNeedleTea",
+			"description": "Harvest pine fascicles and brew them into a tea high in Vitamin C. Everything is customizable.",
+			"tags": "pine,needle,tea,herbal,drink,foraging,forage,sleep,vitamin,beverage,nature",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Gear Items",
+				"Food"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/Thumb_PNT.jpg"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [
+				"PineNeedleTea",
+				"Pine Needle Tea"
+			],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.1",
+			"name": "CaffeinatedSodas",
+			"displayName": "Caffeinated Sodas",
+			"author": "Marcy",
+			"previousAuthors": "",
+			"released": "2024-12-08",
+			"updated": "2026-01-03",
+			"downloadURL": "https://github.com/DemonBunnyBon/CaffeinatedSodas/releases/download/1.0.1/CaffeinatedSodas.dll",
+			"modURL": "https://github.com/DemonBunnyBon/CaffeinatedSodas",
+			"description": "Sodas now reduce a slight amount of fatigue. Sodas often contain caffeine, so they're bound to give you at least a little kick, right?",
+			"tags": "soda,caffeine,fatigue,buff,energy,drink,food",
+			"categories": [
+				"Quality of Life",
+				"Food",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/THUMB_CS.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.5.0",
+			"name": "DroppableUndroppables",
+			"displayName": "Droppable Undroppables",
+			"author": "Marcy",
+			"previousAuthors": "",
+			"released": "2025-01-18",
+			"updated": "2025-04-06",
+			"downloadURL": "https://github.com/DemonBunnyBon/DroppableUndroppables/releases/download/1.5.0/DroppableUndroppables.dll",
+			"modURL": "https://github.com/DemonBunnyBon/DroppableUndroppables",
+			"description": "Drop any item anywhere without restriction. No more undroppable collectibles, cameras, or shortwaves.",
+			"tags": "gear,item,drop,inventory,respirator,camera,bolt cutters,shortwave,notes,note",
+			"categories": [
+				"Quality of Life",
+				"Gear Items",
+				"Misc"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/THUMB_DU.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.7.0",
+			"name": "PlantHarvestTweaker",
+			"displayName": "Plant Harvest Tweaker",
+			"author": "Marcy",
+			"previousAuthors": "",
+			"released": "2025-03-28",
+			"updated": "2026-01-03",
+			"downloadURL": "https://github.com/DemonBunnyBon/PlantHarvestTweaker/releases/download/1.7.0/PlantHarvestTweaker.dll",
+			"modURL": "https://github.com/DemonBunnyBon/PlantHarvestTweaker",
+			"description": "Customize everything about plant harvesting: time, required tools, tool degreadation, yield amount.",
+			"tags": "plants,gear,qol,quality of life,cheat,cheats,food,item,harvest,harvestable,plant,customization",
+			"categories": [
+				"Gameplay",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/THUMB_PHT.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "2.9.1",
+			"name": "HouseLights",
+			"displayName": "House Lights",
+			"author": "Marcy",
+			"previousAuthors": "Xpazeman",
+			"released": "2019-05-12",
+			"updated": "2026-01-03",
+			"downloadURL": "https://github.com/DemonBunnyBon/tld-house-lights/releases/download/2.9.1/HouseLights.dll",
+			"modURL": "https://github.com/DemonBunnyBon/tld-house-lights",
+			"description": "Magically brings back electricity on Great Bear! No more stumbling around houses in the darkness!",
+			"tags": "lights,light,cheat,house,switch,lighting,electric,electricity,power",
+			"categories": [
+				"Quality of Life",
+				"Graphics",
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/THUMB_HL.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "See github page.",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "InfiniteCheatDeath",
+			"displayName": "Infinite Cheat Death",
+			"author": "Marcy",
+			"previousAuthors": "",
+			"released": "2025-05-24",
+			"updated": "2025-05-24",
+			"downloadURL": "https://github.com/DemonBunnyBon/TLD-InfiniteCheatDeath/releases/download/1.0.0/InfiniteCheatDeath.dll",
+			"modURL": "https://github.com/DemonBunnyBon/TLD-InfiniteCheatDeath/tree/main",
+			"description": "Allows infinite amount of respawns. Penalties for cheating death are <i>not</i> removed.",
+			"tags": "death,cheat,respawn,life,lives",
+			"categories": [
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/THUMB_ICD.jpg"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.5.1",
+			"name": "BetterCamera",
+			"displayName": "Better Camera",
+			"author": "Marcy",
+			"previousAuthors": "",
+			"released": "2025-08-18",
+			"updated": "2026-01-03",
+			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Better-Camera/releases/download/1.5.1/BetterCamera.dll",
+			"modURL": "https://github.com/DemonBunnyBon/TLD-Better-Camera",
+			"description": "Improves the functionality of the camera by allowing to zoom, save photos to disk, and more",
+			"tags": "camera,photo,tweak,gear,item,picture,photos,pictures,dlc,tftft",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Gear Items",
+				"Overhaul",
+				"Utility Mod"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/THUMB_BC.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "MoreCookingSlots",
+			"displayName": "More Cooking Slots",
+			"author": "Marcy",
+			"previousAuthors": "",
+			"released": "2025-08-31",
+			"updated": "2025-08-31",
+			"downloadURL": "https://github.com/DemonBunnyBon/TLD-More-Cooking-Slots/releases/download/1.0.0/MoreCookingSlots.dll",
+			"modURL": "https://github.com/DemonBunnyBon/TLD-More-Cooking-Slots",
+			"description": "Ever wonder why you can't fit more than 2 pots on a fire barrel? Well, now you can! This mod adds more cooking slots to certain fire sources.",
+			"tags": "fire,fireplace,cooking,inventory,food,pots,pot,skillet,skillets,can,cans,grill,cook",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/THUMB_MCS.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "5.0.2",
+			"name": "Better-Night-Sky",
+			"displayName": "Better Night Sky",
+			"author": "Marcy",
+			"previousAuthors": "Jonayling,ds5678,zeboviouslyfakeacc,WulfMarius",
+			"released": "2017-08-29",
+			"updated": "2026-01-04",
+			"downloadURL": "https://github.com/DemonBunnyBon/BetterNightSky/releases/download/5.0.2/Better-Night-Sky.dll",
+			"modURL": "https://github.com/DemonBunnyBon/BetterNightSky/",
+			"description": "Overhauls the night sky with new features by adding meteor showers as well as giving the moon and stars a completely new look. ",
+			"tags": "sky,night,stars,comet,meteor,moon,space,graphics,texture,textures",
+			"categories": [
+				"Graphics",
+				"Overhaul",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/THUMB_BNS.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "0.7.5",
+			"name": "HUDPositioner",
+			"displayName": "HUD Positioner",
+			"author": "Marcy",
+			"previousAuthors": "",
+			"released": "2026-01-06",
+			"updated": "2026-01-06",
+			"downloadURL": "https://github.com/DemonBunnyBon/HUDPositioner/releases/download/0.7.5/HudPositioner.dll",
+			"modURL": "https://github.com/DemonBunnyBon/HUDPositioner",
+			"description": "Allows extended customization of the in-game UI elements by changing where they are anchored on the screen and freely adjusting their position via Mod Settings.",
+			"tags": "UI,GUI,HUD,graphics,element,status,stamina,panel,popup,move,position,positioning,anchor,display,bar,text,overlay",
+			"categories": [
+				"Quality of Life",
+				"Graphics",
+				"Utility Mod",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/THUMB_HP.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": true,
+				"patchnotes": "",
+				"notes": "Note: keep in mind that the mod does not prevent overlap of UI elements, you can use offsets to prevent UI elements from overlapping if you want them to be anchored to the same part of the screen.\nNote no.2: While the mod was tested using different screen resolutions it may cause the UI to offset in an unwated way on certain screen sizes, you can use the offsets in settings to mitigate this effect.",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [
+				"HUD Positioner"
+			],
+			"replaces": []
+		}
+	]
+}
