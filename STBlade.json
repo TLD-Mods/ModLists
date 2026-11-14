@@ -52,46 +52,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.5.5",
-			"name": "ModData",
-			"displayName": "Mod Data",
-			"author": "STBlade",
-			"previousAuthors": "",
-			"released": "2023-03-16",
-			"updated": "2026-01-02",
-			"downloadURL": "https://github.com/dommrogers/ModData/releases/download/1.5.5/ModData.dll",
-			"modURL": "https://github.com/dommrogers/ModData",
-			"description": "A utility mod for TLD that lets other mods save data independently of the save file.",
-			"tags": "",
-			"categories": [
-				"Utility Mod"
-			],
-			"gameversion": [
-				"vanilla"
-			],
-			"images": [
-			"https://github.com/dommrogers/mod_list/blob/master/moddata.png?raw=true"
-			],
-			"dependencies": [],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.51",
-				"mlversion": "0.7.2"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "1.0.0",
 			"name": "FixSteamWorkshopItems",
 			"displayName": "Fix Steam Workshop Items",
@@ -297,56 +257,6 @@
 				"downloads": []
 			},
 			"aliases": []
-		},
-		{
-			"type": "mod",
-			"version": "7.0.0",
-			"name": "ModComponent",
-			"displayName": "",
-			"author": "STBlade",
-			"previousAuthors": "<a href='https://github.com/ds5678' target='_blank'>ds5678</a>, <a href='https://github.com/WulfMarius' target='_blank'>WulfMarius</a>",
-			"released": "",
-			"updated": "2026-01-02",
-			"downloadURL": "https://github.com/dommrogers/ModComponent/releases/download/7.0.0/ModComponent.dll",
-			"modURL": "https://github.com/dommrogers/ModComponent",
-			"description": "Now includes GearSpawner,CraftingRevisions,LocalizationUtilities built in.\n\nUtility Mod; lets you load external item packs.",
-			"tags": "",
-			"categories": [],
-			"gameversion": [
-				"vanilla"
-			],
-			"images": [
-			"https://github.com/dommrogers/mod_list/blob/master/modcomponent.png?raw=true"
-			],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.51",
-				"mlversion": "0.7.2"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": [
-				"AssetLoader",
-				"ModComponentMapper",
-				"ModComponentAPI"
-			],
-			"replaces": [
-				"LocalizationUtilities",
-				"GearSpawner",
-				"CraftingRevisions"
-				]
-
 		},
 		{
 			"type": "mod",
