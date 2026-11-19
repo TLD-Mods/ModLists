@@ -62,7 +62,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/Clothing_Expanded.png"
+				"https://raw.githubusercontent.com/TLD-Mods/Modlist_Images/master/Clothing_Expanded.png"
 			],
 			"dependencies": [
 				"ModComponent"
@@ -103,7 +103,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/TLD-Mods/Modlist_Images/ML_CustomWhiteout.jpg"
+				"https://raw.githubusercontent.com/TLD-Mods/Modlist_Images/master/CustomWhiteout.png"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -148,7 +148,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/IWD1.jpg"
+				"https://raw.githubusercontent.com/TLD-Mods/Modlist_Images/master/IWD1.jpg"
 			],
 			"dependencies": [
 				"ModComponent"
@@ -188,7 +188,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/item-pile-mod-title.jpg"
+				"https://raw.githubusercontent.com/TLD-Mods/Modlist_Images/master/item-pile-mod-title.jpg"
 			],
 			"dependencies": [
 				"ModComponent"
@@ -234,7 +234,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/photomod.png"
+				"https://raw.githubusercontent.com/TLD-Mods/Modlist_Images/master/photomod.png"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -276,7 +276,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/storymodecollectibles.png"
+				"https://raw.githubusercontent.com/TLD-Mods/Modlist_Images/master/storymodecollectibles.png"
 			],
 			"dependencies": [
 				"ModComponent"
@@ -361,7 +361,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/wolfscarf.png"
+				"https://raw.githubusercontent.com/TLD-Mods/Modlist_Images/master/wolfscarf.png"
 			],
 			"dependencies": [
 				"ModComponent"
