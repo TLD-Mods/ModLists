@@ -103,7 +103,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/CoastalConnection.jpg"
+				"https://raw.githubusercontent.com/TLD-Mods/Modlist_Images/master/CoastalConnection.jpg"
 			],
 			"dependencies": [
 				""
@@ -189,7 +189,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/list_icon_infinitefires.jpg"
+				"https://raw.githubusercontent.com/TLD-Mods/Modlist_Images/master/list_icon_infinitefires.jpg"
 			],
 			"dependencies": [
 				""
@@ -317,7 +317,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML_MiseryModePlus.jpg"
+				"https://raw.githubusercontent.com/TLD-Mods/Modlist_Images/master/MiseryModePlus.png"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -404,7 +404,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/RandomizeInterloperRareSpawns.png"
+				"https://raw.githubusercontent.com/TLD-Mods/Modlist_Images/master/RandomizeInterloperRareSpawns.png"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -447,7 +447,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/SeasonedInterloping.png"
+				"https://raw.githubusercontent.com/TLD-Mods/Modlist_Images/master/SeasonedInterloping.png"
 			],
 			"dependencies": [
 				""
