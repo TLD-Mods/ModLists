@@ -13,8 +13,8 @@
 			"previousAuthors": "",
 			"released": "",
 			"updated": "2026-09-06",
-			"downloadURL": "https://github.com/moosemeat817/AutoUpdatePlugin/releases/download/2.0.1/AutoUpdatingPlugin.dll",
-			"modURL": "https://github.com/moosemeat817/AutoUpdatePlugin",
+			"downloadURL": "https://github.com/TLD-Mods/AutoUpdatePlugin/releases/download/2.0.1/AutoUpdatingPlugin.dll",
+			"modURL": "https://github.com/TLD-Mods/AutoUpdatePlugin",
 			"description": "Plugin. Updates most Mods & Plugins automatically.",
 			"tags": "",
 			"categories": [],
@@ -94,8 +94,8 @@
 			"previousAuthors": "ds5678",
 			"released": "2026-05-20",
 			"updated": "2026-05-20",
-			"downloadURL": "https://github.com/moosemeat817/CoastalConnection/releases/download/1.1.0/CoastalConnection.dll",
-			"modURL": "https://github.com/moosemeat817/CoastalConnection",
+			"downloadURL": "https://github.com/TLD-Mods/CoastalConnection/releases/download/1.1.0/CoastalConnection.dll",
+			"modURL": "https://github.com/TLD-Mods/CoastalConnection",
 			"description": "This mod connects Coastal Highway and Bleak Inlet by their shared road.",
 			"tags": "",
 			"categories": [
@@ -122,7 +122,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/CoastalConnection/releases/download/1.1.0/CoastalConnection.dll"
+					"https://github.com/TLD-Mods/CoastalConnection/releases/download/1.1.0/CoastalConnection.dll"
 				]
 			},
 			"aliases": [],
@@ -137,8 +137,8 @@
 			"previousAuthors": "MikeyPdog , ds5678",
 			"released": "2025-02-20",
 			"updated": "2026-01-03",
-			"downloadURL": "https://github.com/moosemeat817/CustomWhiteout/releases/download/3.1.0/CustomWhiteout.dll",
-			"modURL": "https://github.com/moosemeat817/CustomWhiteout",
+			"downloadURL": "https://github.com/TLD-Mods/CustomWhiteout/releases/download/3.1.0/CustomWhiteout.dll",
+			"modURL": "https://github.com/TLD-Mods/CustomWhiteout",
 			"description": "A mod for the Long Dark letting you experience a custom whiteout challenge.",
 			"tags": "",
 			"categories": [
@@ -165,7 +165,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/CustomWhiteout/releases/download/3.1.0/CustomWhiteout.dll"
+					"https://github.com/TLD-Mods/CustomWhiteout/releases/download/3.1.0/CustomWhiteout.dll"
 				]
 			},
 			"aliases": [],
@@ -180,8 +180,8 @@
 			"previousAuthors": "DigitalZombie",
 			"released": "2026-04-04",
 			"updated": "2026-04-08",
-			"downloadURL": "https://github.com/moosemeat817/InfiniteFires/releases/download/1.5.0/InfiniteFiresDLC.dll",
-			"modURL": "https://github.com/moosemeat817/InfiniteFires",
+			"downloadURL": "https://github.com/TLD-Mods/InfiniteFires/releases/download/1.5.0/InfiniteFiresDLC.dll",
+			"modURL": "https://github.com/TLD-Mods/InfiniteFires",
 			"description": "It was always burning, since the world's been turning.",
 			"tags": "",
 			"categories": [
@@ -208,7 +208,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/InfiniteFires/releases/download/1.5.0/InfiniteFiresDLC.dll"
+					"https://github.com/TLD-Mods/InfiniteFires/releases/download/1.5.0/InfiniteFiresDLC.dll"
 				]
 			},
 			"aliases": [],
@@ -223,8 +223,8 @@
 			"previousAuthors": "Atlas Lumi, Thekillergreece, stmSantana",
 			"released": "2026-03-26",
 			"updated": "2026-03-26",
-			"downloadURL": "https://github.com/moosemeat817/InteriorWallDecorations/releases/download/2.1.0/InteriorWallDecorations.zip",
-			"modURL": "https://github.com/moosemeat817/InteriorWallDecorations",
+			"downloadURL": "https://github.com/TLD-Mods/InteriorWallDecorations/releases/download/2.1.0/InteriorWallDecorations.zip",
+			"modURL": "https://github.com/TLD-Mods/InteriorWallDecorations",
 			"description": "Let's you decorate your base with pictures, and upload your own.",
 			"tags": "",
 			"categories": [
@@ -265,8 +265,8 @@
 			"previousAuthors": "Atlas Lumi",
 			"released": "2026-03-17",
 			"updated": "2026-07-03",
-			"downloadURL": "https://github.com/moosemeat817/ItemPiles/releases/download/3.0.1/ItemPiles.modcomponent",
-			"modURL": "https://github.com/moosemeat817/ItemPiles",
+			"downloadURL": "https://github.com/TLD-Mods/ItemPiles/releases/download/3.0.1/ItemPiles.modcomponent",
+			"modURL": "https://github.com/TLD-Mods/ItemPiles",
 			"description": "Adds blueprints for stacked items.",
 			"tags": "",
 			"categories": [
@@ -293,7 +293,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/ItemPiles/releases/download/3.0.1/ItemPiles.modcomponent"
+					"https://github.com/TLD-Mods/ItemPiles/releases/download/3.0.1/ItemPiles.modcomponent"
 				]
 			},
 			"aliases": [],
@@ -308,8 +308,8 @@
 			"previousAuthors": "",
 			"released": "2026-03-10",
 			"updated": "2026-03-10",
-			"downloadURL": "https://github.com/moosemeat817/MiseryModePlus/releases/download/1.0.0/MiseryModePlus.dll",
-			"modURL": "https://github.com/moosemeat817/MiseryModePlus",
+			"downloadURL": "https://github.com/TLD-Mods/MiseryModePlus/releases/download/1.0.0/MiseryModePlus.dll",
+			"modURL": "https://github.com/TLD-Mods/MiseryModePlus",
 			"description": "Mod for The Long Dark that adds more spawn locations in misery mode and adds a custom setting to enable misery afflictions for custom runs.  Formerly Additional Misery Spawns and Misery in Custom Games.",
 			"tags": "",
 			"categories": [
@@ -337,7 +337,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/MiseryModePlus/releases/download/1.0.0/MiseryModePlus.dll"
+					"https://github.com/TLD-Mods/MiseryModePlus/releases/download/1.0.0/MiseryModePlus.dll"
 				]
 			},
 			"aliases": [],
@@ -352,8 +352,8 @@
 			"previousAuthors": "Atlas Lumi",
 			"released": "2026-03-17",
 			"updated": "2026-03-17",
-			"downloadURL": "https://github.com/moosemeat817/Photo-of-a-Loved-One/releases/download/0.7.0/PhotoOfALovedOne.zip",
-			"modURL": "https://github.com/moosemeat817/Photo-of-a-Loved-One",
+			"downloadURL": "https://github.com/TLD-Mods/Photo-of-a-Loved-One/releases/download/0.7.0/PhotoOfALovedOne.zip",
+			"modURL": "https://github.com/TLD-Mods/Photo-of-a-Loved-One",
 			"description": "This mod allows you to carry a customizable picture of something you care about.",
 			"tags": "",
 			"categories": [
@@ -395,8 +395,8 @@
 			"previousAuthors": "DS5678",
 			"released": "2026-05-19",
 			"updated": "2026-05-19",
-			"downloadURL": "https://github.com/moosemeat817/RandomizeInterloperRareSpawns/releases/download/1.3.0/RandomizeInterloperRareSpawns.zip",
-			"modURL": "https://github.com/moosemeat817/RandomizeInterloperRareSpawns",
+			"downloadURL": "https://github.com/TLD-Mods/RandomizeInterloperRareSpawns/releases/download/1.3.0/RandomizeInterloperRareSpawns.zip",
+			"modURL": "https://github.com/TLD-Mods/RandomizeInterloperRareSpawns",
 			"description": "About A mod for The Long Dark that randomizes Interloper loot.",
 			"tags": "",
 			"categories": [
@@ -438,8 +438,8 @@
 			"previousAuthors": "ds5678",
 			"released": "2026-05-20",
 			"updated": "2026-05-20",
-			"downloadURL": "https://github.com/moosemeat817/SeasonedInterloping/releases/download/1.3.0/SeasonedInterloping.dll",
-			"modURL": "https://github.com/moosemeat817/SeasonedInterloping",
+			"downloadURL": "https://github.com/TLD-Mods/SeasonedInterloping/releases/download/1.3.0/SeasonedInterloping.dll",
+			"modURL": "https://github.com/TLD-Mods/SeasonedInterloping",
 			"description": "Mod for The Long Dark that adds Forsaken Airfield, ZOC, Sundered Pass and Bleak Inlet to the Interloper region list.",
 			"tags": "",
 			"categories": [
@@ -466,7 +466,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/SeasonedInterloping/releases/download/1.3.0/SeasonedInterloping.dll"
+					"https://github.com/TLD-Mods/SeasonedInterloping/releases/download/1.3.0/SeasonedInterloping.dll"
 				]
 			},
 			"aliases": [],
@@ -481,8 +481,8 @@
 			"previousAuthors": "",
 			"released": "2026-03-17",
 			"updated": "2026-03-17",
-			"downloadURL": "https://github.com/moosemeat817/StoryModeCollectibles/releases/download/2.1.0/StorymodeCollectibles.modcomponent",
-			"modURL": "https://github.com/moosemeat817/StoryModeCollectibles",
+			"downloadURL": "https://github.com/TLD-Mods/StoryModeCollectibles/releases/download/2.1.0/StorymodeCollectibles.modcomponent",
+			"modURL": "https://github.com/TLD-Mods/StoryModeCollectibles",
 			"description": "Adds collectible items from Wintermute into survival mode.",
 			"tags": "",
 			"categories": [
@@ -510,7 +510,7 @@
 			},
 			"updater": {
 				"enable": true,
-				"downloads": ["https://github.com/moosemeat817/StoryModeCollectibles/releases/download/2.1.0/StorymodeCollectibles.modcomponent"]
+				"downloads": ["https://github.com/TLD-Mods/StoryModeCollectibles/releases/download/2.1.0/StorymodeCollectibles.modcomponent"]
 			},
 			"aliases": []
 		},
@@ -566,8 +566,8 @@
 			"previousAuthors": "Atlas Lumi",
 			"released": "2026-03-17",
 			"updated": "2026-03-17",
-			"downloadURL": "https://github.com/moosemeat817/WolfskinScarf/releases/download/2.0.0/WolfskinScarf.modcomponent",
-			"modURL": "https://github.com/moosemeat817/WolfskinScarf",
+			"downloadURL": "https://github.com/TLD-Mods/WolfskinScarf/releases/download/2.0.0/WolfskinScarf.modcomponent",
+			"modURL": "https://github.com/TLD-Mods/WolfskinScarf",
 			"description": "Adds a new craftable scarf made of wolf fur.",
 			"tags": "",
 			"categories": [
@@ -595,7 +595,7 @@
 			},
 			"updater": {
 				"enable": true,
-				"downloads": ["https://github.com/moosemeat817/WolfskinScarf/releases/download/2.0.0/WolfskinScarf.modcomponent"]
+				"downloads": ["https://github.com/TLD-Mods/WolfskinScarf/releases/download/2.0.0/WolfskinScarf.modcomponent"]
 			},
 			"aliases": []
 		}
